@@ -1,0 +1,19 @@
+{
+  "id": "4c7a2a63-ccee-4ba7-9de9-3bbbf2f21c8c",
+  "nameRu": "Призыв аберрации",
+  "nameEn": "Conjure Aberration",
+  "level": 4,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (призма стоимостью не менее 50 зм, пропитанная чуждой энергией Дальнего Предела)",
+  "duration": "Концентрация, 1 час",
+  "descriptionMarkdown": "Вы сжимаете компонент и разрываете реальность, вызывая появление Аберрации в пределах дистанции. До окончания заклинания действуют следующие правила.\n\n**Характеристики.** При накладывании бросьте d4 и сверьтесь с таблицей: появляется указанная Аберрация со своим блоком характеристик. Вместо результата можно выбрать любой результат ниже выпавшего.\n\n**Бой.** Аберрация разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать устные приказы без затрат действия. Если приказов нет или они выполнены, она перемещается и безжалостно защищает себя.\n\n**Накладывание заклинаний.** Если Аберрация умеет накладывать заклинания, вы можете приказать ей это делать, но она использует ваши ячейки, даже если обычно обходится без них.\n\n**Контроль.** Если заклинание оканчивается из-за прерывания концентрации, Аберрация остаётся, но выходит из-под контроля. До окончания длительности заклинания или падения до 0 хитов она действует согласно мировоззрению.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше вы получаете +1 к броску определения Аберрации за каждый уровень ячейки выше 4-го.\n\n| Результат | Аберрация |\n| --- | --- |\n| 1 | Фламф (Flumph) |\n| 2 | Наблюдатель (Spectator) |\n| 3 | Чууль (Chull — написание исходника) |\n| 4 | Красный слаад (Red Slaad) |\n| 5 | Синий слаад (Blue Slaad) |\n| 6+ | Пожиратель разума (Mind Flayer) |",
+  "originalText": "Conjure Aberration\n4th-level Conjuration\nClasses: Warlock, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a prisim worth at least 50 gold, bathed\nin the aberrant energies of the Far Realm).\nDuration: Concentration, 1 hour\nYou grasp the material component of this spell, tearing a rift\nin reality, causing an Aberration to appear in range. For the\nduration, the Aberration uses the rules below:\nStatistics. When you cast the spell, roll a d4 and consult\nthe table below. The Aberration corresponding to your result\nappears, using its stat block. Alternately, you can choose any\nresult lower than yours to appear in its place.\nCombat. The Aberration shares your initiative and acts on\nyour turn. You can give it verbal order (no action required). If\nthe Aberration does not receive any orders, or its orders are\ncompleted, it moves and defends itself with prejudice.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nControl. If the spell ends because your concentration was\nbroken, the Aberration remains, but is no longer under your\ncontrol. For the duration of the spell, or until it is reduced to\n0 hit points, the Aberration acts according to its alignment.\nAt Higher Levels. When you cast this spell using a spell\nslot of 5th-level or higher, you gain a +1 bonus to your roll to\ndeterming the Aberration conjured for each slot above 4th.\nDie Roll Aberration Die Roll Aberration\n1 Flumph 4 Red Slaad\n2 Spectator 5 Blue Slaad\n3 Chull 6+ Mind Flayer"
+}

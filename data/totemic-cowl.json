@@ -1,0 +1,18 @@
+{
+  "id": "040d217a-cdfc-4f93-80e4-4a1442f395ab",
+  "nameRu": "Тотемный покров",
+  "nameEn": "Totemic Cowl",
+  "level": 2,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Шаман"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С, М (лист, собранный в первый день осени)",
+  "duration": "1 час",
+  "descriptionMarkdown": "Вы касаетесь согласного существа. До окончания заклинания оно укрыто призрачным покровом, и любой получаемый им урон уменьшается на 2.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше уменьшение урона увеличивается на 1 за каждый уровень ячейки выше 2-го.",
+  "originalText": "Totemic Cowl\n2nd-level Abjuration\nClasses: Shaman\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (a leaf from the first day of fall)\nDuration: 1 hour\nYou touch a willing creature. Until the spell ends, it is cloaked\nin a ghostly cowl, and any damage it takes is reduced by 2.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, the damage reduction from the\ncowl increases by 1 for each slot level above 2nd."
+}

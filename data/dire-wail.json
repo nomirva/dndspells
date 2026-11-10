@@ -1,0 +1,20 @@
+{
+  "id": "83966374-6a7c-400e-9962-225e0e6e039d",
+  "nameRu": "Жуткий вой",
+  "nameEn": "Dire Wail",
+  "level": 3,
+  "school": "Некромантия",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Бард",
+    "Шаман",
+    "Сосуд"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя (радиус 30 футов)",
+  "components": "В",
+  "duration": "1 минута",
+  "descriptionMarkdown": "Вы издаёте вой, наполненный потусторонней силой. Выбранные существа в пределах 30 футов должны преуспеть в спасброске Телосложения, иначе получат 4d10 урона звуком и оглохнут до окончания заклинания. В конце каждого хода цели могут совершать спасбросок Телосложения, оканчивая заклинание при успехе. При успешном исходном спасброске цель получает половину урона и не глохнет.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше урон увеличивается на 1d10 за каждый уровень ячейки выше 3-го.",
+  "originalText": "Dire Wail\n3rd-level Necromancy\nClasses: Bard, Shaman, Vessel\nCasting Time: 1 action\nRange: Self (30-foot radius)\nComponents: V\nDuration: 1 minute\nYou let forth a wail filled with otherworldly power. Creatures\nof your choice within 30 feet must succeed on a Constitution\nsaving throw or take 4d10 thunder damage and be deafened\nfor the duration. At the end of each turn, targets can make a\nConstitution saving throw, ending the spell on a success. On\na successful save, it takes half damage and is not deafened.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, the damage increases by 1d10 for\neach slot level above 3rd."
+}

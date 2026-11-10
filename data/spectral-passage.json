@@ -1,0 +1,22 @@
+{
+  "id": "5de684ae-2031-41bb-8a37-ee0fde9c1977",
+  "nameRu": "Призрачный проход",
+  "nameEn": "Spectral Passage",
+  "level": 3,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион",
+    "Шаман",
+    "Чародей",
+    "Сосуд",
+    "Колдун"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С, М (предмет, сквозь который прошёл дух)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы касаетесь согласного существа. До окончания заклинания оно становится частично бестелесным и может проходить сквозь других существ и предметы как через труднопроходимую местность. Если оно заканчивает перемещение внутри другого предмета или существа, его немедленно выталкивает в ближайшее свободное пространство. Оно получает 1d10 урона силовым полем за каждые 5 футов такого принудительного перемещения.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше вы можете выбрать ещё одно существо за каждый уровень ячейки выше 3-го.",
+  "originalText": "Spectral Passage\n3rd-level Transmutation\nClasses: Psion, Shaman, Sorcerer, Vessel, Warlock\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (an object a spirit has passed through)\nDuration: Concentration, up to 1 minute\nYou touch a willing creature. Until the spell ends, it becomes\nsemi-incorporeal and can move through other creatures and\nobjects as if they were difficult terrain. If the creature ends its\nmovement inside another object or creature, it is immediately\nshunted to the nearest unoccupied space, taking 1d10 force\ndamage for every 5 feet it was forced to travel.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, you can target one additional\ncreature for each slot level above 3rd."
+}

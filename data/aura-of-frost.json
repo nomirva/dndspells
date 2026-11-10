@@ -1,0 +1,20 @@
+{
+  "id": "79f8e306-b82c-4aab-8d03-c763f021964c",
+  "nameRu": "Аура мороза",
+  "nameEn": "Aura of Frost",
+  "level": 2,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Магус",
+    "Чародей"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя (радиус 10 футов)",
+  "components": "В",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Магические иней, снег и ветер кружатся вокруг вас аурой радиусом 10 футов. До окончания заклинания аура движется вместе с вами, оставаясь с центром на вас. Когда любое другое существо впервые за ход входит в область или начинает там свой ход, оно совершает спасбросок Телосложения. При провале получает 2d8 урона холодом, а его скорость уменьшается на 20 футов до начала его следующего хода. При успехе получает половину урона холодом, и скорость не уменьшается.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше за каждый уровень ячейки выше 2-го существо, провалившее спасбросок, получает ещё 1d8 урона холодом, а его скорость уменьшается ещё на 10 футов.",
+  "originalText": "Aura ooff Frost\n2nd-level Conjuration\nClasses: Druid, Magus, Sorcerer\nCasting Time: 1 action\nRange: Self (10 foot radius)\nComponents: V\nDuration: Concentration, up to 1 minute\nArcane frost, snow, and wind swirl about you in an aura with\na 10-foot radius, and until the spell ends, the aura moves with\nyou, centered on you. When a creature other than you, enters\nthe area for the first time on a turn or starts its turn there, it\nmust succeed on a Constitution saving throw or it takes 2d8\ncold damage and have its speed is reduced by 20 feet until\nthe start of its next turn. On a successful save, it takes half as\nmuch cold damage and its speed isn't reduced.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, a creature that fails its save takes\nan additional 1d8 cold damage and has its speed reduced by\nan additional 10 feet for each spell level above 2nd."
+}

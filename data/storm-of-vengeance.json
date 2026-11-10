@@ -1,0 +1,19 @@
+{
+  "id": "9037e5ba-305b-40fe-8d49-a75000946353",
+  "nameRu": "Буря возмездия",
+  "nameEn": "Storm of Vengeance",
+  "level": 9,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Жрец",
+    "Друид"
+  ],
+  "castingTime": "1 действие",
+  "range": "В пределах видимости",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "Вы призываете ужасающую массу грозовых туч с центром в видимой точке, распространяющуюся в радиусе 360 футов. Вы полностью невосприимчивы к эффектам этой мрачной бури. Яростный ветер, гром и молнии наполняют её, заставляя всех существ внутри и под бурей совершить спасбросок Телосложения. При провале они получают 2d6 урона звуком и остаются оглохшими, пока находятся в области.\n\nВ каждый последующий раунд бури вы можете действием добавить или прекратить один из перечисленных погодных эффектов, действующий до окончания заклинания. Они воздействуют на всех существ и предметы внутри и под бурей; каждый можно добавить лишь один раз.\n\n**Кислотный дождь.** Из туч льёт кислота, нанося всем существам 1d6 урона кислотой в конце каждого вашего хода.\n\n**Ледяной дождь.** Из туч льёт ледяной дождь. Область становится труднопроходимой местностью и сильно заслонённой. Цели в ней получают 1d6 урона холодом в конце каждого вашего хода.\n\n**Град.** Вы наполняете бурю лютым холодом. В конце каждого вашего хода существа и предметы в области получают 2d6 дробящего урона, а посевы уничтожаются.\n\n**Сильный ветер.** Бушуют ветры скоростью до 50 миль в час, мгновенно рассеивая туман, дымку и подобные эффекты, обычные и магические. Дальнобойные атаки в области становятся невозможны.\n\n**Удары молний.** Вы заряжаете бурю молниями. Бонусным действием в каждый ход вы можете вызвать из туч шесть молний, каждая поражает выбранные цели в области. Они совершают спасбросок Ловкости: при провале получают 10d6 урона электричеством, при успехе — половину.",
+  "originalText": "Storm ooff Vengeance ALT\n9th-level Conjuration\nClasses: Cleric, Druid\nCasting Time: 1 action\nRange: Sight\nComponents: V, S\nDuration: Concentration, up to 1 hour\nYou conjure a terrifying mass of storm clouds centered on a\npoint you can see, spreading outward to a radius of 360 feet.\nYou are completely immune to the effects of this dark storm.\nViolent winds, thunder, and lighting fill the storm, forcing all\ncreatures within and below the storm to make a Constitution\nsaving throw. On a failed save, they take 2d6 thunder damage\nand are Deafened while they remain in the area.\nEach subsequent round the storm lasts, you can use your\naction to add (or end) one of the weather effects below, which\nlasts for the duration. They affect all creatures and objects in\nand below the storm, and each can only be added once:\nAcid Rain. Acidic rain falls from the clouds, dealing 1d6\nacid damage to all creatures at the end of each of your turns.\nFreezing Rain. Frigid rain falls from the clouds. The area\nbecomes difficult terrain and heavily obscured. Targets in the\narea take 1d6 cold damage at the end of each of your turns.\nHail Stones. You infuse the storm with bitter cold. At the\nend of each of your turns, creatures and objects in the area\ntake 2d6 bludgeoning damage and crops are destroyed.\nHigh Winds. Strong winds up to 50 miles per hour rage,\ninstantly dispersing all fog, mist, or similar effects, mundane\nor magical. Ranged attacks in the area become impossible.\nLightning Strikes. You charge the storm with lightning. As\na bonus action on each turn, you can call six bolts of lighting\nfrom the cloud, each striking targets of your choice within the\narea. They must make a Dexterity saving throw, taking 10d6\nlighting damage on a failure, and half on a success."
+}

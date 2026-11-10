@@ -1,0 +1,19 @@
+{
+  "id": "be4e7b83-603d-4ade-9397-c12e7c82f612",
+  "nameRu": "Цепкая лоза",
+  "nameEn": "Grasping Vine",
+  "level": 3,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Следопыт"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "30 футов",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы выращиваете лозу из земли в видимом свободном пространстве в пределах дистанции. При накладывании она бьёт видимую цель в пределах 30 футов от себя. Совершите рукопашную атаку заклинанием по цели. При попадании цель получает 2d8 дробящего урона. Если её размер Большой или меньше, её притягивает к лозе на расстояние до 30 футов и опутывает.\n\nОпутанное существо может действием совершить проверку Силы или Ловкости против вашей Сл спасброска от заклинаний, чтобы освободиться.\n\nБонусным действием в каждый последующий ход вы можете приказать лозе ударить другую цель. Если лоза опутывает существо, вместо этого она наносит ему 2d8 дробящего урона.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше лоза при попадании наносит ещё 1d8 урона за каждый уровень ячейки выше 3-го.",
+  "originalText": "Grasping Vine ALT\n3rd-level Conjuration\nClasses: Druid, Ranger\nCasting Time: 1 bonus action\nRange: 30 feet\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYou cause a vine to sprout from the ground in an unoccupied\nspace you can see within range. When you cast this spell, the\nvine strikes at a target you can see within 30 feet of it. Make a\nmelee spell attack against the target, and on hit, it takes 2d8\nbludgeoning damage. If the target is Large or smaller, then it\nis pulled up to 30 feet toward the vine and Restrained by it.\nAs an action, a Restrained creature can make a Strength or\nDexterity check against your Spell save DC to escape.\nAs a bonus action on each subsequent turn, you can cause\nthe vine to strike at another target. If the vine is Restraining a\ncreature, it instead deals 2d8 bludgeoning damage to it.\nAt Higher Levels. If you cast this spell with a spell slot of\n4th-level or higher, the vine deals an additional 1d8 damage\non hit for each slot level above 3rd."
+}

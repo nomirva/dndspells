@@ -1,0 +1,19 @@
+{
+  "id": "988b386b-9821-4f12-a3a3-c7756b5e243a",
+  "nameRu": "Стрелковый кордон",
+  "nameEn": "Cordon of Arrows",
+  "level": 2,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "5 футов",
+  "components": "В, С, М (три или более стрелы либо болта)",
+  "duration": "8 часов",
+  "descriptionMarkdown": "Вы втыкаете в землю в пределах дистанции три боеприпаса дальнобойного оружия и преобразуете их для защиты местности. Первое существо, оказавшееся в пределах 30 футов от зачарованных боеприпасов, совершает спасбросок Ловкости. При провале получает 3d6 колющего урона, при успехе — половину.\n\nПри накладывании вы можете обозначить любое число существ, которых заклинание будет игнорировать.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше количество преобразуемых боеприпасов увеличивается на два за каждый уровень ячейки выше 2-го. Каждый дополнительный преобразованный боеприпас увеличивает урон на 1d6.",
+  "originalText": "Cordon ooff Arrows ALT\n2nd-level Transmutation\nClasses: Artificer, Ranger\nCasting Time: 1 action\nRange: 5 feet\nComponents: V, S, M (three or more arrows or bolts)\nDuration: 8 hours\nYou plant three pieces of ranged weapon ammunition in the\nground within range and transmute them to protect the area.\nThe first creature to move within 30 feet of this enchanted\nammunition must make a Dexterity saving throw. The target\ntakes 3d6 piercing damage on a failed save, and half as much\npiercing damage on a successful save.\nAs part of casting this spell, you can designate any number\nof creatures you choose, and the spell ignores them.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, the amount of ammunition that can\nbe transmuted increases by two for each slot level above 2nd.\nFor each additional piece of ammunition you transmute with\nthis spell, the damage increases by 1d6."
+}

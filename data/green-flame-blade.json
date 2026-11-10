@@ -1,0 +1,21 @@
+{
+  "id": "b7094ff4-d3ed-4529-90d5-25cc7d42a706",
+  "nameRu": "Клинок зелёного пламени",
+  "nameEn": "Green-Flame Blade",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Магус",
+    "Чародей",
+    "Колдун"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "На себя",
+  "components": "В, М (простое или воинское рукопашное оружие)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Бонусным действием вы окутываете использованное при накладывании рукопашное оружие изумрудным пламенем. До начала вашего следующего хода атаки этим оружием наносят урон огнём вместо обычного типа урона оружия.\n\nОдин раз за накладывание, нанося этим заклинанием урон огнём, вы можете заставить пламя перескочить на другое видимое существо в пределах 5 футов от цели, нанеся ему 1d6 урона огнём.\n\n**На высоких уровнях.** Урон огнём второму существу увеличивается на 5-м уровне до 1d8, на 11-м — до 1d10, на 17-м — до 1d12.",
+  "originalText": "Green-Flame Blade ALT\nEvocation Cantrip\nClasses: Artificer, Magus, Sorcerer, Warlock\nCasting Time: 1 bonus action\nRange: Self\nComponents: V, M (a simple or martial melee weapon)\nDuration: Instantaneous\nAs a bonus action, you wreathe the melee weapon used in\nthe casting of this spell with emerald flames. Until the start\nof your next turn, your attacks with that weapon deal fire\ndamage in place of the weapon's normal damage type.\nOnce per casting when you deal fire damage with this spell,\nyou can cause the flames to leap to another creature you can\nsee within 5 feet of your target, dealing 1d6 fire damage to it.\nAt Higher Levels. The fire damage dealt to the second\ncreature by this spell increases at 5th level (1d8), 11th level\n(1d10), and 17th level (1d12)."
+}

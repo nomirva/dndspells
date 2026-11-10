@@ -1,0 +1,20 @@
+{
+  "id": "80b2f0ec-ad18-426f-91f4-253f41901aa5",
+  "nameRu": "Создание нежити",
+  "nameEn": "Create Undead",
+  "level": 4,
+  "school": "Некромантия",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Жрец",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "10 минут",
+  "range": "30 футов",
+  "components": "В, С, М (труп существа, убитого в течение последних суток, и кровь заклинателя; оба компонента расходуются при накладывании)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Это заклинание можно накладывать только ночью. В зловещем ритуале вы проливаете кровь на труп, уменьшая свой максимум хитов на 2 и создавая подконтрольного Скелета или Зомби. Созданная Нежить использует следующие правила.\n\n**Управление.** Нежить беспрекословно выполняет ваши приказы. Без приказа она не перемещается и лишь защищает себя. В бою вся созданная вами Нежить разделяет вашу инициативу и действует в ваш ход.\n\nБонусным действием вы можете мысленно приказать любому числу созданной вами Нежити в пределах 120 футов. Каждому существу можно дать отдельный точный приказ или задать общий порядок действий («защищай этот зал»). Пока Нежить подконтрольна вам, она выполняет приказы до завершения.\n\n**Накладывание заклинаний.** Если Нежить умеет накладывать заклинания, вы можете приказать ей это делать, но она использует ваши ячейки, даже если обычно обходится без них.\n\n**Связь с нежитью.** Пока Нежить подконтрольна вам, потраченный на её создание максимум хитов нельзя восстановить. Завершая продолжительный отдых, вы можете отпустить любую созданную вами Нежить и вернуть потраченный на неё максимум хитов. Освободившаяся Нежить враждебна ко всему живому, особенно к заклинателю.\n\n**На высоких уровнях.** Более высокие ячейки и дополнительные затраты максимума хитов позволяют создавать более сильную Нежить:\n\n| Уровень ячейки | Максимум хитов | Нежить |\n| --- | --- | --- |\n| 5-й | 3 | Упырь (Ghoul) |\n| 6-й | 6 | Вурдалак (Ghast) |\n| 7-й | 9 | Мумия (Mummy), Умертвие (Wight) |\n| 8-й | 12 | Пылающий череп (Flameskull) |\n| 9-й | 15 | Ревенант (Revenant), Отродье вампира (Vampire Spawn) |",
+  "originalText": "Create Undead\n4th-level Necromancy\nClasses: Cleric, Warlock, Wizard\nCasting Time: 10 minutes\nRange: 30 feet\nComponents: V, S, M (the corpse of a creature slain within\nthe last day, and blood from the spellcaster, both of which\nare consumed by the casting of this spell)\nDuration: Instantaneous\nThis spell can only be cast at night. You spill your blood onto\nthe corpse as part of a sinister ritual, reducing your maximum\nhit points by 2 and creating a Skeleton or Zombie under your\ncontrol. Undead created by this spell use the rules below:\nControl. Undead follow your commands without quesion.\nIf not given a command, an Undead won't move and will only\nact to defend itself. In combat, any Undead you created share\nyour initiative and act during your turn.\nAs a bonus action, you can mentally command any number\nof Undead you created with within 120 feet. You can issue an\nindividual command to each, determining exactly how it will\nact, or setting a general course of action (\"defend this hall\").\nSo long as they remain under your control, your Undead will\nfollow commands until completed.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nUndead Bond. While an Undead is under your control, you\ncannot regain the maximum hit points you spent to create it.\nHowever, when you finish a long rest, you can release control\nover any Undead that you created to regain the maximum hit\npoints you spent to create them. When freed, Undead become\nhostil to all living things, the spellcaster in particular.\nAt Higher Levels. You can cast this spell with a spell slot\nof a higher level, and expend additional maximum hit points\n(Max. HP) to create more powerful Undead, as shown here:\nSlot Level Max. HP Undead\n5th 3 Ghoul\n6th 6 Ghast\n7th 9 Mummy, Wight\n8th 12 Flameskull\nRevenant,\n9th 15\nVampire Spawn"
+}

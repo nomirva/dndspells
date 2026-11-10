@@ -1,0 +1,18 @@
+{
+  "id": "2a9ed0cd-a2fe-482d-b645-cd27f0ae317e",
+  "nameRu": "Божественное благоволение",
+  "nameEn": "Divine Favor",
+  "level": 1,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "На себя",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Ваша молитва наполняет божественным сиянием одно выбранное оружие в пределах 10 футов от вас. До окончания заклинания атаки этим оружием при попадании наносят дополнительно 1d4 урона излучением.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше вы выбираете ещё одно оружие в пределах 10 футов за каждый уровень ячейки выше 1-го.",
+  "originalText": "Divine Favor ALT\n1st-level Evocation\nClasses: Paladin\nCasting Time: 1 bonus action\nRange: Self\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYour prayer empowers one weapon of your choice within 10\nfeet of you with divine radiance. Until the spell ends, attacks\nwith that weapon deal an extra 1d4 radiant damage on a hit.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd level or higher, you target one additional weapon\nwithin 10 feet of you for each slot level above 1st."
+}

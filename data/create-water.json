@@ -1,0 +1,19 @@
+{
+  "id": "3fb24b04-1765-4741-892c-bc80d06048a5",
+  "nameRu": "Создание воды",
+  "nameEn": "Create Water",
+  "level": 1,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Жрец",
+    "Друид"
+  ],
+  "castingTime": "1 минута",
+  "range": "30 футов",
+  "components": "В, С, М (капля воды при создании воды или песчинка при уничтожении воды)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы создаёте до 10 галлонов чистой воды в пределах дистанции. Вода появляется в видимых открытых ёмкостях или выпадает дождём в радиусе 30 футов с центром на вас, гася всё пламя.\n\n**Обратное накладывание.** Вы можете использовать заклинание для уничтожения воды: уничтожить до 10 галлонов воды в открытых ёмкостях в пределах дистанции либо туман в радиусе 30 футов с центром на вас.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше за каждый уровень ячейки выше 1-го вы можете создать (или уничтожить) ещё 10 галлонов воды либо увеличить радиус эффекта на 10 футов.",
+  "originalText": "Create Water ALT\n1st-level Transmutation\nClasses: Cleric, Druid\nCasting Time: 1 minute\nRange: 30 feet\nComponents: V, S, M (a drop of water if creating water, or a\ngrain of sand if destroying water)\nDuration: Instantaneous\nYou create up to 10 gallons of clean water within range. The\nwater appears in open containers you can see, or falls as rain\nin a 30-foot radius centered on you, extinguishing all flames.\nInverse Casting. You can use this spell to destory water.\nYou destroy up to 10 gallons of water in open containers in\nrange, or destroy fog in a 30-foot radius centered on you.\nAt Higher Levels. If you cast this spell with a spell slot of\n2nd level or higher, you can create (or destroy) an additional\n10 gallons of water, or the radius of this spell effect increases\nby 10 feet, for each slot level above 1st."
+}

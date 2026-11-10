@@ -1,0 +1,18 @@
+{
+  "id": "6b180f4c-9733-48fe-b6be-94cbec7b95dd",
+  "nameRu": "Спиритический сеанс",
+  "nameEn": "Seance",
+  "level": 0,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Шаман"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С",
+  "duration": "1 действие",
+  "descriptionMarkdown": "Вы призываете малых духов, позволяя им действовать через вас и вновь влиять на материальный мир. Вы создаёте в пределах дистанции один из следующих эффектов:\n\n- Мгновенный безвредный ощутимый эффект: мерцающее лазурное пламя, неестественно холодный ветерок, ритмичное пение или запах благовоний.\n- Малый дух ненадолго появляется и исчезает.\n- Вы мгновенно зажигаете или гасите свечу, факел или небольшой костёр.\n- Частица переливающегося света указывает на ближайшее место духовной силы, недавней смерти или нового рождения.\n- Лей-линии в пределах дистанции ненадолго становятся видны, мерцая потусторонним светом.",
+  "originalText": "Seance\nTransmutation Cantrip\nClasses: Shaman\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S\nDuration: 1 action\nYou channel minor spirits, allowing them to work through\nyou so that they may once again affect change in the material\nworld. You create one of the following effects within range:\n• You create an instantaneous, harmless sensory effect,\nsuch as a flickering azure flame, an unnaturally chill\nbreeze, rhythmic chanting, or the smell of incense.\n• A minor spirit briefly appears and fades away.\n• You instantaneously light or snuff out a candle, torch,\nor a small campfire.\n• A mote or iridescent light points to the closest place\nof spiritual power, recent death, or new birth.\n• Ley lines within range briefly reveal themselves as they\nflicker with otherworldly light."
+}

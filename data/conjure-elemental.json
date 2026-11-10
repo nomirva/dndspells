@@ -1,0 +1,21 @@
+{
+  "id": "0266e824-bbce-4fa2-85e1-0b0e64135d98",
+  "nameRu": "Призыв элементаля",
+  "nameEn": "Conjure Elemental",
+  "level": 3,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Следопыт",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (драгоценный камень стоимостью не менее 50 зм, содержащий частицу чистой стихии воздуха, земли, огня или воды)",
+  "duration": "Концентрация, 1 час",
+  "descriptionMarkdown": "Сжимая материальный компонент, вы призываете Элементаля соответствующей стихии. Пока сохраняется концентрация, он дружелюбен к вам и вашим союзникам и исполняет все ваши приказы. До окончания заклинания действуют следующие правила.\n\n**Характеристики.** Элементаль появляется в выбранном видимом свободном пространстве в пределах дистанции. Он принимает внешность и характеристики Элементаля с ПО 3 или ниже, стихия которого соответствует компоненту.\n\n**Бой.** Элементаль разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать устные приказы без затрат действия. Если приказа нет или он выполнен, Элементаль лишь защищает себя.\n\n**Накладывание заклинаний.** Если Элементаль умеет накладывать заклинания, вы можете приказать ему это делать, но он использует ваши ячейки, даже если обычно обходится без них.\n\n**Контроль.** Если ваша концентрация прервётся, Элементаль останется, но выйдет из-под контроля. До окончания длительности заклинания или падения до 0 хитов он действует согласно своему мировоззрению, повсюду сея хаос и разрушение.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше предельный ПО призываемого Элементаля увеличивается на 1 за каждый уровень ячейки выше 3-го.",
+  "originalText": "Conjure Elemental\n3rd-level Conjuration\nClasses: Druid, Ranger, Warlock, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a gemstone containing a mote of pure\nelemental air, earth, fire, or water, worth at least 50 gold)\nDuration: Concentration, 1 hour\nGrasping the material component of the spell, you conjure an\nElemental whose makeup matches the material component.\nWhile your concentration lasts, the Elemental is Friendly to\nyou and your allies and obeys all of your commands. For the\nduration, the Elemental uses the rules below:\nStatistics. The Elemental appears in an unoccupied space\nof your choice you can see in range. It takes on the statistics\nand appearance of an Elemental of CR 3 or lower, so long as\nits makeup matches that of the material component.\nCombat. The Elemental shares your initiative and it acts\nduring your turn. You can give it verbal commands (no action\nrequired). If the Elemental does not receive a command, or its\ncommands are completed, it will only defend itself.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nControl. If your concentration on this spell is broken, the\nElemental remains, but is no longer under your control. For\nthe duration of the spell, or until it is reduced to 0 hit points,\nthe Elemental will act according to its alignment, spreading\nchaos and destruction wherever it can.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th level or higher, the CR of Elemental that you can\nconjure increases by 1 for each slot level above 3rd."
+}

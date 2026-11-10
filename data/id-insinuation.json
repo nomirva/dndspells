@@ -1,0 +1,18 @@
+{
+  "id": "035532aa-7a46-4dd6-99ea-a3913c63581d",
+  "nameRu": "Нашёптывание подсознания",
+  "nameEn": "Id Insinuation",
+  "level": 1,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы вызываете бурю противоречивых желаний в разуме одного видимого существа в пределах дистанции. Оно должно преуспеть в спасброске Мудрости, иначе станет недееспособным до окончания заклинания.\n\nСущество может повторять этот спасбросок в конце каждого своего хода и каждый раз, когда получает урон, оканчивая эффект при успехе.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше вы можете выбрать ещё одно существо за каждый уровень ячейки выше 1-го. При выборе цели должны находиться в пределах 30 футов друг от друга.",
+  "originalText": "IIdd Insinuation\n1st-level Enchantment\nClasses: Psion\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYou unleash a storm of conflicting desires within the mind of\none creature you can see within range. It must succeed on a\nWisdom saving throw or be incapacitated for the duration.\nThe creature can repeat this Wisdom saving throw at the\nend of each of its turns and each time that it takes damage,\nending the effects of this spell on a successful save.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd level or higher, you can target one additional\ncreature for each slot level above 1st. The creatures must be\nwithin 30 feet of each other when you target them."
+}

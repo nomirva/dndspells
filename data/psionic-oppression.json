@@ -1,0 +1,18 @@
+{
+  "id": "3899352b-55b2-4ef2-9dfd-a4661bd31f22",
+  "nameRu": "Псионический гнёт",
+  "nameEn": "Psionic Oppression",
+  "level": 6,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "1 минута",
+  "descriptionMarkdown": "Вы псионически подавляете разум одного видимого существа в пределах дистанции. Оно должно преуспеть в спасброске Интеллекта, иначе получит 12d6 урона психической энергией и будет ошеломлено на 1 минуту. При успехе цель получает половину урона и не ошеломлена.\n\nОшеломлённая цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.",
+  "originalText": "Psionic Oppression\n6th-level Enchantment\nClasses: Psion\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: 1 minute\nYou psionically overwhelm the mind of one creature you can\nsee within range. It must succeed on an Intelligence saving\nthrow or it takes 12d6 psychic damage and is stunned for 1\nminute. On a successful save, the target takes half as much\npsychic damage and is not stunned.\nThe stunned target can repeat the saving throw at the end\nof each of its turns, ending the effect on a success."
+}

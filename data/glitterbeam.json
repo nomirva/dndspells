@@ -1,0 +1,21 @@
+{
+  "id": "33b0c3bb-3872-4002-bfdd-0464ac4bd905",
+  "nameRu": "Мерцающий луч",
+  "nameEn": "Glitterbeam",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Бард",
+    "Жрец",
+    "Магус",
+    "Сосуд"
+  ],
+  "castingTime": "1 действие",
+  "range": "120 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы направляете луч мерцающего света в существо или предмет в пределах дистанции. Совершите дальнобойную атаку заклинанием по цели. При попадании она получает 1d8 урона излучением. До начала вашего следующего хода существо испускает яркий свет в радиусе 10 футов и совершает с помехой проверки Скрытности, чтобы Спрятаться.\n\n**На высоких уровнях.** Урон увеличивается на 1d8 на 5-м (2d8), 11-м (3d8) и 17-м (4d8) уровнях.",
+  "originalText": "Glitterbeam\nEvocation Cantrip\nClasses: Bard, Cleric, Magus, Vessel\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S\nDuration: Instantaneous\nYou project a beam of twinkling lights at a creature or object\nwithin range. Make a ranged spell attack against the target.\nOn a hit, it takes 1d8 radiant damage. Until the start of your\nnext turn, the creature emits bright light in a 10-foot radius\nand has disadvantage on Stealth checks to Hide.\nAt Higher Levels. The damage of this spell increases\nby 1d8 at 5th (2d8), 11th (3d8), and 17th level (4d8)."
+}

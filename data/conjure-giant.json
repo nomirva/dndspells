@@ -1,0 +1,19 @@
+{
+  "id": "50dc8568-44a9-46f3-a799-2825f6a2b054",
+  "nameRu": "Призыв великана",
+  "nameEn": "Conjure Giant",
+  "level": 5,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (драгоценный камень стоимостью не менее 500 зм, на котором Штормовой Великан лично начертал свою руну)",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "Вы сжимаете компонент и призываете на помощь частицу сущности этого Штормового Великана. Пока сохраняется концентрация, она дружелюбна к вам и союзникам и исполняет приказы. До окончания заклинания действуют следующие правила.\n\n**Характеристики.** Титаническая сущность принимает форму Холмового Великана (Hill Giant) с соответствующим блоком характеристик. Она появляется в выбранном свободном пространстве в пределах дистанции.\n\n**Бой.** Великан разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать устные приказы без затрат действия. Если приказов нет или они выполнены, он безжалостно защищает себя.\n\n**Накладывание заклинаний.** Если Великан умеет накладывать заклинания, вы можете приказать ему это делать, но он использует ваши ячейки, даже если обычно обходится без них.\n\n**Контроль.** Когда концентрация оканчивается, Великан мгновенно исчезает, а сущность возвращается к Штормовому Великану.\n\n**На высоких уровнях.** Более высокие ячейки позволяют сущности принимать формы более сильных Великанов:\n\n| Ячейка | Великан |\n| --- | --- |\n| 6-я | Каменный Великан (Stone Giant) |\n| 7-я | Ледяной Великан (Frost Giant) |\n| 8-я | Огненный Великан (Fire Giant) |\n| 9-я | Облачный Великан (Cloud Giant) |",
+  "originalText": "Conjure Giant\n5th-level Conjuration\nClasses: Druid, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a gemstone worth at least 500 gold,\npersonally inscribed with the Rune of a Storm Giant)\nDuration: Concentration, up to 1 hour\nGrasping the material component of this spell, you conjure\na portion of that Storm Giants's essence to your aid. While\nyour concentration lasts, it is Friendly to you and your allies\nand obeys your commands. For the duration, this titanic\nessence uses the rules below:\nStatistics. The titanic essence manifests in the form of a\nHill Giant, and uses the corresponding stat block. It appears\nin an unoccupied space of your choice within range.\nCombat. In combat, this Giant shares your initiative and\nacts on your turn. You can give it verbal commands (no action\nrequired). If the Giant does not receive any commands, or if\nits commands are completed, it defend itself with prejudice.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nControl. If your concentration ends, the Giant instantly\ndisappears, the essence returning to the Storm Giant.\nAt Higher Levels. You can cast this spell with higher level\nspell slots to cause this titanic essence to take on the form of\nmore powerful Giants, as shown in the table below:\nSpell Slot Giant\n6th Stone Giant\n7th Frost Giant\n8th Fire Giant\n9th Cloud Giant"
+}

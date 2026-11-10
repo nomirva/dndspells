@@ -1,0 +1,20 @@
+{
+  "id": "b75b1841-0bb1-4538-87b2-0ac1759899b6",
+  "nameRu": "Эфирный якорь",
+  "nameEn": "Ethereal Anchor",
+  "level": 1,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Паладин",
+    "Псион",
+    "Сосуд"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С, М (серебряный гвоздь)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы выпускаете заряд чистого духа в существо в пределах дистанции. Совершите дальнобойную атаку заклинанием по цели. При попадании она получает 3d6 урона излучением, а её скорость до окончания заклинания уменьшается до 0: духовный заряд пригвождает её к месту. Любое существо может действием совершить проверку Силы против вашей Сл спасброска от заклинаний, оканчивая эффект при успехе.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше урон излучением увеличивается на 1d6 за каждый уровень ячейки выше 1-го.",
+  "originalText": "Ethereal Anchor\n1st-level Evocation\nClasses: Paladin, Psion, Vessel\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S, M (a silver nail)\nDuration: Concentration, up to 1 minute\nYou hurl a bolt of pure spirit at a creature within range. Make\na ranged spell attack against your target. On hit, it takes 3d6\nradiant damage and for the duration, its speed is reduced to 0\nas it is pinned in place by the spiritual bolt. As an action, any\ncreature can make a Strength ability check against your Spell\nsave DC, ending this spell's effects on a success.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd level or higher, the radiant damage increases by\n1d6 for each slot level above 1st."
+}

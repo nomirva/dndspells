@@ -1,0 +1,18 @@
+{
+  "id": "b67b48e1-69bc-417a-b64c-e66d4eeb1d9d",
+  "nameRu": "Психическое сокрушение",
+  "nameEn": "Psychic Crush",
+  "level": 5,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 действие",
+  "range": "90 футов",
+  "components": "В",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы обрушиваете всю силу воли на видимое существо в пределах дистанции. Оно совершает спасбросок Силы: при провале получает 5d8 урона силовым полем, при успехе — половину. В конце каждого своего хода оно повторяет спасбросок, получая при провале 2d8 урона силовым полем и оканчивая эффект при успехе.\n\nЕсли это заклинание уменьшает хиты существа до 0, оно сминается в шар телесного цвета размером примерно с ваш кулак.\n\n**На высоких уровнях.** При использовании ячейки 6-го уровня или выше каждый вид урона силовым полем увеличивается на 1d8 за каждый уровень ячейки выше 5-го.",
+  "originalText": "Psychic Crush\n5th-level Evocation\nClasses: Psion\nCasting Time: 1 action\nRange: 90 feet\nComponents: V\nDuration: Concentration, up to 1 minute\nYou exert the full force of your will upon a creature you can\nsee within range. It must succeed on a Strength saving throw,\ntaking 5d8 force damage on a failure and half as much force\ndamage on a success. It must repeat this saving throw at the\nend of each of its turns, taking 2d8 force damage on a failure,\nand ending the effects of this spell on a success.\nIf this spell reduces a creature to 0 hit points it is crushed\ninto a flesh-colored ball, roughly the size of your fist.\nAt Higher Levels. When you cast this spell using a spell\nslot of 6th-level or higher, each instance of force damage it\ndeals increases by 1d8 for each spell slot level above 5th."
+}

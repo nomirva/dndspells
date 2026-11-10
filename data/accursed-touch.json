@@ -1,0 +1,24 @@
+{
+  "id": "55319167-c2e1-46ff-aa87-34406bef75d9",
+  "nameRu": "Проклятое прикосновение",
+  "nameEn": "Accursed Touch",
+  "level": 4,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Жрец",
+    "Магус",
+    "Шаман",
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С, М (чешуйка василиска)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы пытаетесь превратить существо в камень. Действием коснитесь существа, заставляя его совершить спасбросок Телосложения. При провале оно становится опутанным: плоть начинает твердеть. При успехе эффект отсутствует.\n\nОпутанное этим заклинанием существо совершает новый спасбросок Телосложения в конце каждого своего хода. После трёх успехов заклинание оканчивается. После трёх провалов существо превращается в камень и становится окаменевшим. Успехи и провалы не обязаны идти подряд: учитывайте оба, пока не накопятся три успеха или три провала.\n\nЕсли окаменевшую цель физически повредят, соответствующие увечья сохранятся после возвращения в исходное состояние.\n\nЕсли вы сохраняете концентрацию всю длительность, существо остаётся каменным, пока эффект не будет снят.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше число провалов, необходимых для окаменения, уменьшается на 1 за каждый уровень ячейки выше 4-го, до минимума 1.",
+  "originalText": "Accursed Touch\n4th-level Transmutation\nClasses: Druid, Cleric, Magus, Shaman, Sorcerer, Warlock,\nWizard\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (a basilisk scale)\nDuration: Concentration, up to 1 minute\nYou attempt to transmute a creature into stone. As an action,\nyou touch a creature, forcing it to make a Constitution saving\nthrow. On a failed save, the creature is Restrained as its flesh\nbegins to harden. On a successful save, it is not affected.\nA creature Restrained by this spell must make another\nConstitution saving throw at the end of each of its turns. If it\nsaves against this spell three times, the spell ends. Should it\nfail three saves, it is turned to stone and Petrified. Successes\nand failures don't need to be consecutive; keep track of both\nuntil the creature fails or passes three saves.\nIf the target is physically broken while Petrified, it suffers\nfrom similar deformities if it reverts to its original state.\nIf you maintain your concentration for the entire duration,\nthe creature is turned to stone until the effect is removed.\nAt Higher Levels. When you cast this spell using a spell\nslot of 5th level or higher, the number of saves that the target\nmust fail before it is turned to stone and Petrified is reduced\nby 1 (to a minimum of 1) for each level above 4th."
+}

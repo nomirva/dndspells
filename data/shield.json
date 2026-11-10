@@ -1,0 +1,21 @@
+{
+  "id": "b48156f3-674c-40cf-810b-f5b6770ce342",
+  "nameRu": "Щит",
+  "nameEn": "Shield",
+  "level": 1,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Магус",
+    "Псион",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 реакция, совершаемая, когда по вам попадает видимая вами атака или вы становитесь целью «Волшебной стрелы» (magic missile)",
+  "range": "На себя",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Мерцающая преграда магической силы появляется, защищая вас. До конца текущего хода вы получаете бонус к Классу Доспеха, равный 1 + ваш модификатор заклинательной характеристики, и не получаете урона от заклинания «Волшебная стрела» (magic missile).\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше бонус к Классу Доспеха увеличивается на 1 за каждый уровень ячейки выше 1-го.",
+  "originalText": "Shield ALT\n1st-level Abjuration\nClasses: Magus, Psion, Sorcerer, Wizard\nCasting Time: 1 reaction, which you take when you are hit\nby an attack you can see or targeted by magic missile\nRange: Self\nComponents: V, S\nDuration: Instantaneous\nA shimmering barrier of magical force appears to protect\nyou. Until the end of the current turn, you gain a bonus to\nyour Armor Class equal to 1 + your Spellcasting modifier\nand you take no damage from the magic missile spell.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the bonus to your Armor Class\nincreases by 1 for each slot level above 1st."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5b1cb3fc-25ba-4e00-830e-5bc32585ccab",
+  "nameRu": "Стихийный клинок",
+  "nameEn": "Elemental Blade",
+  "level": 2,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Магус",
+    "Чародей"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "На себя",
+  "components": "В, С, М (обугленная деревянная рукоять)",
+  "duration": "Концентрация, вплоть до 10 минут",
+  "descriptionMarkdown": "Вы создаёте в свободной руке стихийный клинок, выбирая тип урона: кислота, холод, огонь, электричество, яд или звук. Клинок выглядит созданным из выбранной стихии и существует до окончания заклинания. Если вы его отпустите, он исчезнет, но бонусным действием вы можете создать его снова, не тратя ячейку.\n\nКаждый раз, когда вы могли бы совершить рукопашную атаку, вы можете вместо неё совершить рукопашную атаку заклинанием этим клинком по цели в пределах досягаемости. При попадании цель получает урон выбранного типа, равный 2d6 + ваш модификатор заклинательной характеристики.\n\nВ вашей руке клинок испускает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов дальше.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше урон увеличивается на 1d6 за каждые два уровня ячейки выше 2-го.",
+  "originalText": "Elemental Blade\n2nd-level Conjuration\nClasses: Druid, Magus, Sorcerer\nCasting Time: 1 bonus action\nRange: Self\nComponents: V, S, M (a charred wooden hilt)\nDuration: Concentration, up to 10 minutes\nYou evoke an elemental blade in a free hand, choosing one of\nthe following damage types: acid, cold, fire, lightning, poison,\nor thunder. The elemental blade appears as if it were made of\nthe chosen element, and lasts for the duration. If you let go of\nthe blade, it disappears, but you can evoke the blade again as\na bonus action without expending a spell slot.\nWhenever you would make a melee attack, you can make\na melee spell attack with the elemental blade against a target\nwithin your reach. On hit, it takes damage of the chosen type\nequal to 2d6 + your spellcasting modifier.\nWhile in your hand, the blade sheds bright light in a 10-foot\nradius and dim light an additional 10 feet beyond that.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th level or higher, the damage increases by 1d6 for\nevery two slot levels above 2nd."
+}

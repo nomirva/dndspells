@@ -1,0 +1,18 @@
+{
+  "id": "a3a468ac-d3ab-483f-88a6-7acb70ddee98",
+  "nameRu": "Град шипов",
+  "nameEn": "Hail of Thorns",
+  "level": 1,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Следопыт"
+  ],
+  "castingTime": "При попадании",
+  "range": "60 футов",
+  "components": "В",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Попав по существу в пределах дистанции дальнобойной атакой оружием, вы можете взорвать боеприпас градом шипов. Помимо обычного эффекта атаки, её цель и каждое существо в пределах 5 футов должны совершить спасбросок Ловкости. При провале существо получает 1d10 колющего урона, при успехе — половину.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше урон увеличивается на 1d10 за каждый уровень ячейки выше 1-го.",
+  "originalText": "Hail ooff Thorns ALT\n1st-level Conjuration\nClasses: Ranger\nCasting Time: On hit\nRange: 60 feet\nComponents: V\nDuration: Instantaneous\nWhen you hit a creature within range with a ranged weapon\nattack, you can cause the piece of ammunition to explode into\na hail of thorns. In addition to the normal effect of the attack,\nthe target of your attack and each creature within 5 feet must\nmake a Dexterity saving throw. Creatures take 1d10 piercing\ndamage on a failure, or half as much damage on a success.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the damage increases by 1d10 for\neach slot level above 1st."
+}

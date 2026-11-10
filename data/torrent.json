@@ -1,0 +1,21 @@
+{
+  "id": "1f8cede0-0e28-4f71-b819-fc6d8f699f0e",
+  "nameRu": "Поток",
+  "nameEn": "Torrent",
+  "level": 1,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Магус",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя (линия 30 футов)",
+  "components": "В, С, М (зеркало)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Из вас вырывается поток стихийной воды по линии длиной 30 футов и шириной 5 футов в выбранном направлении. Каждое существо в области совершает спасбросок Силы. При провале оно получает 1d12 урона холодом, отталкивается на 10 футов по прямой и падает ничком. При успехе получает половину урона, не перемещается и не падает. Существа Огромного и более крупных размеров совершают спасбросок с преимуществом.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше за каждый уровень ячейки выше 1-го урон увеличивается на 1d12, а дистанция отталкивания — ещё на 10 футов.",
+  "originalText": "Torrent\n1st-level Evocation\nClasses: Druid, Magus, Sorcerer, Wizard\nCasting Time: 1 action\nRange: Self (30 foot line)\nComponents: V, S, M (a mirror)\nDuration: Instantaneous\nA burst of elemental water erupts from you in a line 30 feet\nlong and 5 feet wide in a direction you choose, forcing any\ncreature in that area to make a Strength saving throw. On a\nfailure, it takes 1d12 cold damage and is knocked back 10\nfeet in a straight line and falls prone. On a success, it takes\nhalf as much damage and is not moved or knocked prone. A\nHuge or larger creature has advantage on its saving throw.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the damage increases by 1d12 and\nit knocks back 10 additional feet for each slot level above 1st."
+}

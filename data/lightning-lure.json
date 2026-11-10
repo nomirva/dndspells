@@ -1,0 +1,23 @@
+{
+  "id": "90d265fd-2c7b-4c7b-8ebd-84d057e1cb38",
+  "nameRu": "Притягивающая молния",
+  "nameEn": "Lightning Lure",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Магус",
+    "Чародей",
+    "Сосуд",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 атака",
+  "range": "На себя (радиус 15 футов)",
+  "components": "В",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы создаёте плеть магической молнии и бьёте ею одно выбранное видимое существо в пределах 15 футов. Оно должно преуспеть в спасброске Силы, иначе получит 1d8 урона электричеством и будет притянуто к вам по прямой на расстояние до 10 футов.\n\n**На высоких уровнях.** Дистанция увеличивается на 5-м уровне до 20 футов, на 11-м — до 25 футов, на 17-м — до 30 футов.",
+  "originalText": "Lightning Lure ALT\nEvocation Cantrip\nClasses: Artificer, Magus, Sorcerer, Vessel, Warlock, Wizard\nCasting Time: 1 attack\nRange: self (15-foot-radius)\nComponents: V\nDuration: Instantaneous\nYou create a lash of arcane lightning and strikes at a creature\nof your choice you can see within 15 feet. It must succeed on\na Strength saving throw or take 1d8 lightning damage and be\npulled in a straight line up to 10 feet toward you.\nAt Higher Levels. The range of this spell increases at 5th\nlevel (20 feet), 11th level (25 feet), and 17th level (30 feet)."
+}

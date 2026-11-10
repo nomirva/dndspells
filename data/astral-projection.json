@@ -1,0 +1,21 @@
+{
+  "id": "725a76da-42b6-4040-a561-60806dac5959",
+  "nameRu": "Астральная проекция",
+  "nameEn": "Astral Projection",
+  "level": 6,
+  "school": "Прорицание",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Жрец",
+    "Псион",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 час",
+  "range": "На себя",
+  "components": "В, С, М (мифриловый шнур длиной 10 футов стоимостью 1 000 зм на каждую цель, расходуемый заклинанием)",
+  "duration": "Особая",
+  "descriptionMarkdown": "Вы отделяете душу от тела и проецируете её на Астральный план. На самом Астральном плане заклинание проваливается. Физическое тело остаётся без сознания в состоянии приостановленной жизнедеятельности: ему не нужны воздух, еда и вода, оно не стареет. Душа использует следующие правила.\n\n**Астральное тело.** Душа формирует вокруг себя Астральное тело — точную копию физического тела с вашими характеристиками и имуществом. Из центра спины тянется серебряный шнур, становящийся невидимым через 1 фут. Урон и другие эффекты, воздействующие на Астральное тело, не влияют на физическое и не переносятся на него при возвращении.\n\n**Серебряный шнур.** Шнур связывает душу с физическим телом. Пока он цел, вы можете найти обратный путь. Если шнур перерезан — это возможно лишь эффектом, прямо указывающим такую возможность, — душа и тело навсегда разделяются, и вы мгновенно умираете.\n\n**Окончание заклинания.** Если вы покидаете Астральный план через портал на другой план либо возвращаетесь на план накладывания, физическое тело с имуществом перемещается вдоль серебряного шнура, и вы вновь входите в тело там.\n\nЗаклинание оканчивается, если вы прекращаете его действием, если на Астральное или физическое тело накладывают заклинание вроде «Рассеивания магии» (dispel magic) либо если хиты любого тела уменьшаются до 0. При таком окончании душа мгновенно возвращается по шнуру в физическое тело, где вы пробуждаетесь.\n\n**На высоких уровнях.** При использовании ячейки 7-го уровня или выше вы можете выбрать ещё три существа за каждый уровень ячейки выше 6-го. Все дополнительные существа должны оставаться в пределах 10 футов от вас всё время накладывания.",
+  "originalText": "Astral Projection ALT\n6th-level Divination\nClasses: Cleric, Psion, Warlock, Wizard\nCasting Time: 1 hour\nRange: Self\nComponents: V, S, M (a 10-foot long cord of mithril worth\n1,000 gold for each target, which the spell consumes).\nDuration: Special\nYou separate your soul from your body, projecting it into the\nAstral Plane (The spell fails if you cast it on the Astral Plane).\nYour physical body is left behind, Unconscious and in a state\nof suspended animation; it does not need air, food, nor water,\nand it does not age. Your soul uses the following rules:\nAstral Body. Your soul forms an Astral Body around itself.\nIt is an exact replica of your physical body with your statistics\nand posessions, though a silver cord extends from the center\nof its back, turning invisibile after 1 foot. Any damage or other\neffects that apply to it don't affect your physical body or carry\nover to it when you return to your body.\nSilver Cord. This cord tethers your soul to your physical\nbody, and as long as it is intact, you can find your way to your\nphysical body. If the cord is severed (which only happens if an\neffect specifically states that it does), your soul and body are\npermanently separated, killing you instantly.\nEnding the Spell. If you leave the Astral Plane through a\nportal to another plane or return to the plane where the spell\nwas cast, your physical body and its possessions travel along\nyour silver cord, and you re-enter your physical body there.\nThe spell ends if you use your action to end it, if a spell like\ndispel magic is cast on your Astral Body or physical body, or if\neither body is reduced to 0 hit points. When the spell ends in\nthis way, your soul instantly travels along your silver cord and\nreturns to your physical body, where you awaken.\nAt Higher Levels. If you cast this spell with a spell slot of\n7th-level or higher, you can target three additional creatures\nfor each spell slot level above 6th.\nAny additional creatures must remain within 10 feet of you\nwhile you cast the spell."
+}

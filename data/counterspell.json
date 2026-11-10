@@ -1,0 +1,21 @@
+{
+  "id": "62a322c3-df81-4ffa-aae5-9fcb6c1c0d58",
+  "nameRu": "Контрзаклинание",
+  "nameEn": "Counterspell",
+  "level": 3,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Магус",
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 реакция, совершаемая, когда вы видите, как существо в пределах 60 футов накладывает заклинание",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы пытаетесь прервать накладывание заклинания другим существом. Вы и цель совершаете проверки своих заклинательных характеристик. Цель добавляет к проверке уровень своего заклинания, а вы — уровень, на котором накладываете это «Контрзаклинание».\n\nЕсли вы знаете заклинание, которое пытается наложить существо, или подготовили его, вы совершаете проверку с преимуществом, кроме случаев применения против другого «Контрзаклинания».\n\nЕсли результат вашей проверки выше результата проверки цели, её заклинание проваливается и не оказывает эффекта.",
+  "originalText": "Counterspell ALT\n3rd-level Abjuration\nClasses: Magus, Sorcerer, Warlock, Wizard\nCasting Time: 1 reaction, which you take when you see a\ncreature within 60 feet of you casting a spell\nRange: 60 feet\nComponents: V, S\nDuration: Instantaneous\nYou attempt to interrupt a creature in the process of casting a\nspell. You and the target both make an ability check with your\nrespective spellcasting abilities. The target adds the level of\nthe spell it is casting to its ability check, and you add the level\nat which you cast this counterspell to your ability check.\nIf you know the spell the creature is attempting to cast or if\nyou have it prepared you have advantage on this ability check,\nunless you are using this spell against another counterspell.\nIf the result of your ability check is greater then the result\nof the target's ability check, its spell fails and has no effect."
+}

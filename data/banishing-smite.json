@@ -1,0 +1,18 @@
+{
+  "id": "04987b63-3337-4893-9e85-0ba1b9fad87e",
+  "nameRu": "Изгоняющая кара",
+  "nameEn": "Banishing Smite",
+  "level": 5,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Попав рукопашной атакой оружием, вы можете заставить оружие затрещать чистой магической силой. Атака наносит дополнительно 5d10 урона силовым полем. Если после неё у цели остаётся 50 хитов или меньше, цель изгоняется с текущего плана.\n\nЕсли цель родом с другого плана существования, она исчезает и возвращается на родной план. Если она родом с текущего плана, она изгоняется в безопасный демиплан, где становится недееспособной. Когда заклинание оканчивается, цель возвращается в пространство, откуда была изгнана, либо в ближайшее свободное пространство.\n\nЕсли цель родом не с текущего плана существования, дополнительный урон силовым полем увеличивается на 1d10.\n\n**На высоких уровнях.** При использовании ячейки 6-го уровня или выше дополнительный урон силовым полем увеличивается на 1d10 за каждый уровень ячейки выше 5-го.",
+  "originalText": "Banishing Smite ALT\n5th-level Evocation\nClasses: Paladin\nCasting Time: On hit\nRange: Self\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Concentration, up to 1 minute\nWhen you hit with a melee weapon attack you can cause the\nweapon to crackle with pure arcane force. This attack deals\n5d10 bonus force damage, and if it reduces the target to 50\nhit points or fewer, it is banished from the current plane.\nIf the target is native to a different plant of existence than\nthe one you are currently on, it disappears, returning to its\nhome plane. If the target is native to your current plane, it is\nbanished to a harmless demiplane where it is incapacitated.\nWhen the spell ends, the target returns to the space it was\nbanished from, or the nearest unoccupied space.\nIf the target is not native to your current plane of existence\nthis bonus force damage increases by 1d10.\nAt Higher Levels. When you cast this spell using a spell\nslot of 6th-level or higher, the bonus force damage increases\nby 1d10 for each spell slot level above 5th."
+}

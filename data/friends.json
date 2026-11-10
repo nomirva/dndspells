@@ -1,0 +1,22 @@
+{
+  "id": "bb4b9b84-c2c5-4009-9151-6c8eeb650f7a",
+  "nameRu": "Дружба",
+  "nameEn": "Friends",
+  "level": 0,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Псион",
+    "Чародей",
+    "Сосуд",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя",
+  "components": "С, М (немного грима, наносимого на лицо при накладывании)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы наполняете слова успокаивающей магией и заставляете одно выбранное существо, которое слышит и понимает вас, совершить спасбросок Мудрости. При провале до окончания заклинания вы совершаете с преимуществом все проверки Харизмы, направленные на это существо.\n\nПри успешном спасброске существо понимает, что вы пытались магически повлиять на него, и становится враждебным к вам. Склонное к насилию существо может напасть, а другие могут искать иные способы отомстить.",
+  "originalText": "Friends ALT\nEnchantment Cantrip\nClasses: Bard, Psion, Sorcerer, Vessel, Wizard\nCasting Time: 1 action\nRange: Self\nComponents: S, M (a small amount of makeup applied to\nthe face as this spell is cast)\nDuration: Concentration, up to 1 minute\nYou lace your words with soothing magic and force a creature\nof your choice that can hear and understand you to make a\nWisdom saving throw. On a failure, you have advantage on all\nCharisma checks directed at that creature for the duration.\nOn a successful save, the creature realizes that you used\nmagic to attempt to influence it and becomes hostile toward\nyou. A creature prone to violence might attack you, and other\ncreatures might seek retribution against you in other ways."
+}

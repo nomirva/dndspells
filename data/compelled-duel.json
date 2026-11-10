@@ -1,0 +1,18 @@
+{
+  "id": "a4fd6006-e6b4-4f39-85f8-cc9e138735eb",
+  "nameRu": "Вынужденная дуэль",
+  "nameEn": "Compelled Duel",
+  "level": 1,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "30 футов",
+  "components": "В",
+  "duration": "1 минута",
+  "descriptionMarkdown": "Вы произносите вызов, исполненный божественной власти, выбирая одно существо в пределах дистанции, которое слышит и понимает вас. До окончания заклинания оно совершает с помехой атаки по всем целям, кроме вас, не может добровольно отойти от вас более чем на 30 футов, а если накладывает заклинание, нацеленное на существ, вы должны быть одной из его целей.\n\nВ конце каждого своего хода существо может совершить спасбросок Мудрости, оканчивая эффект при успехе.\n\nЗаклинание также оканчивается досрочно, если вы наложите его снова, атакуете другое существо или заставите его совершить проверку характеристики либо спасбросок, станете недееспособны, либо ваши союзники атакуют цель или заставят её совершить проверку характеристики либо спасбросок.",
+  "originalText": "Compelled Duel ALT\n1st-level Enchantment\nClasses: Paladin\nCasting Time: 1 bonus action\nRange: 30 feet\nComponents: V\nDuration: 1 minute\nYou utter a challenge infused with divine authority, targeting\none creature within range that can both hear and understand\nyou. For the duration, it has disadvantage on attacks against\ntargets other than you, it cannot willingly move more than 30\nfeet from you, and if it casts a spell that targets creatures you\nmust be one of the targets of that spell.\nAt the end of each of its turns, the creature can make a\nWisdom saving throw, ending this effect on a success.\nThe spell also ends early if you cast this spell again, if you\nattack or force another creature to make an ability check or a\nsaving throw, if you are Incapacitated, or if your allies attack\nthe target or force it to make an ability check or saving throw."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1bd05f4c-c83b-4d72-970e-49f537555c26",
+  "nameRu": "Сопротивление",
+  "nameEn": "Resistance",
+  "level": 0,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Жрец",
+    "Друид",
+    "Магус",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы окутываете магическим защитным покровом одно согласное существо, которого касаетесь. До окончания заклинания один раз за ход, когда цель должна совершить спасбросок, она может получить бонус 1d4 к броску.",
+  "originalText": "Resistance ALT\nAbjuration Cantrip\nClasses: Bard, Cleric, Druid, Magus, Wizard\nCasting Time: 1 action\nRange: Touch\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYou weave a protective mantle of magic around one willing\ncreature you touch. Once per turn, when the target is forced\nto make a saving throw it can gain a 1d4 bonus to its roll."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "fbef16f2-29f8-4073-9a4a-659f5656edf0",
+  "nameRu": "Огненные стрелы",
+  "nameEn": "Flame Arrows",
+  "level": 3,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Магус",
+    "Следопыт"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "Касание",
+  "components": "В, С",
+  "duration": "1 час",
+  "descriptionMarkdown": "Вы касаетесь колчана с боеприпасами дальнобойного оружия. Первые двенадцать извлечённых из него боеприпасов наносят урон огнём вместо своего обычного типа, а при попадании — ещё 1d6 урона огнём. При попадании в горючий предмет он вспыхивает. Магия каждого боеприпаса оканчивается после попадания или промаха; всё заклинание оканчивается после выстрела двенадцатью боеприпасами.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше из колчана можно извлечь ещё два зачарованных боеприпаса за каждый уровень ячейки выше 3-го.",
+  "originalText": "Flame Arrows ALT\n3rd-level Transmutation\nClasses: Artificer, Magus, Ranger\nCasting Time: 1 bonus action\nRange: Touch\nComponents: V, S\nDuration: 1 hour\nYou touch a quiver containing ranged weapon ammunition.\nThe first twelve pieces of ammunition drawn from the quiver\ndeal fire damage in place of their normal damage type, plus\nan additional 1d6 fire damage on hit. If fired into a flammable\nobject, it bursts into flame on hit. The magic of this spell ends\nfor each piece of ammunition when it hits or misses, and the\nspell ends after twelve pieces of ammunition are fired.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, you can draw two additional pieces\nof ammunition from the quiver for each slot level above 3rd."
+}

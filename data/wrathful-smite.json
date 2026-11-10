@@ -1,0 +1,18 @@
+{
+  "id": "de437ada-00af-46d9-9c30-d1f687b380e0",
+  "nameRu": "Гневная кара",
+  "nameEn": "Wrathful Smite",
+  "level": 1,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Попав рукопашной атакой оружием, вы можете поразить и тело, и разум. Атака наносит дополнительно 1d8 урона психической энергией. Цель должна преуспеть в спасброске Мудрости, иначе будет испугана вами до окончания заклинания. Действием существо может повторить спасбросок Мудрости, оканчивая эффект при успехе.\n\nЕсли цель — Аберрация или способна говорить телепатически, дополнительный урон психической энергией увеличивается на 1d8.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше урон психической энергией увеличивается на 1d8 за каждый уровень ячейки выше 1-го.",
+  "originalText": "Wrathful Smite ALT\n1st-level Evocation\nClasses: Paladin\nCasting Time: On hit\nRange: Self\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Concentration, up to 1 minute\nWhen you hit with a melee weapon attack you can cause the\nweapon to strike at both body and mind. This attack deals an\nadditional 1d8 psychic damage, and the target must succeed\non a Wisdom saving throw, or it is frightened of you until the\nspell ends. As an action, the creature can repeat this Wisdom\nsaving throw, ending the effects of the spell on a success.\nIf your target is an aberration or it can speak telepathically\nthis bonus psychic damage increases by 1d8.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the psychic damage increases by\n1d8 for each spell slot level above 1st."
+}

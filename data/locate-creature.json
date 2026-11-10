@@ -1,0 +1,25 @@
+{
+  "id": "bc3c5e4d-d70d-47b2-876b-1a21fbbe80c2",
+  "nameRu": "Поиск существа",
+  "nameEn": "Locate Creature",
+  "level": 2,
+  "school": "Прорицание",
+  "ritual": true,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Жрец",
+    "Друид",
+    "Паладин",
+    "Псион",
+    "Следопыт",
+    "Шаман",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя",
+  "components": "В, С, М (магнит, окунутый в святую воду)",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "Опишите или назовите определённый вид Зверя или Растения. Это может быть конкретное знакомое вам существо либо ближайшее существо определённого вида (например, медведь, дуб или лошадь), если вы хотя бы раз видели такое существо в пределах 30 футов.\n\nЕсли оно находится в пределах 1 мили, материальный компонент указывает на него, как компас. Если цель движется, компонент указывает на неё, пока она остаётся в пределах дистанции. Существо в иной форме, например под действием «Превращения» (polymorph), этим заклинанием не обнаруживается.\n\nЗаклинание не находит цель, если прямую линию к ней перекрывает свинец любой толщины или 10 футов проточной воды.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше дистанция и доступные типы существ расширяются:\n\n| Уровень ячейки | Дистанция | Типы существ |\n| --- | --- | --- |\n| 3-й | 2 мили | Дракон, Великан, Гуманоид, Монстр, Слизь |\n| 4-й | 3 мили | Аберрация, Конструкт, Нежить |\n| 5-й | 5 миль | Небожитель, Элементаль, Фея, Исчадие |",
+  "originalText": "Locate Creature ALT\n2nd-level Divination (Ritual)\nClasses: Bard, Cleric, Druid, Paladin, Psion, Ranger,\nShaman, Wizard\nCasting Time: 1 action\nRange: Self\nComponents: V, S, M (a magnet dipped in holy water)\nDuration: Concentration, up to 1 hour\nDescribe or name a specific kind of Beast or Plant. It can be\na specific creature known to you, or the nearest creature of\na specific kind (such as a bear, oak, or horse), so long as you\nhave seen such a creature within 30 feet at least once.\nIf one is within 1 mile, the material component of this spell\npoints to it as if it were a compass. If the target is in motion, it\npoints to it for as long as it remains in range. If the creature is\nin a different form, such as under the effect of the polymorph\nspell, this spell doesn't locate the creature.\nThis spell can't locate its target if any thickness of lead or\n10 feet of running water blocks a straight line to the target.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, the range and the type of creature\nyou can locate increase as show in the table below:\nSlot Level Range Creature Types\nDragon, Giant, Humanoid,\n3rd 2 miles\nMonstrosity, Ooze\n4th 3 miles Aberration, Construct, Undead\n5th 5 miles Celestial, Elemental, Fey, Fiend"
+}

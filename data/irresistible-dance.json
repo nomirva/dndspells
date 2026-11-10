@@ -1,0 +1,18 @@
+{
+  "id": "8bfbb36b-6b36-412f-b9e1-0c27e48a3ab0",
+  "nameRu": "Неудержимая пляска",
+  "nameEn": "Irresistible Dance",
+  "level": 3,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы заставляете слышащее вас существо в пределах дистанции совершить спасбросок Мудрости. При провале оно до окончания заклинания комично танцует на месте: шаркает, притопывает и скачет. Существа, которых нельзя очаровать, невосприимчивы к заклинанию.\n\nЦель тратит всё перемещение на танец, не покидая своего пространства, и совершает с помехой спасброски Ловкости и броски атаки. Пока эффект действует, атаки по ней совершаются с преимуществом. Танцующее существо действием совершает спасбросок Мудрости, чтобы вернуть контроль над собой, оканчивая заклинание при успехе.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше вы выбираете ещё одно слышащее вас существо в пределах дистанции за каждый уровень ячейки выше 3-го.",
+  "originalText": "Irresistible Dance ALT\n3rd-level Enchantment\nClasses: Bard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V\nDuration: Concentration, up to 1 minute\nYou force a creature that can hear you within range to make\na Wisdom saving throw. On a failure, it begins a comic dance\nin place: shuffling, tapping feet, and capering for the duration.\nCreatures that can't be charmed are immune to this spell.\nThis creature must use all its movement to dance without\nleaving its space and has disadvantage on Dexterity saving\nthrows and attack rolls. While the target is affected by this\nspell, creatures have advantage on attack rolls against it. As\nan action, a dancing creature makes a Wisdom saving throw\nto regain control of itself, ending the spell on a success.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, you target one additional creature\nwho can hear you within range for each slot level above 3rd."
+}

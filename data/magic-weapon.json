@@ -1,0 +1,24 @@
+{
+  "id": "36b138f9-e82e-48bc-b029-9ae0e6335a98",
+  "nameRu": "Магическое оружие",
+  "nameEn": "Magic Weapon",
+  "level": 2,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Друид",
+    "Паладин",
+    "Магус",
+    "Следопыт",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "Касание",
+  "components": "В, С",
+  "duration": "1 час",
+  "descriptionMarkdown": "Вы касаетесь немагического оружия и наполняете его магической силой. До окончания заклинания оно становится магическим и получает бонус +1 к броскам атаки и урона.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше бонус равен +2; при использовании ячейки 6-го уровня или выше — +3.",
+  "originalText": "Magic Weapon ALT\n2nd-level Transmutation\nClasses: Artificer, Druid, Paladin, Magus, Ranger, Sorcerer,\nWizard\nCasting Time: 1 bonus action\nRange: Touch\nComponents: V, S\nDuration: 1 hour\nYou touch a nonmagical weapon and imbue it with arcane\npower. For the duration, it becomes a magical weapon with\na +1 bonus to attack and damage rolls.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, the bonus is +2. When you use a\nspell slot of 6th-level or higher, the bonus increases to +3."
+}

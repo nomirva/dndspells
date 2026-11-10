@@ -1,0 +1,24 @@
+{
+  "id": "33534b6d-45a6-470d-b176-2987ea32a7d7",
+  "nameRu": "Ведьмин снаряд",
+  "nameEn": "Witch Bolt",
+  "level": 1,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Магус",
+    "Шаман",
+    "Чародей",
+    "Сосуд",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (кусок дерева, поражённого молнией)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Луч потрескивающей энергии устремляется к существу в пределах дистанции, образуя устойчивую дугу молнии между вами и целью. Совершите дальнобойную атаку заклинанием по существу. При попадании оно получает 1d12 урона электричеством, и до окончания заклинания ни вы, ни цель не можете отойти друг от друга более чем на 30 футов.\n\nВ каждый последующий ход вы можете действием нанести существу ещё 1d12 урона электричеством. Существо может попытаться выйти за пределы дистанции заклинания, потратив действие на проверку Силы против вашей Сл спасброска от заклинаний.\n\nЕсли другое существо пытается переместить цель за пределы дистанции, оно может действием совершить проверку Силы против вашей Сл спасброска от заклинаний. Любые попытки цели или другого существа (магические или обычные) переместить цель за этот предел автоматически проваливаются.\n\nЗаклинание немедленно оканчивается, если вас принудительно переместят более чем на 30 футов от цели.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше начальный и последующий урон увеличиваются на 1d12 за каждый уровень ячейки выше 1-го.",
+  "originalText": "Witch Bolt ALT\n1st-level Conjuration\nClasses: Artificer, Magus, Shaman, Sorcerer, Vessel,\nWarlock, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a piece of wood struck by lightning)\nDuration: Concentration, up to 1 minute\nA beam of crackling energy lances out toward a creature\nwithin range, forming a sustained arc of lightning between\nyou and the target. Make a ranged spell attack against that\ncreature. On a hit, the target takes 1d12 lightning damage,\nand neither you nor the target can move more than 30 feet\naway from each other while this spell lasts.\nYou can use an action on each subsequent turn to deal an\nadditional 1d12 lighting damage to the creature. A creature\ncan attempt to move beyond the range of the spell by using its\naction to make a Strength check against your Spell save DC.\nIf another creature attempts to move the target of this spell\nbeyond the range of this spell it can use its action to make a\nStrength check against your Spell save DC. Any attempts by\nthe target or another creature (magical or mundane) to move\nthe target beyond this range automatically fail.\nThe spell immediately ends if you are forced to move more\nthan 30 feet away from the target of this spell.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd level or higher, both the initial and subsequent\ndamage increases by 1d12 for each slot level above 1st."
+}

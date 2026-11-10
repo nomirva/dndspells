@@ -1,0 +1,22 @@
+{
+  "id": "585431fc-9ce4-4af9-881c-3a7fcff23c58",
+  "nameRu": "Верный удар",
+  "nameEn": "True Strike",
+  "level": 0,
+  "school": "Прорицание",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Магус",
+    "Псион",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "На себя",
+  "components": "С, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Концентрация, вплоть до 1 раунда",
+  "descriptionMarkdown": "Вы наполняете оружие магией прорицания и указываете им на одно видимое существо. Когда до начала вашего следующего хода вы в следующий раз совершите рукопашную атаку этим оружием по этой цели, добавьте 1d4 к броску атаки.\n\n**На высоких уровнях.** Бонус к броску атаки увеличивается на 5-м уровне до 1d6, на 11-м — до 1d8, на 17-м — до 1d10.",
+  "originalText": "True Strike ALT\nDivination Cantrip\nClasses: Bard, Magus, Psion, Warlock, Wizard\nCasting Time: 1 bonus action\nRange: Self\nComponents: S, M (a melee weapon worth at least 1 sp)\nDuration: Concentration, up to 1 round\nYou infuse your weapon with divination magic and point it\nat one creature you can see. The next time you make a melee\nattack with this weapon against that target before the start of\nyour next turn, you add 1d4 to your attack roll.\nAt Higher Levels. This spell's attack roll bonus increases\nwhen you reach 5th (1d6), 11th (1d8), and 17th level (1d10)."
+}

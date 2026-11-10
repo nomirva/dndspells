@@ -1,0 +1,21 @@
+{
+  "id": "36974353-5756-4f80-8cf6-78175673598a",
+  "nameRu": "Призыв воздуха",
+  "nameEn": "Beckon Air",
+  "level": 0,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Шаман",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы управляете ветром и используете его против врагов. При накладывании выберите один из следующих эффектов.\n\n**Управление воздухом.** Вы управляете воздухом в кубе с ребром 5 футов в пределах дистанции, создавая небольшой ощутимый эффект: шорох листьев, захлопывание ставней или колыхание одежды.\n\n**Воздушный удар.** Вы создаёте в руке шар сжатого воздуха и бросаете его в видимую цель в пределах дистанции. Она совершает спасбросок Силы. При провале цель получает 1d6 урона звуком; если её размер Средний или меньше, её также отталкивает от вас на 10 футов по прямой.\n\n**На высоких уровнях.** Урон заговора увеличивается на 1d6, а предельный размер отталкиваемой цели растёт: на 5-м уровне — 2d6 и Большой, на 11-м — 3d6 и Огромный, на 17-м — 4d6 и Громадный.",
+  "originalText": "Beckon Air\nTransmutation Cantrip\nClasses: Druid, Shaman, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Instantaneous\nYou can manipulate the winds and use them to assault foes.\nWhen you cast this spell choose one of the following effects:\nManipulate Air. You manipulate the air in a 5-foot cube\nwithin range, creating a small sensory affect such as causing\nleaves to rustle, shutters to slam shut, or clothing to ripple.\nAir Burst. You create a ball of compressed air in your hand\nand hurl it at a target you can see within range, forcing it to\nmake a Strength saving throw. On a failed save, it takes 1d6\nthunder damage and a Medium or smaller target is knocked\nback 10 feet away from you in a straight line.\nAt Higher Levels. The damage of this Cantrip and the size\ntarget it can knock back increases by 1d6 at 5th (2d6, Large),\n11th (3d6, Huge), and 17th level (4d6, Gargantuan)."
+}

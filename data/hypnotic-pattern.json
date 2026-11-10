@@ -1,0 +1,22 @@
+{
+  "id": "12dcfbe1-e391-48a6-b3e9-bfac9e2d736b",
+  "nameRu": "Гипнотический узор",
+  "nameEn": "Hypnotic Pattern",
+  "level": 3,
+  "school": "Иллюзия",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Псион",
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "С, М (тлеющая палочка благовоний)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы создаёте извивающийся узор красок в воздухе внутри куба с ребром 30 футов в пределах дистанции. Психоделический узор возникает на мгновение и исчезает. Каждое существо в области, видевшее узор, совершает спасбросок Мудрости. При провале оно очаровано до окончания заклинания. Пока существо очаровано этим заклинанием, оно недееспособно, а его скорость равна 0.\n\nВ конце каждого своего хода затронутое существо может повторять спасбросок, оканчивая эффект при успехе. Для него заклинание также оканчивается, если оно получает любой урон или кто-то действием выводит его из оцепенения встряхиванием.",
+  "originalText": "Hypnotic Pattern ALT\n3rd-level Illusion\nClasses: Bard, Psion, Sorcerer, Warlock, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: S, M (a glowing stick of incense)\nDuration: Concentration, up to 1 minute\nYou create a twisting pattern of colors that weaves through\nthe air inside a 30-foot cube within range. This psychedelic\npattern appears for a moment and vanishes. Each creature in\nthe area who sees the pattern must make a Wisdom saving\nthrow. On a failed save, the creature becomes charmed for\nthe duration. While charmed by this spell, the creature is\nincapacitated and has a speed of 0.\nAn affected creature can repeat this saving throw at the\nend of each of its turns, ending the effect on a success. The\nspell also ends for an affected creature if it takes any damage\nor if someone else uses an action to shake it out of its stupor."
+}

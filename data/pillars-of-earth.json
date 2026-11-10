@@ -1,0 +1,18 @@
+{
+  "id": "f6fa0343-495f-4818-885c-d48bf2103de2",
+  "nameRu": "Земляные столпы",
+  "nameEn": "Pillars of Earth",
+  "level": 4,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид"
+  ],
+  "castingTime": "1 действие",
+  "range": "120 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы вызываете до двух каменных столпов, вырастающих из видимых участков земли в пределах дистанции. Каждый столп — цилиндр диаметром 5 футов и высотой до 30 футов.\n\nМесто появления должно быть достаточно широким для диаметра столпа. Можно выбрать землю под существом, если его размер Средний или меньше. Каждый столп имеет Класс Доспеха 5 и 30 хитов. При 0 хитов столп рассыпается в щебень, создавая труднопроходимую местность радиусом 10 футов, пока щебень не уберут.\n\nЕсли столп создаётся под существом, оно должно преуспеть в спасброске Ловкости, иначе столп поднимет его. Существо может добровольно провалить спасбросок.\n\nЕсли потолок или другая преграда не позволяет столпу вырасти на полную высоту, существо на нём получает 6d6 дробящего урона и становится опутанным, зажатое между столпом и преградой. Опутанное существо может действием совершить проверку Силы или Ловкости против вашей Сл спасброска от заклинаний. При успехе оно больше не опутано и должно либо сойти со столпа, либо упасть с него.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше вы создаёте ещё два столпа за каждый уровень ячейки выше 4-го.",
+  "originalText": "Pillars ooff Earth\n4th-level Transmutation\nClasses: Druid\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S\nDuration: Instantaneous\nYou cause up to two pillars of stone to burst forth from places\non the ground that you can see within range. Both pillars are\ncylinders with a diameter of 5 feet and a height up to 30 feet.\nThe ground where a pillar appears must be wide enough\nfor its diameter, and you can target ground under a creature if\nthat creature is Medium or smaller. Each pillar has an Armor\nClass of 5 and 30 hit points. If reduced to 0 hit points, a pillar\ncrumbles into rubble, creating an area of difficult terrain with\na 10-foot radius. This rubble lasts until cleared.\nIf a pillar is created under a creature, that creature must\nsucceed on a Dexterity saving throw or be lifted by the pillar.\nA creature can choose to fail the save.\nIf a pillar is prevented from reaching its full height because\nof a ceiling or other obstacle, any creature on the pillar takes\n6d6 bludgeoning damage and is Restrained, pinched between\nthe pillar and the obstacle. A Restrained creature can use its\naction to make either a Strength or Dexterity check against\nyour Spell save DC. On a success, it is no longer Restrained\nand must either move off the pillar or fall off it.\nAt Higher Levels. If you cast this spell with a spell slot of\n5th level or higher, you create two additional pillars for each\nslot level above 4th."
+}

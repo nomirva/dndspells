@@ -1,0 +1,20 @@
+{
+  "id": "fa7d0e95-04b2-4798-964f-9a83703eb241",
+  "nameRu": "Создание слизи",
+  "nameEn": "Create Ooze",
+  "level": 2,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Изобретатель",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 минута",
+  "range": "5 футов",
+  "components": "В, С, М (флакон кислоты и растёртые кости Зверя или Гуманоида Среднего либо большего размера)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Это заклинание можно накладывать только под землёй. Вы смешиваете растёртые кости с кислотой и выливаете смесь в свободное пространство. Там появляется подвластное вам отродье облекса (Oblex Spawn). Пока эта Слизь существует, она использует следующие правила.\n\n**Управление.** Созданные заклинанием Слизи выполняют ваши приказы по мере сил. Без приказа Слизь остаётся на месте и лишь защищает себя. В бою она разделяет вашу инициативу и действует в ваш ход.\n\nБонусным действием вы можете мысленно отдать приказ любому числу созданных этим заклинанием Слизей в пределах 120 футов. Каждой можно дать отдельный точный приказ либо задать общий порядок действий («защищай этот зал»). Подконтрольная Слизь выполняет приказ до его завершения.\n\n**Слизистая связь.** Пока Слизь под вашим контролем, вы не можете восстановить потраченную на её создание ячейку. Завершая продолжительный отдых, вы можете отпустить любых созданных этим заклинанием Слизей и восстановить потраченные на них ячейки.\n\nОсвобождённые Слизи становятся враждебны ко всему живому и ищут ближайшее подземелье, чтобы поселиться в нём.\n\n**На высоких уровнях.** Более высокие ячейки создают более сильных Слизей:\n\n| Ячейка | Слизь |\n| --- | --- |\n| 2-я | Отродье облекса (Oblex Spawn) |\n| 3-я | Серая слизь (Gray Ooze) |\n| 4-я | Психическая серая слизь (Psychic Gray Ooze) |\n| 5-я | Охристое желе (Ochre Jelly) |\n| 6-я | Желатиновый куб (Gelatinous Cube) |\n| 7-я | Скользящий следопыт (Slithering Tracker) |\n| 8-я | Чёрный пудинг (Black Pudding) |\n| 9-я | Взрослый облекс (Adult Oblex) |",
+  "originalText": "Create Ooze\n2nd-level Transmutation\nClasses: Artificer, Warlock, Wizard\nCasting Time: 1 minute\nRange: 5 feet\nComponents: V, S, M (a vial of acid and the ground bones of\na Medium or larger Beast or Humanoid)\nDuration: Instantaneous\nThis spell can only be cast underground. You mix the ground\nbones and acid, pouring the mixture in an unoccupied space.\nAn Oblex Spawn under your control appears in there. While\nit exists, this Ooze uses the rules below:\nControl. Oozes you create with this spell follow commands\nto the best of their abilities. If not given a command, the Ooze\nwill remain in place and act only to defend itself. In comabt,\nthe Ooze shares your initiative and acts during your turn.\nAs a bonus action, you can mentally command any number\nof Oozes you created with this spell so long as they are within\n120 feet. You can issue an individual command to each where\nyou determine exactly how it acts, or you set a general course\nof action for it (\"defend this hall\"). So long as it is under your\ncontrol, an Ooze will follow commands until completed.\nSlimy Bond. While an Ooze is under your control you can't\nregain the spell slot you spent to create it. However, when you\nfinish a long rest, you can release control over any Oozes you\ncreated with this spell to regain the slots spent on them.\nWhen released, Oozes become hostile to all living things,\nand seek out the closest underground dungeon to live in.\nAt Higher Levels. You can cast this spell with higher level\nspell slots to create more powerful Oozes as shown below:\nSlot Ooze Slot Ooze\n2nd Oblex Spawn 6th Gelatinous Cube\n3rd Gray Ooze 7th Slithering Tracker\n4th Psychic Gray Ooze 8th Black Pudding\n5th Ochre Jelly 9th Adult Oblex"
+}

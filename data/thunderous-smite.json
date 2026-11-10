@@ -1,0 +1,19 @@
+{
+  "id": "8588bbe5-a619-40e2-a5d5-988f6a07490e",
+  "nameRu": "Громовая кара",
+  "nameEn": "Thunderous Smite",
+  "level": 1,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Паладин"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Попав рукопашной атакой оружием, вы можете вызвать взрывную громовую волну, слышимую на расстоянии до 300 футов. Атака наносит дополнительно 1d8 урона звуком, а цель должна преуспеть в спасброске Силы, иначе её оттолкнёт от вас на 10 футов по прямой и собьёт с ног. Цели Огромного и более крупных размеров совершают спасбросок с преимуществом.\n\nЕсли цель — Конструкт или земляной Элементаль, дополнительный урон звуком увеличивается на 1d8, а спасбросок Силы она совершает с помехой.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше за каждый уровень ячейки выше 1-го урон звуком увеличивается на 1d8, а дистанция отталкивания от вас по прямой — ещё на 10 футов.",
+  "originalText": "Thunderous Smite ALT\n1st-level Evocation\nClasses: Bard, Paladin\nCasting Time: On hit\nRange: Self\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Instantaneous\nWhen you hit with a melee weapon attack, you can cause the\nweapon to explode with a thunderous shockwave audible out\nto 300 feet. This attack deals 1d8 additional thunder damage,\nand the target must succeed on a Strength saving throw or be\npushed 10 feet away from you in a line and fall prone. Huge\nand larger targets have advantage on this saving throw.\nIf your target is a construct or an earth elemental the\nbonus thunder damage increases by 1d8 and it has\ndisadvantage on the Strength saving throw.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the thunder damage increases by\n1d8, and the target is pushed an additional 10 feet away from\nyou in a straight line for each spell slot level above 1st."
+}

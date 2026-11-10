@@ -1,0 +1,20 @@
+{
+  "id": "d91716da-32b6-4a7b-bbbf-0d024a7de5b9",
+  "nameRu": "Кошмар",
+  "nameEn": "Weird",
+  "level": 9,
+  "school": "Иллюзия",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Псион",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "120 футов",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Опираясь на глубочайшие страхи, сожаления и первобытные инстинкты существа, вы создаёте иллюзию самого ужасного, что оно способно вообразить. Иллюзия видна только этому существу.\n\nВыберите точку в пределах дистанции. Выбранные вами существа в радиусе 30 футов от неё становятся испуганными до окончания заклинания. Если цель невосприимчива к испугу, она должна совершить спасбросок Мудрости; при провале она всё равно становится испуганной.\n\nВ конце каждого своего хода испуганное существо должно преуспеть в спасброске Мудрости, иначе получит 4d10 урона психической энергией. При успехе заклинание для этой цели оканчивается.",
+  "originalText": "Weird ALT\n9th-level Illusion\nClasses: Psion, Warlock, Wizard,\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S\nDuration: Concentration, up to 1 minute\nDrawing on the deepest fears, regrets, and primal instincts of\na creature, you create the illusion of the most horrifying thing\nimaginable to them, which is visible only to that creature.\nChoose a point within range, and creatures of your choice\nwithin a 30-foot radius of the point become Frightened for\nthe duration. If a target is immune to the Frightened\ncondition, it must make a Wisdom saving throw or be\nFrightened anyway.\nAt the end of each of a Frightened creature's turns, it must\nsucceed on a Wisdom saving throw or it takes 4d10 psychic\ndamage. On a success, the spell ends for that target."
+}

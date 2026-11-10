@@ -1,0 +1,19 @@
+{
+  "id": "fa66f8ab-8b99-4151-b82a-624c7e54c272",
+  "nameRu": "Жуткие щупальца",
+  "nameEn": "Eldritch Tentacles",
+  "level": 4,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Сосуд",
+    "Колдун"
+  ],
+  "castingTime": "1 действие",
+  "range": "90 футов",
+  "components": "В, С, М (кусочек щупальца гигантского кальмара)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Чужеродные щупальца заполняют квадрат земли со стороной 20 футов, видимый вам в пределах дистанции. До окончания заклинания область становится труднопроходимой местностью.\n\nКогда существо впервые за ход входит в область или начинает там ход, оно должно преуспеть в спасброске Ловкости, иначе получит 3d6 дробящего урона и станет опутанным щупальцами до окончания заклинания. Любое существо, начинающее ход в области и уже опутанное щупальцами, получает в начале хода 3d6 дробящего урона.\n\nОпутанное существо может действием совершить проверку Силы или Ловкости (на свой выбор) против вашей Сл спасброска от заклинаний. При успехе оно освобождается.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше оба вида урона увеличиваются на 1d6 за каждый уровень ячейки выше 4-го.",
+  "originalText": "Eldritch Tentacles\n4th-level Conjuration\nClasses: Vessel, Warlock\nCasting Time: 1 action\nRange: 90 feet\nComponents: V, S, M (a piece of tentacle from a giant squid)\nDuration: Concentration, up to 1 minute\nAlien tentacles fill a 20-foot square on the ground you can see\nwithin range. For the duration, this area is difficult terrain.\nWhen a creature enters this area for the first time on a turn\nor starts its turn there, it must succeed on a Dexterity saving\nthrow or take 3d6 bludgeoning damage and be restrained by\nthe tentacles until the spell ends. Any creature that begins its\nturn in the area and is restrained by the tentacles takes 3d6\nbludgeoning damage at the start of its turn.\nA creature restrained by the tentacles can use its action to\nmake a Strength or Dexterity check (its choice) against your\nspell save DC. On a success, it frees itself from the tentacles.\nAt Higher Levels. When you cast this spell using a spell\nslot of 5th level or higher, both instances of damage from this\nspell increase by 1d6 for each slot level above 4th."
+}

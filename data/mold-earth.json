@@ -1,0 +1,21 @@
+{
+  "id": "7b1d22df-b44a-464d-9744-5e78b9af68e0",
+  "nameRu": "Лепка земли",
+  "nameEn": "Mold Earth",
+  "level": 0,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Шаман",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы управляете землёй и используете её против врагов. При накладывании выберите один из следующих эффектов.\n\n**Управление землёй.** Вы управляете рыхлой землёй и камнями в кубе с ребром 5 футов в пределах дистанции: без вреда выкапываете, перемещаете и складываете их на расстоянии до 5 футов, превращаете участок в труднопроходимую местность или труднопроходимую местность в обычную.\n\n**Бросок камня.** Вы создаёте в руке небольшой шар из каменной крошки и земли и бросаете его в видимую цель в пределах дистанции, совершая дальнобойную атаку заклинанием. При попадании цель получает на ваш выбор 1d6 дробящего или колющего урона; если её размер Маленький или меньше, она также сбивается с ног.\n\n**На высоких уровнях.** Урон увеличивается на 1d6, а предельный размер сбиваемой с ног цели растёт: на 5-м уровне — 2d6 и Средний, на 11-м — 3d6 и Большой, на 17-м — 4d6 и Огромный.",
+  "originalText": "Mold Earth ALT\nTransmutation Cantrip\nClasses: Druid, Shaman, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Instantaneous\nYou can manipulate the earth and use it to assault your foes.\nWhen you cast this spell choose one of the following effects:\nManipulate Earth. You manipulate loose earth and stone\nin a 5-foot cube within range, harmlessly excavating, moving,\nand depositing it up to 5 feet away, changing it into difficult\nterrain, or changing difficult terrain into normal terrain.\nHurl Stone. You create a small ball of loose stone and dirt\nin your hand and hurl it at a target you can see within range,\nmaking a ranged spell attack against it. On hit, it takes your\nchoice of either 1d6 bludgeoning or piercing damage, and if\nthe target is Small or smaller it is knocked prone.\nAt Higher Levels. The damage of this Cantrip and the size\nof targets that it knocks prone increases by 1d6 at 5th (2d6,\nMedium), 11th (3d6, Large), and 17th level (4d6, Huge)."
+}

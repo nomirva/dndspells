@@ -1,0 +1,18 @@
+{
+  "id": "d3280dd7-406f-42e5-affe-ed1e4dda5f18",
+  "nameRu": "Мозговой взрыв",
+  "nameEn": "Cerebral Blast",
+  "level": 3,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя (конус 30 футов)",
+  "components": "В",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Ваш разум выпускает сокрушительный выброс мысленной силы 30-футовым конусом. Существа в области совершают спасбросок Силы. При провале существо получает 5d8 урона психической энергией, отталкивается на 20 футов по прямой от вас, затем падает ничком. При успехе существа получают половину урона, остаются на месте и не падают.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше урон психической энергией увеличивается на 1d8 за каждый уровень ячейки выше 3-го.",
+  "originalText": "Cerebral Blast\n3rd-level Evocation\nClasses: Psion\nCasting Time: 1 action\nRange: Self (30-foot cone)\nComponents: V\nDuration: Instantaneous\nYour mind unleashes a blast of overwhelming mental force in\na 30-foot cone. Creature in the area of this spell must make a\nStrength saving throw. On a failed save, a creature takes 5d8\npsychic damage and is pushed 20 feet directly away from you\nin a line, then falls prone. On a success, creatures take half as\nmuch damage, remain in place, and don't fall prone.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, the psychic damage increases by\n1d8 for each spell slot level above 3rd."
+}

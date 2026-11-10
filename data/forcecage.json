@@ -1,0 +1,20 @@
+{
+  "id": "7b07ed94-f619-4d74-a773-98ec3a17e828",
+  "nameRu": "Силовая клетка",
+  "nameEn": "Forcecage",
+  "level": 7,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Псион",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С, М (изящная нефритовая шкатулка стоимостью 1 500 зм)",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "Вокруг выбранной области в пределах дистанции возникает мерцающая неподвижная кубическая тюрьма из магической силы. Вы выбираете клетку с прутьями или сплошной ящик.\n\n**Форма.** Клетка может иметь сторону до 20 футов и прутья диаметром ½ дюйма с промежутками ½ дюйма. Ящик может иметь сторону до 10 футов, образуя сплошную преграду для любой материи и блокируя заклинания, накладываемые внутрь или наружу. Клетка простирается на Эфирный план и блокирует эфирное перемещение.\n\n**Существа внутри.** При накладывании существа, полностью находящиеся в области, оказываются заперты. Частично находящиеся внутри или слишком крупные существа выталкиваются, пока целиком не окажутся снаружи.\n\nСущество внутри не может выбраться немагическими средствами. При попытке телепортации или межпланового путешествия для выхода оно сначала совершает спасбросок Харизмы. При провале заклинание или эффект тратится впустую; при успехе оно позволяет выбраться.\n\n**Характеристики.** КД клетки равен вашей Сл спасброска от заклинаний, хиты — 200. Она невосприимчива к урону ядом, психической энергией и немагическому дробящему, колющему и рубящему урону; уязвима к урону силовым полем и магическому дробящему, колющему и рубящему урону; имеет сопротивление всем остальным типам урона. «Рассеивание магии» (dispel magic) не рассеивает клетку, но «Распад» (disintegrate) мгновенно уничтожает её.\n\n**На высоких уровнях.** При использовании ячейки 8-го уровня или выше хиты клетки увеличиваются на 25 за каждый уровень ячейки выше 7-го.",
+  "originalText": "Forcecage ALT\n7th-level Conjuration\nClasses: Psion, Warlock, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S, M (an ornate jade box worth 1,500 gp)\nDuration: Concentration, up to 1 hour\nA shimmering, immobile, cube-shaped prison composed of\nmagical force springs into existence around an area of your\nchoice within range. You choose whether this magic prison\nis shaped like a cage with bars or a solid box.\nShape. If you choose cage, it can be up to 20 feet on a side\nand made from 1/2-inch diameter bars spaced 1/2 inch apart.\nIf you choose box, it can be up to 10 feet on a side, creating a\nsolid barrier that prevents any matter from passing through it\nand blocking any spells cast into or out of the area. The cage\nextends into the Ethereal Plane, blocking ethereal travel.\nCreatures Inside. When you cast the spell, any creatures\nthat are completely inside the area of the cage are trapped.\nAny creatures partially within the area, or too large to fit are\npushed away until they are completely outside of the cage.\nA creature inside the cage cannot leave it by non-magical\nmeans. If the creature tries to use teleportation or interplanar\ntravel to leave the cage, it must first make a Charisma saving\nthrow. The spell or effect is wasted on a failed save, but on a\nsuccess the creature uses the spell or effect to escape.\nStatistics. The cage's Armor Class equals your Spell save\nDC and it has 200 hit points. It is immune to poison, psychic,\nand non-magical bludgeoning, piercing, and slashing damage,\nvulnerable to force and magical bludgeoning, piercing, and\nslashing damage, and resistant to all other damage types. It\ncannot be dispelled by a dispel magic spell, but a disintegrate\nspell destroys the cage it instantly.\nAt Higher Levels. When you cast this spell using a spell\nslot of 8th-level or higher, the hit points of the cage created by\nthis spell increase by 25 for each spell slot level above 7th."
+}

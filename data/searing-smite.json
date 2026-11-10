@@ -1,0 +1,18 @@
+{
+  "id": "3b76878b-a340-4463-8b27-ebc4908c5d1f",
+  "nameRu": "Палящая кара",
+  "nameEn": "Searing Smite",
+  "level": 1,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Попав рукопашной атакой оружием, вы можете раскалить его добела. Атака наносит дополнительно 1d8 урона огнём, и цель вспыхивает пламенем.\n\nВ начале каждого своего хода она совершает спасбросок Телосложения. При провале получает 1d8 урона огнём, а при успехе пламя гаснет. Другое существо может действием погасить это магическое пламя.\n\nЕсли цель — Растение, начальный урон огнём и урон при провале спасброска увеличиваются на 1d8.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше и начальный урон огнём от атаки, и урон огнём при провале спасброска увеличиваются на 1d8 за каждую ячейку [формулировка исходника].",
+  "originalText": "Searing Smite ALT\n1st-level Evocation\nClasses: Paladin\nCasting Time: On hit\nRange: Self\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Instantaneous\nWhen you hit with a melee weapon attack you can cause the\nweapon to ignite with white-hot intensity. This attack deals\n1d8 additional fire damage and the target bursts into flames.\nAt the start of each of its turns, it must make a Constitution\nsaving throw. On a failed save, it takes 1d8 fire damage, but\non a success, the flames are extinguished. Another creature\ncan use an action to extinguish these magical flames.\nIf your target is a plant, both the initial fire damage and the\nfire damage dealt on a failed saving throw increase by 1d8.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, both the initial fire damage dealt\nby the attack and the fire damage dealt to the creature on a\nfailed saving throw increase by 1d8 for each slot."
+}

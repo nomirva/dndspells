@@ -1,0 +1,18 @@
+{
+  "id": "a30f2f9c-6280-4e72-a26c-ac887fc49388",
+  "nameRu": "Небесный огонь",
+  "nameEn": "Flame Strike",
+  "level": 5,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Жрец"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С, М (щепотка серы)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "С небес с рёвом обрушивается вертикальный столб божественного огня в указанное вами место. Существа в цилиндре радиусом 10 футов и высотой 40 футов совершают спасбросок Ловкости. При провале они получают 5d6 урона огнём и 5d6 урона излучением, при успехе — половину.\n\n**На высоких уровнях.** При использовании ячейки 6-го уровня или выше урон огнём и излучением увеличивается каждый на 1d6 за каждый уровень ячейки выше 5-го.",
+  "originalText": "Flame Strike ALT\n5th-level Evocation\nClasses: Cleric\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S, M (a pinch of sulfur)\nDuration: Instantaneous\nA vertical column of divine fire roars down from the heavens\nin a location you specify. Creatures within this 10-foot-radius,\n40-foot-high cylinder must make a Dexterity saving throw. On\na failure, they take 5d6 fire and 5d6 radiant damage, and half\nas much damage on a successful save.\nAt Higher Levels. If you cast this spell with a spell slot of\n6th-level or higher, both the fire and radiant damage increase\nby 1d6 for each level above 5th."
+}

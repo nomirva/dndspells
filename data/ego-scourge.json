@@ -1,0 +1,18 @@
+{
+  "id": "f47b07ca-017c-45d3-a002-56f6db8c2f95",
+  "nameRu": "Бич эго",
+  "nameEn": "Ego Scourge",
+  "level": 4,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы поражаете разум видимого существа в пределах дистанции, атакуя его самоощущение. Оно должно преуспеть в спасброске Интеллекта, иначе до окончания заклинания будет совершать с помехой броски атаки и проверки характеристик и не сможет накладывать заклинания.\n\nВ конце каждого своего хода существо может повторять спасбросок, оканчивая эффект при успехе.",
+  "originalText": "Ego Scourge\n4th-level Enchantment\nClasses: Psion\nCasting Time: 1 action\nRange: 30 feet\nComponents: V\nDuration: Concentration, up to 1 minute\nYou strike at the mind of a creature you can see within range,\nattacking its sense of self. It must succeed on an Intelligence\nsaving throw or suffer disadvantage on attack rolls and ability\nchecks, and be unable to cast spells for the duration.\nAt the end of each of its turns the creature can repeat this\nsaving throw, ending the effect of this spell on a success."
+}

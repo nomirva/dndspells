@@ -1,0 +1,20 @@
+{
+  "id": "d6d0450c-b689-468f-b53e-0e39049803d2",
+  "nameRu": "Звуковая волна",
+  "nameEn": "Sonic Wave",
+  "level": 3,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Бард",
+    "Магус",
+    "Чародей"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя (конус 30 футов)",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы с силой хлопаете в ладоши, выпуская ударную волну с грохотом, слышимым на расстоянии до 500 футов. Все существа в 30-футовом конусе должны преуспеть в спасброске Телосложения, иначе получат 4d8 урона звуком, упадут ничком и оглохнут на 1 минуту. При успехе существа получают половину урона, не падают и не глохнут.\n\nСущество может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше за каждый уровень ячейки выше 3-го урон увеличивается на 1d8, а длина конуса — на 5 футов.",
+  "originalText": "Sonic Wave\n3rd-level Conjuration\nClasses: Bard, Magus, Sorcerer\nCasting Time: 1 action\nRange: Self (30-foot cone)\nComponents: V, S\nDuration: Instantaneous\nYou forcefully clasp your hands and a shockwave of booming\nforce shoots forth from you and emits a boom audible out to\n500 feet. All creatures in a 30-foot cone must succeed on a\nConstitution saving throw or take 4d8 thunder damage, fall\nprone, and be deafened for 1 minute. On a success, creatures\ntake half damage and are not knocked prone or deafened.\nA creature can repeat this saving throw at the end of each\nof its turns, ending the effect on a success.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, the damage increases by 1d8, and\nthe cone increases by 5 feet for each slot level above 3rd."
+}

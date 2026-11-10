@@ -1,0 +1,21 @@
+{
+  "id": "e0313133-8b03-4b1e-b2c6-33fccae611a4",
+  "nameRu": "Брызги кислоты",
+  "nameEn": "Acid Splash",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Магус",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы бросаете шар едкой кислоты в видимую точку в пределах дистанции. Существа в пределах 5 футов от этой точки должны преуспеть в спасброске Ловкости, иначе получат 1d6 урона кислотой.\n\n**На высоких уровнях.** Урон увеличивается на 1d6 на 5-м (2d6), 11-м (3d6) и 17-м (4d6) уровнях.",
+  "originalText": "Acid Splash ALT\nEvocation Cantrip\nClasses: Artificer, Magus, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Instantaneous\nYou hurl an orb of caustic acid at a point you can see within\nrange. Creatures within 5 feet of that point must succeed on\na Dexterity saving throw or take 1d6 acid damage.\nAt Higher Levels. The damage of this spell increases\nby 1d6 at 5th (2d6), 11th (3d6), and 17th level (4d6)."
+}

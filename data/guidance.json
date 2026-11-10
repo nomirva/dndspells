@@ -1,0 +1,23 @@
+{
+  "id": "77676529-b420-4b74-9c84-b1a71e51acc3",
+  "nameRu": "Указание",
+  "nameEn": "Guidance",
+  "level": 0,
+  "school": "Прорицание",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Жрец",
+    "Друид",
+    "Псион",
+    "Шаман",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы касаетесь другого существа и наделяете его потусторонним знанием одного выбранного навыка. До окончания заклинания оно получает бонус 1d4 ко всем проверкам характеристик с использованием этого навыка. Если вы владеете навыком, бонус равен 1d6.",
+  "originalText": "Guidance ALT\nDivination Cantrip\nClasses: Bard, Cleric, Druid, Psion, Shaman, Wizard\nCasting Time: 1 action\nRange: Touch\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYou touch another creature and infuse it with otherworldly\nknowledge of a skill of your choice. For the duration, it gains\na 1d4 bonus to any ability checks it makes with that skill.\nIf you are proficient in the skill, this bonus becomes 1d6."
+}

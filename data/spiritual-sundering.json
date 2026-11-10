@@ -1,0 +1,20 @@
+{
+  "id": "ace03e3a-3cf1-474f-99ce-f5135ef9f717",
+  "nameRu": "Разрыв души",
+  "nameEn": "Spiritual Sundering",
+  "level": 5,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Жрец",
+    "Шаман",
+    "Колдун"
+  ],
+  "castingTime": "1 действие",
+  "range": "120 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Души существ в сфере радиусом 20 футов с центром в выбранной точке в пределах дистанции разрываются; существа совершают спасбросок Харизмы. При провале они получают 8d6 урона некротической энергией, а в следующую минуту их самоощущение затуманено: из каждого спасброска Интеллекта, Мудрости или Харизмы вычитается 1d6. При успехе они получают половину урона и не получают штрафа к спасброскам.\n\nЦели могут совершать спасбросок Харизмы в конце каждого своего хода, оканчивая эффект при успехе.",
+  "originalText": "Spiritual Sundering\n5th-level Enchantment\nClasses: Cleric, Shaman, Warlock\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S\nDuration: Instantaneous\nCreatures in a 20-foot-radius sphere centered on a point of\nyour choice within range have their soul rent, and must make\na Charisma saving throw. On a failure, they take 8d6 necrotic\ndamage, and for the next minute, they have a muddied sense\nof self and subtract 1d6 from any Intelligence, Wisdom, or\nCharisma saving throw they make. On a success, they take\nhalf damage and suffer no saving throw penalty.\nTargets can make a Charisma saving throw at the end of\neach of their turns, ending the effect on a successful save."
+}

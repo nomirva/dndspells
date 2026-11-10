@@ -1,0 +1,19 @@
+{
+  "id": "cf4aae27-3f70-49bd-bece-6fdcf8390feb",
+  "nameRu": "Стена шипов",
+  "nameEn": "Wall of Thorns",
+  "level": 4,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "120 футов",
+  "components": "В, С, М (горсть шипов)",
+  "duration": "Концентрация, вплоть до 10 минут",
+  "descriptionMarkdown": "Вы призываете стену густой растительности с твёрдыми, как железо, шипами. Она появляется на твёрдой поверхности в пределах дистанции. Стена может быть длиной до 60 футов, высотой 10 футов и толщиной 5 футов либо образовать кольцо диаметром 20 футов, высотой 20 футов и толщиной 5 футов.\n\nПри появлении стены существа внутри неё совершают спасбросок Ловкости. При провале получают 5d8 колющего урона и остаются внутри. При успехе получают половину урона и перемещаются в выбранное соседнее пространство вне области стены.\n\n**Прохождение.** Любое существо может болезненно пробраться сквозь стену, затрачивая 4 фута перемещения на каждый 1 фут пути внутри. В первый раз, когда существо входит в стену или начинает ход внутри неё, оно совершает спасбросок Ловкости: при провале получает 5d8 колющего урона, при успехе — половину.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше оба вида урона увеличиваются на 1d8 за каждый уровень ячейки выше 4-го.",
+  "originalText": "Wall ooff Thorns ALT\n4th-level Conjuration\nClasses: Druid, Ranger\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S, M (a handful of thorns)\nDuration: Concentration, up to 10 minutes\nYou conjure a wall of thick plant growth bristling with thorns\nhard as iron. It appears in range on a solid surface. The wall\ncan be up to 60 feet long, 10 feet high, and 5 feet thick. Or, it\nforms a 20-foot diameter circle, 20 feet high and 5 feet thick.\nWhen it appears, creatures within it must make a Dexterity\nsaving throw. On a failure, they take 5d8 piercing damage and\nremain within the wall. On a successful save, they take half as\nmuch damage and move to an adjacent space of its choice\nnot within the area of the wall.\nMoving Through. Any creature can painfully move\nthrough the wall, but it must spend 4 feet of movement for\nevery 1 foot it moves within it. The first time a creature\nenters the wall or begins its turn in it, it must make a\nDexterity saving throw. It takes 5d8 piercing damage on a\nfailure, half on a success.\nAt Higher Levels. When you cast this spell using a slot of\n5th level or higher, both instances of damage increase by 1d8\nfor each slot level above 4th."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "34571745-9755-495e-ae02-9a13023d5e41",
+  "nameRu": "Буревой клинок",
+  "nameEn": "Tempestuous Blade",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Изобретатель",
+    "Магус",
+    "Колдун"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "На себя",
+  "components": "В, М (простое или воинское рукопашное оружие)",
+  "duration": "1 раунд",
+  "descriptionMarkdown": "Бонусным действием вы наполняете использованное при накладывании рукопашное оружие электрической магией. До начала вашего следующего хода атаки этим оружием наносят урон электричеством вместо обычного типа урона оружия.\n\nОдин раз за накладывание, нанося этим заклинанием урон электричеством, вы можете зарядить цель электричеством до начала вашего следующего хода. Если до этого момента цель совершит любую реакцию, заряд высвободится и она получит 1d6 урона электричеством.\n\n**На высоких уровнях.** Урон при совершении целью реакции увеличивается на 5-м уровне до 1d8, на 11-м — до 1d10, на 17-м — до 1d12.",
+  "originalText": "Tempestuous Blade\nEvocation Cantrip\nClasses: Artificer, Magus, Warlock\nCasting Time: 1 bonus action\nRange: Self\nComponents: V, M (a simple or martial melee weapon)\nDuration: 1 round\nAs a bonus action, you infuse the melee weapon used in the\ncasting of this spell with electrified magic. Until the start of\nyour next turn, your attacks with that weapon deal lightning\ndamage in place of the weapon's normal damage type.\nOnce per casting when you deal lightning damage with this\nspell, you can infuse your target with an electrical charge until\nthe start of your next turn. If the target uses a reaction of any\nkind before then, this tempestuous charge is unleashed and it\ntakes 1d6 lightning damage.\nAt Higher Levels. The lightning damage dealt by this spell\nwhen the target uses its reaction increases at 5th level (1d8),\n11th level (1d10), and 17th level (1d12)."
+}

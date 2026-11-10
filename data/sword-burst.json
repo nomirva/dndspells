@@ -1,0 +1,20 @@
+{
+  "id": "d091570e-6e24-4ba1-80cb-84c8cc3f3e86",
+  "nameRu": "Вспышка мечей",
+  "nameEn": "Sword Burst",
+  "level": 0,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Магус",
+    "Псион",
+    "Колдун"
+  ],
+  "castingTime": "1 атака",
+  "range": "На себя",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы создаёте защитное кольцо призрачных клинков, проносящихся вокруг вас. Существа в пределах 5 футов от вас должны преуспеть в спасброске Ловкости, иначе получат 1d6 рубящего урона.\n\n**На высоких уровнях.** Кость урона увеличивается на 5-м уровне до 1d8, на 11-м — до 1d10, на 17-м — до 1d12.",
+  "originalText": "Sword Burst ALT\nAbjuration Cantrip\nClasses: Magus, Psion, Warlock\nCasting Time: 1 attack\nRange: Self\nComponents: V, S\nDuration: Instantaneous\nYou conjure a defensive ring of spectral blades which sweep\naround you. Creatures within 5 feet of you must succeed on\na Dexterity saving throw or take 1d6 slashing damage.\nAt Higher Levels. The damage die of this spell increases\nat 5th level (1d8), 11th level (1d10), and 17th level (1d12)."
+}

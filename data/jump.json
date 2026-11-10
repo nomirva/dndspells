@@ -1,0 +1,26 @@
+{
+  "id": "0b8c797c-4d84-4aa4-88de-368c2fa1c448",
+  "nameRu": "Прыжок",
+  "nameEn": "Jump",
+  "level": 1,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Друид",
+    "Магус",
+    "Псион",
+    "Следопыт",
+    "Чародей",
+    "Сосуд",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "Касание",
+  "components": "В, С, М (задняя лапка кузнечика)",
+  "duration": "1 минута",
+  "descriptionMarkdown": "Вы касаетесь согласного существа и значительно изменяете его плавучесть. До окончания заклинания один раз в каждый свой ход цель может потратить 10 футов перемещения, чтобы прыгнуть на расстояние до 30 футов.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше дистанция магического прыжка увеличивается на 10 футов за каждый уровень ячейки выше 1-го.",
+  "originalText": "Jump ALT\n1st-level Transmutation\nClasses: Artificer, Druid, Magus, Psion, Ranger, Sorcerer,\nVessel, Warlock, Wizard\nCasting Time: 1 bonus action\nRange: Touch\nComponents: V S M (A grasshopper's hind leg)\nDuration: 1 minute\nYou touch a willing creature and greatly alter its buoyancy.\nOnce on each of its turns until the spell ends, the target can\nspend 10 feet of its movement to jump up to 30 feet.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the distance of this magical jump\nincreases by 10 feet for each slot level above 1st."
+}

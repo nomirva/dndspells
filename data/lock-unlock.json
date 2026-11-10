@@ -1,0 +1,19 @@
+{
+  "id": "3877e4f4-2eb7-4e20-a610-d38fc00a9a9b",
+  "nameRu": "Запирание / Отпирание",
+  "nameEn": "Lock/Unlock",
+  "level": 2,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Изобретатель",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С, М (скальный крюк, расходуемый заклинанием)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы касаетесь одной закрытой двери, окна, ворот, сундука или другого прохода и запираете либо отпираете его по следующим правилам.\n\n**Запирание.** Вы и обозначенные при накладывании существа можете открывать предмет как обычно. Можно также выбрать пароль: произнесённый вслух в пределах 5 футов от предмета, он подавляет заклинание на 1 минуту. Замок можно преодолеть успешной проверкой Силы или воровских инструментов против вашей Сл спасброска от заклинаний, после чего заклинание рассеивается.\n\n**Отпирание.** Если предмет закрыт обычным замком, заклинил или заперт засовом, он мгновенно отпирается, освобождается или лишается засова. Если замков несколько, отпирается только один. В любом случае при накладывании от предмета раздаётся громкий стук, слышимый на расстоянии до 300 футов.",
+  "originalText": "Lock/Unlock\n2nd-level Abjuration\nClasses: Artificer, Wizard\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (a piton, which the spell consumes)\nDuration: Instantaneous\nYou touch one closed door, window, gate, chest, or another\nentryway, and either lock or unlock it, using the rules below:\nLock. You and the creatures you designate when you cast\nthis spell can open the object normally. You can also choose a\npassword that, when spoken aloud within 5 feet of the object,\nsuppresses the spell for 1 minute. This lock can be bypassed\nby a successful Strength check or thieves' tools check against\nyour Spell save DC, at which point the spell is dispelled.\nUnlock. If the object is held shut by a mundane lock or it is\nstuck or barred, it is instantly unlocked, unstuck, or unbarred.\nIf the object has multiple locks, only one of them is unlocked.\nRegardless, when you cast the spell, a loud knock, audible out\nto 300 feet, emanates from the target object."
+}

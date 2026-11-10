@@ -1,0 +1,19 @@
+{
+  "id": "d4bb9cdf-f262-4e22-ae00-138cc2c06a49",
+  "nameRu": "Изменение облика",
+  "nameEn": "Shapechange",
+  "level": 9,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (три переплетённых обруча из золота, платины и свинца стоимостью не менее 1 500 зм)",
+  "duration": "Концентрация, вплоть до 10 минут",
+  "descriptionMarkdown": "Вы надеваете материальный компонент на голову и превращаетесь в существо с ПО не выше половины вашего уровня. Это не может быть Конструкт или Нежить; вы должны были прежде видеть живую особь этого вида. Форма — обычный представитель вида без классовых уровней и без особенности «Накладывание заклинаний» (Spellcasting).\n\n**Характеристики.** Ваши игровые характеристики заменяются характеристиками выбранного существа, но сохраняются мировоззрение, личность, хиты и значения Интеллекта, Мудрости и Харизмы. Вы сохраняете свои владения и получаете владения существа. Если владение совпадает, можно использовать больший бонус.\n\nВы не можете использовать легендарные сопротивления, легендарные действия или действия логова, даже если они есть у выбранного существа.\n\n**Особенности.** Вы сохраняете собственные особенности и можете пользоваться ими, если выбранная форма на это способна. Особые чувства не сохраняются: используются чувства новой формы.\n\n**Снаряжение.** Вы выбираете, падает ли снаряжение на землю, сливается ли с формой или остаётся надетым. Оно не меняет размер под новую форму; преимущества сохраняются, только если форма может носить и использовать предмет.\n\n**Смена формы.** Пока длится заклинание, действием вы можете вновь превратиться в другое выбранное существо с соблюдением тех же правил и ограничений.",
+  "originalText": "Shapechange ALT\n9th-level Transmutation\nClasses: Druid, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (three interwoven circlets of gold,\nplatinum, and lead, worth at least 1,500 gold)\nDuration: Concentration, up to 10 minutes\nYou place the material component of this spell on your head\nand transform into a creature of CR equal to half your level,\nor lower. It cannot be a Construct or Undead, and you must\nhave seen a living specimen of that creature before. It is an\naverage specimen of that creature, and it cannot have class\nlevels or the Spellcasting feature.\nStatistics. Your game statistics are replaced by the chosen\ncreature's, though, you retain your alignment, personality, hit\npoints, and Intelligence, Wisdom, and Charisma scores. You\nretain your proficiencies and gain those of the creature. If you\nboth share a proficiency, you can use the higher bonus.\nYou cannot use Legendary Resistances, Legendary Actions,\nor Lair Actions even if the chosen creature has them.\nFeatures. You retain your features and can use them so\nlong as the chosen creature is capable of doing so. You don't\nretain special senses, but use the senses of the creature.\nEquipment. You choose whether your equipment falls to\nthe ground, merges with your new form, or is worn by it. Your\nequipment does not change size to fit your new form, and you\nonly retain its benefits if the creature you transform into can\nwear and use the object.\nShifting. While the spell lasts, you can use your action to\ntransform again, taking the shape of another creature of your\nchoice, following the same rules and restrictions above."
+}

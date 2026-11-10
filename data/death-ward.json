@@ -1,0 +1,19 @@
+{
+  "id": "9289e2be-b25a-4b4c-9066-45f59d26f0f8",
+  "nameRu": "Защита от смерти",
+  "nameEn": "Death Ward",
+  "level": 4,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Жрец",
+    "Паладин"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С",
+  "duration": "8 часов",
+  "descriptionMarkdown": "Вы касаетесь существа и защищаете его от прикосновения смерти. В первый раз, когда цель начинает свой ход с 0 хитов, но ещё не мертва, она может подняться с 1 хитом, после чего заклинание оканчивается.\n\nЕсли во время действия заклинания цель подвергается эффекту, который мгновенно убил бы её без нанесения урона, этот эффект для неё отменяется, а заклинание оканчивается.",
+  "originalText": "Death Ward\n4th-level Abjuration\nClasses: Cleric, Paladin\nCasting Time: 1 action\nRange: Touch\nComponents: V, S\nDuration: 8 hours\nYou touch a creature and ward it against the touch of death.\nThe first time the target starts its turn with 0 hit points, but is\nnot dead, it can stand up with 1 hit point, and the spell ends.\nIf the spell is still in effect when the target is subjected to\nan effect that would kill it instantly without dealing damage,\nthat effect is negated against the target, and the spell ends."
+}

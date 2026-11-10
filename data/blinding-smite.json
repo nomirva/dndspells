@@ -1,0 +1,18 @@
+{
+  "id": "7379f052-101d-4399-a243-6315bf05fc5c",
+  "nameRu": "Ослепляющая кара",
+  "nameEn": "Blinding Smite",
+  "level": 3,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Попав рукопашной атакой оружием, вы можете заставить оружие вспыхнуть ослепительным светом. Атака наносит дополнительно 3d8 урона излучением. Цель должна преуспеть в спасброске Телосложения, иначе будет ослеплена до окончания заклинания. В конце каждого своего хода она может повторять спасбросок, оканчивая эффект при успехе.\n\nЕсли цель — Исчадие или Нежить либо обладает чувствительностью к солнечному свету, дополнительный урон излучением увеличивается на 1d8.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше урон излучением увеличивается на 1d8 за каждый уровень ячейки выше 2-го [так указано в исходнике].",
+  "originalText": "Blinding Smite ALT\n3rd-level Evocation\nClasses: Paladin\nCasting Time: On hit\nRange: Self\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Concentration, up to 1 minute\nWhen you hit with a melee weapon attack you can cause the\nweapon to flare with an overwhelming blinding light. This\nattack deals 3d8 bonus radiant damage, and the target must\nsucceed on a Constitution saving throw or become blinded\nuntil the spell ends. The target can repeat this saving throw\nat the end of each of its turns, ending the effect on a success.\nIf your target is a fiend or undead, or if it has the sunlight\nsensitivity trait, the bonus radiant damage increases by 1d8.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, the radiant damage increases by\n1d8 for each spell slot level above 2nd."
+}

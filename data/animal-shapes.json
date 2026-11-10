@@ -1,0 +1,18 @@
+{
+  "id": "307e3d9b-9a5b-41ce-adc1-4b254d042ccb",
+  "nameRu": "Звериные облики",
+  "nameEn": "Animal Shapes",
+  "level": 8,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 24 часов",
+  "descriptionMarkdown": "Древней магией вы превращаете себя и других в животных. Выберите любое число согласных существ в пределах дистанции, превращая их в Зверей по следующим правилам.\n\n**Форма.** Каждое существо превращается в Зверя с ПО 4 или ниже, которого вы прежде видели. Можно выбрать разные формы для разных целей. В последующие ходы действием вы можете превратить одну цель этого заклинания в пределах 30 футов в другого Зверя с теми же ограничениями.\n\n**Характеристики.** Игровые характеристики заменяются характеристиками Зверя, но сохраняются мировоззрение, личность, хиты и значение Харизмы.\n\n**Действия.** Существо может совершать лишь доступные этому Зверю действия. Оно не может говорить, накладывать заклинания или совершать действия, требующие рук либо речи.\n\n**Снаряжение.** Одежда, оружие, доспехи и удерживаемые предметы сливаются с новой формой. Существо не может активировать, использовать, держать снаряжение или иначе получать от него преимущества.\n\n**Возвращение.** При 0 хитов существо мгновенно принимает истинную форму. Оно также может действием досрочно вернуть обычную форму. После возвращения в обычную форму действие заклинания для него оканчивается.",
+  "originalText": "Animal Shapes ALT\n8th-level Transmutation\nClasses: Druid\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S\nDuration: Concentration, up to 24 hours\nYou use elder magicks to transmute yourself and others into\nanimal forms. Choose any number of willing creatures within\nrange to transform into Beasts, using the following rules:\nForm. Each creature is transformed into a Beast of CR 4\nor lower that you have seen before. You can choose different\nform for each target. On subsequent turns, you can use your\naction to transform one target of this spell within 30 feet into\nanother Beast, using the same restrictions.\nStatistics. The creature's game statistics are replaced by\nthose of the Beast. However, while transformed, it retains its\nalignment, personality, its Hit Points, and Charisma score.\nActions. The creature can only take the actions that would\nbe available to that Beast. It cannot speak, cast spells, or take\nany actions that require hands or speech.\nEquipment. Its clothing, weapons, armor, and objects it\nis holding meld into the new form. However, it can't activate,\nuse, wield, or otherwise benefit from any of its equipment.\nReverting. A creature instantly reverts to its true form if it\nis reduced to 0 hit points. It can also revert to its normal form\nearly as an action. However, once it returns to its normal\nform the effects of this spell end for it."
+}

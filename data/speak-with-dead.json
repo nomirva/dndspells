@@ -1,0 +1,20 @@
+{
+  "id": "47cc1440-2bc1-45ca-a279-1a6b6e7335fa",
+  "nameRu": "Разговор с мёртвыми",
+  "nameEn": "Speak with Dead",
+  "level": 3,
+  "school": "Некромантия",
+  "ritual": true,
+  "alternative": true,
+  "classes": [
+    "Жрец",
+    "Шаман",
+    "Волшебник"
+  ],
+  "castingTime": "10 минут",
+  "range": "10 футов",
+  "components": "В, С, М (две золотые монеты, расходуемые заклинанием)",
+  "duration": "1 минута",
+  "descriptionMarkdown": "Вы придаёте подобие жизни и разума выбранному трупу Гуманоида в пределах дистанции, позволяя ему отвечать на вопросы. У трупа должен сохраниться рот, и он не должен быть Нежитью. Если в последние 10 дней труп уже был целью «Разговора с мёртвыми», это накладывание проваливается.\n\nПока действует заклинание, заклинатель может задать трупу до трёх вопросов. Ответы, требующие чего-то помимо «да» или «нет», кратки и загадочны. Труп не обязан отвечать правдиво, особенно если заклинатель был враждебен ему или распознаётся как враг.\n\nЗаклинание не возвращает душу в тело, а извлекает отпечаток сознания в последние мгновения перед смертью. Труп не может узнавать новую информацию, понимать события после своей смерти или строить предположения о будущем.",
+  "originalText": "Speak with Dead ALT\n3rd-level Necromancy (Ritual)\nClasses: Cleric, Shaman, Wizard\nCasting Time: 10 minutes\nRange: 10 feet\nComponents: V, S, M (two gold coins, consumed by the spell)\nDuration: 1 minute\nYou grant a semblance of life and intelligence to a Humanoid\ncorpse of your choice within range, allowing it to answer your\nquestions. It must still have a mouth and it cannot be Undead.\nIf this corpse was the target of another speak with dead spell\nin the past 10 days, this casting of the spell fails.\nWhile the spell lasts, the spellcaster can ask the corpse up\nto three questions. Any answers requested beyond a \"yes\" or\n\"no\" are brief and cryptic. The corpse is not compelled to give\ntruthful answers, especially if the spellcaster was Hostile to it\nor it recognizes the spellcaster as an enemy.\nThis spell does not return the soul to the corpse's body, but\ndraws out the imprint of its consciousness from the moments\nbefore its death. The corpse cannot learn new information, it\ncannot comprehend anything that has happened since it died,\nand it cannot speculate about the future."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "87ee0389-018f-4b87-a99f-0ef008ba9f7b",
+  "nameRu": "Первобытная дикость",
+  "nameEn": "Primal Savagery",
+  "level": 0,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Шаман"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя",
+  "components": "С, М (свободная рука)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Ваши пальцы превращаются в острые когти до начала вашего следующего хода. Частью действия накладывания вы можете совершить рукопашную атаку заклинанием этими когтями. При попадании они наносят рубящий урон, равный 1d6 + ваш модификатор заклинательной характеристики.\n\n**На высоких уровнях.** Число атак когтями, совершаемых частью действия накладывания, увеличивается на 5-м уровне до двух, на 11-м — до трёх, на 17-м — до четырёх.",
+  "originalText": "Primal Savagery ALT\nTransmutation Cantrip\nClasses: Druid, Shaman\nCasting Time: 1 action\nRange: self\nComponents: S, M (an empty hand)\nDuration: Instantaneous\nYour fingers transform into sharp claws until the start of your\nnext turn. As part of the action used to cast this spell you can\nmake a melee spell attack with these claws. On hit, they deal\nslashing damage equal to 1d6 + your spellcasting modifier.\nAt Higher Levels. The number of attacks you make with\nthe claws as part of the action to cast this spell increases at\n5th level (two), 11th level (three), and 17th level (four)."
+}

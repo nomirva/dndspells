@@ -1,0 +1,22 @@
+{
+  "id": "3463f6a5-5b92-4afe-a7a2-2a9536305f57",
+  "nameRu": "Громовой клинок",
+  "nameEn": "Booming Blade",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Бард",
+    "Магус",
+    "Чародей",
+    "Колдун"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "На себя",
+  "components": "В, М (простое или воинское рукопашное оружие)",
+  "duration": "1 раунд",
+  "descriptionMarkdown": "Бонусным действием вы окутываете использованное при накладывании рукопашное оружие громовой магией. До начала вашего следующего хода атаки этим оружием наносят урон звуком вместо обычного типа урона оружия.\n\nОдин раз за накладывание, нанося этим заклинанием урон звуком, вы можете окружить цель громовой энергией до начала вашего следующего хода. Если до этого момента цель добровольно переместится на 5 футов или больше, энергия взорвётся: цель получит 1d6 урона звуком, после чего энергия рассеется.\n\n**На высоких уровнях.** Урон звуком при перемещении существа минимум на 5 футов увеличивается на 5-м уровне до 1d8, на 11-м — до 1d10, на 17-м — до 1d12.",
+  "originalText": "Booming Blade ALT\nEvocation Cantrip\nClasses: Artificer, Bard, Magus, Sorcerer, Warlock\nCasting Time: 1 bonus action\nRange: Self\nComponents: V, M (a simple or martial melee weapon)\nDuration: 1 round\nAs a bonus action, you wreathe the melee weapon used in the\ncasting of this spell with thunderous magic. Until the start of\nyour next turn, your attacks with that weapon deal thunder\ndamage in place of the weapon's normal damage type.\nOnce per casting when you deal thunder damage with this\nspell, you can envelop your target in thunderous energy until\nthe start of your next turn. If the target willingly moves 5 feet\nor more before then, this thunderous energy explodes and it\ntakes 1d6 thunder damage, then the energy dissipates.\nAt Higher Levels. The thunder damage dealt by this spell\nwhen the creature moves at least 5 feet increases at 5th level\n(1d8), 11th level (1d10), and 17th level (1d12)."
+}

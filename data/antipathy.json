@@ -1,0 +1,21 @@
+{
+  "id": "1e81e0a0-178d-4b54-8aa4-563dfbbc2a98",
+  "nameRu": "Антипатия",
+  "nameEn": "Antipathy",
+  "level": 8,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Псион",
+    "Шаман",
+    "Волшебник"
+  ],
+  "castingTime": "1 час",
+  "range": "Касание",
+  "components": "В, С, М (ложка уксуса для антипатии или капля мёда для симпатии)",
+  "duration": "10 дней",
+  "descriptionMarkdown": "Вы наполняете предмет Огромного или меньшего размера мощной отталкивающей магией, выбирая тип разумных существ, например бронзовых драконов, троллей или карг. До окончания заклинания предмет излучает магическую ауру радиусом 60 футов, отталкивающую существ этого типа.\n\n**Эффекты.** Если выбранное существо видит предмет или входит в ауру, оно чувствует сильнейшее желание бежать и должно совершить спасбросок Мудрости, иначе станет испуганным предметом. Испуг сохраняется, пока существо видит предмет или остаётся в ауре. В испуге оно должно тратить перемещение на бегство к ближайшему безопасному месту вне ауры, откуда не видно предмета. Достигнув такого места, оно перестаёт быть испуганным.\n\nИспуг возвращается, если существо снова видит предмет или вновь входит в его ауру.\n\n**Окончание эффекта.** Если затронутое существо больше не видит предмет и находится вне ауры, оно может действием повторить спасбросок Мудрости. При успехе понимает магическую природу эффекта и получает иммунитет к нему на 1 минуту.\n\n**Обратное накладывание.** Вместо этого вы можете наполнить предмет симпатией. Если выбранное существо видит предмет или входит в ауру, оно должно преуспеть в спасброске Мудрости, иначе будет тратить всё перемещение в каждый ход на максимальное приближение к предмету. Приблизившись, оно не может добровольно отойти. Если цель получает урон под этим эффектом, она может окончить его описанным выше способом.",
+  "originalText": "Antipathy ALT\n8th-level Enchantment\nClasses: Druid, Psion, Shaman, Wizard\nCasting Time: 1 hour\nRange: Touch\nComponents: V, S, M (a spoonfull of vinegar for antipathy, or\na drop of honey for sympathy)\nDuration: 10 days\nYou infuse a Huge or smaller object with powerful repulsive\nmagic, choosing a type of intelligent creature such as bronze\ndragons, trolls, or hags. For the duration, this object emits a\n60-foot aura of magic which repels that type of creature.\nEffects. If the chosen creature can see the object or enters\nits magic aura, it feels an intense urge to flee, and must make\na Wisdom saving throw or become Frightened of the object.\nIt is Frightened so long as it can see the object, or while it\nremains in its magical aura. While Frightened, it must use its\nmovement to flee from the object to the nearest safe location\noutside of its magic aura where it cannot see the object. Once\na creature does so, it is no longer Frightened of the object.\nThe creature becomes Frightened of this object again if it\ncan see it or if it reenters the object's magical aura.\nEnding this Effect. If an effected creature can no longer\nsee the object and is outside of its magic aura, it can use its\naction to repeat the Wisdom saving throw. On a successful\nsave, the creature knows the effect is magical in nature, and\nit gains immunity to the effect for 1 minute.\nInverse Casting. You can use this spell to infuse sympathy\ninto an object instead. If a chosen creature can see the object\nor moves within its magic aura, it must succeed on a Wisdom\nsaving throw or use all its movement on each turn to move as\nclose to the object as it can. Once it does so, it can't willingly\nmove away from the object. If the target takes damage while\nunder this effect, it can end the effect as described above."
+}

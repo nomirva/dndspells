@@ -1,0 +1,19 @@
+{
+  "id": "fa3dbacc-e11a-4163-9c15-850d7dc63278",
+  "nameRu": "Голод Хадара",
+  "nameEn": "Hunger of Hadar",
+  "level": 3,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Сосуд",
+    "Колдун"
+  ],
+  "castingTime": "1 действие",
+  "range": "120 футов",
+  "components": "В, С, М (маринованное щупальце осьминога)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы открываете врата во тьму между звёздами, кишащую неведомыми ужасами. В точке в пределах дистанции появляется сфера мрака и лютого холода радиусом 20 футов, существующая до окончания заклинания. Пустоту наполняют тихий шёпот и хлюпающие звуки, слышимые на расстоянии до 30 футов. Никакой свет, магический или иной, не способен осветить область; существа внутри ослеплены.\n\nПустота искривляет ткань пространства, делая область труднопроходимой местностью. Любое существо, начинающее ход в области, получает 2d6 урона холодом. Любое существо, заканчивающее ход в области, должно преуспеть в спасброске Ловкости, иначе получит 2d6 урона кислотой от прикосновений молочно-белых потусторонних щупалец.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше за каждый уровень ячейки выше 3-го радиус увеличивается на 5 футов, а урон холодом и кислотой — каждый на 1d6.",
+  "originalText": "Hunger ooff Hadar ALT\n3rd-level Conjuration\nClasses: Vessel, Warlock\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S, M (pickled octopus tentacle)\nDuration: Concentration, up to 1 minute\nYou open a gateway to the dark between the stars, a region\ninfested with unknown horrors. A 20-foot-radius sphere of\nblackness and bitter cold appears, centered on a point with\nrange and lasting for the duration. This void is filled with a\ncacophony of soft whispers and slurping noises that can be\nheard up to 30 feet away. No light, magical or otherwise, can\nilluminate the area, and creatures in the area are blinded.\nThe void creates a warp in the fabric of space, and the area\nis difficult terrain. Any creature that starts its turn in the area\ntakes 2d6 cold damage. Any creature that ends its turn in the\narea must succeed on a Dexterity saving throw or take 2d6\nacid damage as milky, otherworldly tentacles rub against it.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th level or higher, the radius of the spell increases by\n5 feet and both the cold and acid damage each increase by\n1d6 for each slot level above 3rd."
+}

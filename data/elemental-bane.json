@@ -1,0 +1,24 @@
+{
+  "id": "a00ca657-0f69-4861-b937-9d23be6b9510",
+  "nameRu": "Стихийное проклятие",
+  "nameEn": "Elemental Bane",
+  "level": 3,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Друид",
+    "Магус",
+    "Шаман",
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "1 минута",
+  "descriptionMarkdown": "Выберите один тип урона: кислота, холод, огонь, электричество, яд или звук, — и одно существо в пределах дистанции. Оно совершает спасбросок Телосложения; при провале на него ложится стихийное проклятие, и, если у него есть сопротивление выбранному типу урона, оно теряет его до окончания заклинания.\n\nПервый раз за каждый ход, когда проклятое существо получает урон выбранного типа, оно получает дополнительно 1d6 урона, затем повторяет спасбросок Телосложения, снимая проклятие при успехе.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше за каждый уровень ячейки выше 4-го вы можете увеличить дополнительный урон на 1d6 либо выбрать ещё одно существо в пределах дистанции. При нескольких целях тип урона един для всех [порог «выше 4-го» сохранён из исходника].",
+  "originalText": "Elemental Bane ALT\n3rd-level Transmutation\nClasses: Artificer, Druid, Magus, Shaman, Sorcerer, Warlock,\nWizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: 1 minute\nChoose one of the following damage types: acid, cold, fire,\nlightning, poison, or thunder; and one creature within range.\nIt must make Constitution saving throw or be afflicted with\nan elemental curse, and if it has Resistance to the damage\ntype you chose, it loses it for the duration.\nThe first time each turn a cursed creature takes damage of\nthe chosen type, it takes a bonus 1d6 damage, then it repeats\nthe Constitution saving throw, ending the curse on a success.\nAt Higher Levels. If you cast this spell using a spell slot of\n4th-level or higher, you can either increase the bonus damage\nby 1d6, or target another creature within range, for each spell\nslot level above 4th. If you target more than one creature, you\nuse the same damage type for all taragets of the spell."
+}

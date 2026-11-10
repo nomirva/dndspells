@@ -1,0 +1,23 @@
+{
+  "id": "f698cc13-cd27-4fe9-bf33-0e5b23232958",
+  "nameRu": "Превращение",
+  "nameEn": "Polymorph",
+  "level": 4,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Магус",
+    "Чародей",
+    "Сосуд",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (кокон гусеницы)",
+  "duration": "Концентрация, вплоть до 10 минут",
+  "descriptionMarkdown": "Вы пытаетесь превратить видимое существо в пределах дистанции в Зверя по следующим правилам. Несогласная цель совершает спасбросок Харизмы, чтобы сопротивляться эффекту. Перевёртыши автоматически преуспевают в этом спасброске.\n\n**Форма.** Новая форма — любой живой Зверь, которого вы прежде видели. Существо можно превратить лишь в Зверя с ПО не выше половины уровня или ПО самого существа.\n\n**Характеристики.** Игровые характеристики существа заменяются характеристиками Зверя. При этом сохраняются мировоззрение, личность, хиты и значение Харизмы.\n\n**Действия.** Доступны только действия выбранного Зверя. Существо не может говорить, накладывать заклинания или совершать действия, требующие рук либо речи.\n\n**Снаряжение.** Одежда, оружие, доспехи и удерживаемые предметы сливаются с новой формой. Существо не может активировать, использовать, держать снаряжение или иным образом получать от него преимущества.\n\n**Возвращение.** При 0 хитов существо мгновенно возвращается в истинную форму. Оно также может повторять спасбросок Харизмы в конце каждого своего хода, возвращаясь в истинную форму при успехе.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше вы можете выбрать ещё одно существо за каждый уровень ячейки выше 4-го. Форму Зверя для каждой цели можно выбирать отдельно.",
+  "originalText": "Polymorph ALT\n4th-level Transmutation\nClasses: Druid, Magus, Sorcerer, Vessel, Warlock, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a caterpillar cocoon)\nDuration: Concentration, up to 10 minutes\nYou attempt to transform a creature you can see within range\ninto a Beast using the rules below. An unwilling target makes\na Charisma saving throw to resist this effect. Shapechangers\nautomatically succeed on this saving throw.\nForm. The new form can be any living Beast you have seen\nbefore. Creatures can only be transformed into a Beast with a\nCR equal to (or lower then) half its level or CR.\nStatistics. The creature's game statistics are replaced by\nthose of the Beast. However, while transformed, it retains its\nalignment, personality, its Hit Points, and Charisma score.\nActions. The creature can only take the actions that would\nbe available to that Beast. It cannot speak, cast spells, or take\nany actions that require hands or speech.\nEquipment. Its clothing, weapons, armor, and objects it\nis holding meld into the new form. However, it can't activate,\nuse, wield, or otherwise benefit from any of its equipment.\nReverting. The creature instantly reverts to its true form if\nit is reduced to 0 hit points. It can also repeat this Charisma\nsaving throw at the end of each of its turns, reverting to its\ntrue form on a successful save.\nAt Higher Levels. When you cast this spell with a slot of\n5th-level or higher, you can target one additional creature for\neach slot level above 4th. You can choose the Beast that you\ntransform each target into individually."
+}

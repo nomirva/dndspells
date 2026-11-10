@@ -1,0 +1,18 @@
+{
+  "id": "13e6c800-4504-4277-998a-3cae20dec76c",
+  "nameRu": "Клеймящая кара",
+  "nameEn": "Branding Smite",
+  "level": 2,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Попав рукопашной атакой оружием, вы можете заставить оружие засиять потусторонним астральным светом. Атака наносит дополнительно 2d8 урона излучением, а цель до окончания заклинания испускает тусклый свет в радиусе 5 футов. Если цель была невидимой, она становится видимой и до окончания заклинания не может стать невидимой магическими или обычными средствами.\n\nЕсли цель — Исчадие или Нежить либо обладает чувствительностью к солнечному свету, дополнительный урон излучением увеличивается на 1d8.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше урон излучением увеличивается на 1d8 за каждый уровень ячейки выше 2-го.",
+  "originalText": "Branding Smite ALT\n2nd-level Evocation\nClasses: Paladin\nCasting Time: On hit\nRange: Self\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Concentration, up to 1 minute\nWhen you hit with a melee weapon attack you can cause the\nweapon to gleam with an otherworldly astral radiance. This\nattack deals 2d8 bonus radiant damage, and the target sheds\ndim light out to a 5-foot radius until the spell ends. The target\nalso becomes visible if it was invisible and it cannot become\ninvisible by magical or mundane means for the duration.\nIf your target is a fiend or undead, or if it has the sunlight\nsensitivity trait, the bonus radiant damage increases by 1d8.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, the radiant damage increases by\n1d8 for each spell slot level above 2nd."
+}

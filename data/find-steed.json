@@ -1,0 +1,18 @@
+{
+  "id": "62c6f441-bb5d-4668-b982-9be44312e52a",
+  "nameRu": "Поиск скакуна",
+  "nameEn": "Find Steed",
+  "level": 2,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "1 минута",
+  "range": "30 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы призываете духа в свободное пространство в пределах дистанции. Он принимает облик сверхъестественно умного, сильного и верного скакуна, сразу связанного с вами. Скакун принимает облик четвероногого Зверя Среднего или Большого размера с ПО ½ или ниже без скорости полёта. Вы должны были прежде видеть живую особь этого вида.\n\n**Характеристики.** Скакун использует блок характеристик выбранного существа, но его тип соответствует вашему мировоззрению: Небожитель (доброе), Фея (нейтральное) или Исчадие (злое). Интеллект становится равен 6, если был ниже, и скакун понимает один известный вам язык.\n\n**Управление.** Вы управляете скакуном и определяете его действия в бою и вне боя. В бою он разделяет вашу инициативу и действует в ваш ход. Верхом на нём вы можете распространить любое накладываемое вами заклинание, нацеленное только на вас, также на скакуна.\n\nНаходясь в пределах 1 мили друг от друга, вы можете общаться особой телепатией.\n\nПри 0 хитов скакун исчезает. Вы также можете отпустить его бонусным действием, заставив исчезнуть. При повторном накладывании можно призвать того же скакуна — он появляется в пределах дистанции с максимумом хитов — либо нового, освободив предыдущего от связи.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше вы можете выбрать ранее виденную форму Зверя, Небожителя или Монстра Среднего либо Большого размера с ПО 2 или ниже. Форма должна быть четвероногой или крылатой.",
+  "originalText": "Find Steed ALT\n2nd-level Conjuration\nClasses: Paladin\nCasting Time: 1 minute\nRange: 30 feet\nComponents: V, S\nDuration: Instantaneous\nYou conjure a spirit in an unoccupied space within range that\nassumes the form of a supernaturally intelligent, strong, and\nloyal steed, which is instantly bonded to you. The Steed takes\non the form of a Medium or Large quadrupedal (four-legged)\nBeast of CR ½ or lower without a flying speed. You must have\nseen a living specimen of this Beast before.\nStatistics. Your Steed uses the stat block of the creature\nyou chose for it, but its creature type changes to reflect your\nalignment: Celestial (good), Fey (neutral), or Fiend (evil). The\nSteed's Intelligence score becomes 6 (if it was lower), and it\ncan understand one language that you speak.\nControl. You control your Steed and decide how it acts,\nboth in and out of combat In combat, it shares your initiative\nand acts during your turn. While riding it, you can make any\nspell you cast that targets only you also target your Steed.\nWhile you and your Steed are within 1 mile of one another,\nyou can use a special form of Telepathy to communicate.\nIf your Steed is reduced to 0 hit points it disappears. You\ncan also use a bonus action to dismiss your Steed, causing it\nto disappear. Should you cast this spell again you can choose\nto either conjure the same Steed, and it reappears in range at\nits maximum hit points, or to conjure a new Steed, releasing\nyour previous Steed from its bond in the process.\nAt Higher Levels. When you cast this spell with a slot of\n4th-level or higher, you can choose for your Steed to take the\nform of a Medium or Large Beast, Celestial, or Monstrosity of\nCR 2 or lower that you have seen before. The form the Steed\ntakes must be quadrupedal or winged."
+}

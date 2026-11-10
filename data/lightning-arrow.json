@@ -1,0 +1,19 @@
+{
+  "id": "965297a9-d565-4f5f-beb2-fd39cf62f020",
+  "nameRu": "Стрела-молния",
+  "nameEn": "Lightning Arrow",
+  "level": 3,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Следопыт"
+  ],
+  "castingTime": "1 атака",
+  "range": "На себя",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Частью дальнобойной атаки оружием вы можете превратить боеприпас или метательное оружие в молнию. При попадании цель получает обычный урон атаки и ещё 4d8 урона электричеством. При промахе она получает половину урона электричеством и не получает обычного урона.\n\nНезависимо от попадания или промаха все существа в пределах 10 футов от цели совершают спасбросок Ловкости: при провале получают 2d8 урона электричеством, при успехе — половину. Затем боеприпас или оружие принимает обычную форму.\n\nЛюбое существо, получившее урон электричеством от этого заклинания, не может совершать реакции до начала вашего следующего хода.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше урон обоих эффектов увеличивается на 1d8 за каждый уровень ячейки выше 3-го.",
+  "originalText": "Lightning Arrow ALT\n3rd-level Transmutation\nClasses: Artificer, Ranger\nCasting Time: 1 attack\nRange: Self\nComponents: V, S\nDuration: Instantaneous\nAs part of a ranged weapon attack, you can transmute a piece\nof ammunition, or the thrown weapon, into a bolt of lightning.\nOn hit, the target takes the normal damage of the attack, plus\na bonus 4d8 lighting damage. On a miss, the target takes half\nas much lightning damage, and none of the normal damage.\nRegardless if this attack hits or misses, all creatures within\n10 feet of the target must make a Dexterity saving throw. On\na failed save, creatures take 2d8 lighting damage, and half as\nmuch lighting damage on a success. The piece of\nammunition or thrown weapon then returns to its normal\nform.\nAny creature that takes lighting damage from this spell\ncannot take reactions until the beginning of your next turn.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, the damage for both effects of the\nspell increases by 1d8 for each slot level above 3rd."
+}

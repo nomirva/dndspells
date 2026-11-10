@@ -1,0 +1,20 @@
+{
+  "id": "6a7c2a2c-1b3b-4df2-a614-c92be0f0ae81",
+  "nameRu": "Остановка времени",
+  "nameEn": "Time Stop",
+  "level": 7,
+  "school": "Прорицание",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Псион",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя",
+  "components": "В",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы ненадолго останавливаете течение времени для всех, кроме себя. Для остальных существ время не идёт, а вы совершаете два хода подряд, в течение которых можете действовать и перемещаться как обычно.\n\nЗаклинание мгновенно оканчивается, если вы отойдёте более чем на 1 000 футов от места накладывания либо если совершённое во время заклинания действие повлияет на другое существо или на предмет, который другое существо носит или несёт.\n\n**На высоких уровнях.** При использовании ячейки 8-го уровня или выше число ваших ходов в остановленном времени увеличивается на 1 за каждый уровень ячейки выше 7-го.",
+  "originalText": "Time Stop ALT\n7th-level Divination\nClasses: Psion, Sorcerer, Wizard\nCasting Time: 1 action\nRange: Self\nComponents: V\nDuration: Instantaneous\nYou briefly stop the flow of time for everyone but yourself. No\ntime passes for other creatures, while you take two turns in a\nrow, during which you can use actions and move as normal.\nThis spell instantly ends if you move more than 1,000 feet\nfrom the location you cast it in, or if an action you use during\nthe spell affects a creature other than you or an object that is\nbeing worn or carried by another creature.\nAt Higher Levels. If you cast this spell using a spell slot of\n8th-level or higher, the number of turns you take while time is\nstopped increases by 1 for each spell slot level above 7th."
+}

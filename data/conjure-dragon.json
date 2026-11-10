@@ -1,0 +1,19 @@
+{
+  "id": "85ab816e-dc04-4f61-8060-447941c6303f",
+  "nameRu": "Призыв дракона",
+  "nameEn": "Conjure Dragon",
+  "level": 5,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (добровольно подаренная чешуйка Древнего Дракона, инкрустированная драгоценными камнями стоимостью не менее 500 зм)",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "Вы сжимаете компонент и призываете на помощь частицу сущности этого Древнего Дракона. Пока сохраняется концентрация, она дружелюбна к вам и союзникам и исполняет приказы. До окончания заклинания действуют следующие правила.\n\n**Характеристики.** Сущность принимает форму выбранного Дракона с ПО 5 или ниже, но цвет чешуи, сопротивление урону и тип урона дыхания соответствуют Дракону, предоставившему компонент. Она появляется в выбранном свободном пространстве в пределах дистанции.\n\n**Бой.** Дракон разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать устные приказы без затрат действия. Если приказов нет или они выполнены, он безжалостно защищает себя.\n\n**Накладывание заклинаний.** Если Дракон умеет накладывать заклинания, вы можете приказать ему это делать, но он использует ваши ячейки, даже если обычно обходится без них.\n\n**Контроль.** Когда концентрация оканчивается, Дракон мгновенно исчезает, а сущность возвращается к Древнему Дракону.\n\n**На высоких уровнях.** При использовании ячейки 6-го уровня или выше предельный ПО формы Дракона увеличивается на 1 за каждый уровень ячейки выше 5-го.",
+  "originalText": "Conjure Dragon\n5th-level Conjuration\nClasses: Druid, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (the scale of an Ancient Dragon, inlaid\nwith gems worth at last 500 gold, willingly gifted to you)\nDuration: Concentration, up to 1 hour\nGrasping the material component of this spell, you conjure\na portion of that Ancient Dragon's essence to your aid. While\nyour concentration lasts, it is Friendly to you and your allies\nand obeys your commands. For the duration, this draconic\nessence uses the rules below:\nStatistics. The draconic essence manifests in the form of\na Dragon of your choice of CR 5 or lower, however, the color\nof its scales, its damage resistance, and the damage dealt by\nits breath weapon change to match that of the dragon which\nprovided the material component of this spell. It appears in\nan unoccupied space of your choice within range.\nCombat. In combat, this Dragon shares your initiative and\nacts on your turn. You can give it verbal commands (no action\nrequired). If the Dragon does not receive any commands, or if\nits commands are completed, it defend itself with prejudice.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nControl. If your concentration ends, the Dragon instantly\ndisappears, the essence returning to the Ancient Dragon.\nAt Higher Levels. When you cast this spell using a spell\nslot of 6th level or higher, the CR of Dragon this essence can\nmanifest increases by 1 for each slot level above 5th."
+}

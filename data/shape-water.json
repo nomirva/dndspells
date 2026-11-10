@@ -1,0 +1,21 @@
+{
+  "id": "f5f8d1a8-2beb-4587-afc4-ecf428d778ec",
+  "nameRu": "Формование воды",
+  "nameEn": "Shape Water",
+  "level": 0,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Шаман",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы управляете водой и используете её против врагов. При накладывании выберите один из следующих эффектов.\n\n**Управление водой.** Вы управляете водой в кубе с ребром 5 футов в пределах дистанции: без вреда меняете направление течения, цвет или прозрачность, создаёте простые движущиеся образы либо замораживаете воду, если в ней нет существ.\n\n**Бросок воды.** Вы создаёте в руке небольшой шар нечистой воды и бросаете его в видимую цель в пределах дистанции, заставляя её совершить спасбросок Ловкости. При провале она получает на ваш выбор 1d8 урона холодом или ядом, а немагическое пламя мгновенно гаснет.\n\n**На высоких уровнях.** Урон увеличивается на 1d8 на 5-м (2d8), 11-м (3d8) и 17-м (4d8) уровнях.",
+  "originalText": "Shape Water ALT\nTransmutation Cantrip\nClasses: Druid, Shaman, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Instantaneous\nYou can manipulate water and use it to assault your enemies.\nWhen you cast this spell choose one of the following effects:\nManipulate Water. You manipulate water in a 5-foot cube\nwithin range, harmlessly changing the direction it is flowing,\naltering its color or opacity, causing simple animated shapes\nto appear, or if there are no creatures in it you can freeze it.\nHurl Wave. You create a small orb of tempestuous water in\nyour hand and hurl it at one target you can see within range,\nforcing it to make a Dexterity saving throw. On a failed save,\nthe target takes 1d8 cold damage, and any non-magical flame\nit is holding, or within 5 feet of it, is instantly extinguished.\nAt Higher Levels. The damage of this Cantrip increases by\n1d8 at 5th (2d8), 11th (3d8), and 17th level (4d8)."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ece64019-99d0-4759-a724-fdbbb02a0a0b",
+  "nameRu": "Удар стального ветра",
+  "nameEn": "Steel Wind Strike",
+  "level": 5,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Магус",
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы взмахиваете использованным при накладывании оружием и исчезаете, чтобы ударить подобно ветру. Выберите до пяти видимых целей в пределах дистанции. Совершите по каждой одну рукопашную атаку использованным оружием. При попадании цель получает обычный урон атаки этим оружием и ещё 5d10 урона силовым полем.\n\nЗатем вы можете телепортироваться в видимое свободное пространство в пределах 5 футов от одной из целей, по которой попали или промахнулись.",
+  "originalText": "Steel Wind Strike ALT\n5th-level Conjuration\nClasses: Magus, Ranger\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Instantaneous\nYou flourish the weapon used in the casting and then vanish\nto strike like the wind. Choose up to five targets you can see\nwithin range. Make one melee weapon attack against each\ntarget using the weapon used in the casting. On a hit, targets\ntake the normal damage of an attack with that weapon plus\nan additional 5d10 force damage.\nYou can then teleport to an unoccupied space you can see\nwithin 5 feet of one of the targets you hit or missed."
+}

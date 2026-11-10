@@ -1,0 +1,18 @@
+{
+  "id": "560067d4-ca70-4157-a037-afc325cabaa8",
+  "nameRu": "Злая насмешка",
+  "nameEn": "Vicious Mockery",
+  "level": 0,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы обрушиваете поток провокационных слов на существо в пределах дистанции, которое слышит и понимает вас. Цель должна преуспеть в спасброске Мудрости, иначе получит 1d6 урона психической энергией и до начала вашего следующего хода будет совершать с помехой каждый бросок атаки по любым целям, кроме вас.\n\n**На высоких уровнях.** Урон увеличивается на 1d6 на 5-м (2d6), 11-м (3d6) и 17-м (4d6) уровнях.",
+  "originalText": "Vicious Mockery ALT\nEnchantment Cantrip\nClasses: Bard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V\nDuration: Instantaneous\nYou unleash a string of provoking words at a creature that\ncan hear and understand you within range. The target must\nsucceed on a Wisdom saving throw, or it takes 1d6 psychic\ndamage and have disadvantage on every attack roll against\ntargets other than you until the start of your next turn.\nAt Higher Levels. This spell’s damage increases by 1d6\nwhen you reach 5th (2d6), 11th (3d6), and 17th level (4d6)."
+}

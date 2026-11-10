@@ -1,0 +1,19 @@
+{
+  "id": "1659cf61-40d2-4365-b7b2-bba5c8610a2e",
+  "nameRu": "Дубовая кора",
+  "nameEn": "Barkskin",
+  "level": 2,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С, М (полоска дубовой коры)",
+  "duration": "1 час",
+  "descriptionMarkdown": "Вы касаетесь согласного существа, не носящего металлический доспех. До окончания заклинания его кожа становится грубой, похожей на кору, а Класс Доспеха не может быть ниже 16. Заклинание оканчивается, если цель становится недееспособной или надевает металлический доспех; использование щита не лишает её этого преимущества.",
+  "originalText": "Barkskin ALT\n2nd-level Transmutation\nClasses: Druid, Ranger\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (a strip of oak bark)\nDuration: 1 hour\nYou touch a willing creature that is not wearing metal armor.\nFor the duration, it's skin has a rough, bark-like appearance,\nand its Armor Class cannot be lower than 16. The spell ends\nif the target is Incapacitated or dons metal armor, but it can\nwield a shield and retain this benefit."
+}

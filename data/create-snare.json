@@ -1,0 +1,21 @@
+{
+  "id": "f55aa027-4d07-4b38-85c2-58ea29b4a1ab",
+  "nameRu": "Создание силка",
+  "nameEn": "Create Snare",
+  "level": 1,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Друид",
+    "Следопыт",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С, М (30 футов шнура или верёвки, расходуемых заклинанием)",
+  "duration": "Пока не рассеяно или не сработает",
+  "descriptionMarkdown": "Вы наполняете шнур или верёвку магией, превращая их в волшебный силок, и указываете на видимое свободное пространство в пределах 30 футов. Силок разворачивается там и становится невидимым. Обнаружить его можно лишь успешной проверкой Расследования против вашей Сл спасброска от заклинаний.\n\nПервое существо Маленького или большего размера, вошедшее в это пространство, активирует силок и должно совершить спасбросок Ловкости. При провале оно падает ничком в своём пространстве и становится опутанным силком. Если существо не знает о силке, оно совершает этот спасбросок с помехой. Если при установке в пространстве уже есть существо, силок срабатывает немедленно.\n\nОпутанное существо совершает спасбросок Силы в конце каждого своего хода и при успехе освобождается. Другое существо может действием коснуться опутанного существа и совершить проверку Силы против вашей Сл спасброска от заклинаний, разрушая силок при успехе.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня силок наносит 2d6 рубящего урона каждый раз, когда существо проваливает спасбросок, чтобы избежать силка или выбраться из него. При использовании ячейки 3-го уровня или выше урон увеличивается на 1d6 за каждый уровень ячейки выше 2-го.",
+  "originalText": "Create Snare ALT\n1st-level Abjuration\nClasses: Artificer, Druid, Ranger, Wizard\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (30 feet of cord or rope, which is\nconsumed by the spell)\nDuration: Until dispelled or triggered\nYou infuse a length of cord or rope with magic, transforming\nit into a magic Snare, pointing it toward an unoccupied space\nyou can see within 30 feet. It unfurls in that space and turns\ninvisible. It can only be detected by a successful Investigation\ncheck against your Spell save DC.\nThe first Small or larger creature to move into that space\ntriggers your Snare and must make a Dexterity saving throw\nor fall Prone in its space and be Restrained by the Snare. If a\ncreature is unaware of the Snare, it makes this saving throw\nwith disadvantage. If a creature is in the space when you set\nthe Snare, the Snare is instantly triggered.\nA Restrained creature makes a Strength saving throw at\nthe end of each of its turns, escaping the Snare on a success.\nAnother creature can use its action to touch the Restratined\ncreature make a Strength check against your Spell save DC,\ndestroying the Snare on a success.\nAt Higher Levels. If you cast this spell using a 2nd level\nspell slot, the Snare deals 2d6 slashing damage whenever a\ncreature fails a saving throw to avoid or escape the Snare.\nIf you cast this spell using a spell slot of 3rd-level or higher,\nthis damage increases by 1d6 for each slot level above 2nd."
+}

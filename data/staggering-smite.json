@@ -1,0 +1,18 @@
+{
+  "id": "380f98aa-f6af-46cf-88de-32153f92d306",
+  "nameRu": "Ошеломляющая кара",
+  "nameEn": "Staggering Smite",
+  "level": 4,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Паладин"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (рукопашное оружие стоимостью не менее 1 см)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Попав рукопашной атакой оружием, вы можете пронзить и тело, и разум. Атака наносит дополнительно 4d6 урона психической энергией. Цель должна преуспеть в спасброске Мудрости, иначе до начала её следующего хода будет совершать с помехой броски атаки и проверки характеристик и не сможет совершать реакции.\n\nЕсли цель — Аберрация или способна говорить телепатически, дополнительный урон психической энергией увеличивается на 1d6.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше урон психической энергией увеличивается на 1d6 за каждый уровень ячейки выше 4-го.",
+  "originalText": "Staggering Smite ALT\n4th-level Evocation\nClasses: Paladin\nCasting Time: On hit\nRange: Self\nComponents: V, M (a melee weapon worth at least 1 sp)\nDuration: Instantaneous\nWhen you hit with a melee weapon attack you can cause the\nweapon to pierce both body and mind. This attack deals 4d6\nadditional psychic damage, and the target must succeed on a\nWisdom saving throw or until the start of its next turn, it has\ndisadvantage on attack rolls and ability checks and it cannot\ntake reactions.\nIf your target is an aberration or it can speak telepathically\nthis bonus psychic damage increases by 1d6.\nAt Higher Levels. When you cast this spell using a spell\nslot of 5th-level or higher, the psychic damage increases by\n1d6 for each spell slot level above 4th."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "7e6a64a6-ef7e-4270-9574-2be568f8a4b6",
+  "nameRu": "Мистический молот",
+  "nameEn": "Mystic Hammer",
+  "level": 0,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы бьёте существо в пределах дистанции псионической силой, заставляя его совершить спасбросок Силы. При провале оно получает 1d6 урона силовым полем и сбивается с ног. Существа Большого и более крупных размеров совершают этот спасбросок с преимуществом.\n\n**На высоких уровнях.** Урон и размер существа, совершающего спасбросок без преимущества, растут: на 5-м уровне — 2d6 и Большой, на 11-м — 3d6 и Огромный, на 17-м — 4d6.",
+  "originalText": "Mystic Hammer\nConjuration Cantrip\nClasses: Psion\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Instantaneous\nYou batter a creature within range with psionic force, forcing\nit to make a Strength saving throw. On a failed save, it takes\n1d6 force damage and it knocked prone. Large and larger\ncreatures have advantage on this Strength saving throw.\nAt Higher Levels. The damage of this Cantrip and size of\ncreature that makes the saving throw normally grows at 5th\nlevel (2d6, Large), 11th level (3d6, Huge), and 17th level (4d6)."
+}

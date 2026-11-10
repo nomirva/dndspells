@@ -1,0 +1,19 @@
+{
+  "id": "aa4a8f69-0890-4630-9f00-e47cbc1b0716",
+  "nameRu": "Призыв небожителя",
+  "nameEn": "Conjure Celestial",
+  "level": 5,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Жрец",
+    "Паладин"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В (истинное имя Небожителя), С",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "Произнося истинное имя Небожителя, вы призываете его на помощь, если его ПО не выше 5. Он дружелюбен к вам и союзникам, подчиняется приказам и использует следующие правила.\n\n**Характеристики.** Небожитель появляется в выбранном видимом свободном пространстве в пределах дистанции. При появлении вы можете придать ему внешность и характеристики другого выбранного Небожителя с ПО не выше его собственного.\n\n**Бой.** Небожитель разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать устные приказы без затрат действия. Если приказов нет или они выполнены, он перемещается и защищает себя.\n\n**Накладывание заклинаний.** Если Небожитель умеет накладывать заклинания, вы можете приказать ему это делать, но он использует ваши ячейки, даже если обычно обходится без них.\n\n**На высоких уровнях.** При использовании ячейки 6-го уровня или выше предельный ПО призываемых Небожителей увеличивается на 1 за каждый уровень ячейки выше 5-го.",
+  "originalText": "Conjure Celestial\n5th-level Conjuration\nClasses: Cleric, Paladin\nCasting Time: 1 action\nRange: 30 feet\nComponents: V (a Celestial's true name), S\nDuration: Concentration, up to 1 hour\nSpeaking its true name, you conjure a Celestial of CR 5 or\nlower to aid you. This Celestial is Friendly to you and your\nallies, obeys your commands, and uses the rules below:\nStatistics. The Celestial appears in an unoccupied space\nof your choice you can see in range. When it appears, you can\ncause it to take on the appearance and statistics of a different\nCelestial of your choice equal to its CR, or lower.\nCombat. This Celestial shares your initiative and it acts\nduring your turn. You can give it verbal commands (no action\nrequired). If the Celestial does not receive a command, or its\ncommands are completed, it will move and defend itself.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nAt Higher Levels. When you cast this spell using a spell\nslot of 6th level or higher, the CR of the Celestials that you\ncan conjure increases by 1 for each slot level above 5th."
+}

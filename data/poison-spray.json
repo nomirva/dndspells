@@ -1,0 +1,24 @@
+{
+  "id": "94c1b491-9706-42a8-ab1c-4393c5fc7b9d",
+  "nameRu": "Ядовитые брызги",
+  "nameEn": "Poison Spray",
+  "level": 0,
+  "school": "Некромантия",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Друид",
+    "Магус",
+    "Шаман",
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы поднимаете руку и выпускаете ядовитый туман в видимое существо в пределах дистанции. Совершите дальнобойную атаку заклинанием по цели. При попадании она получает 1d12 урона ядом.\n\n**На высоких уровнях.** Урон увеличивается на 1d12 на 5-м (2d12), 11-м (3d12) и 17-м (4d12) уровнях.",
+  "originalText": "Poison Spray ALT\nNecromancy Cantrip\nClasses: Artificer, Druid, Magus, Shaman, Sorcerer, Warlock,\nWizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S\nDuration: Instantaneous\nYou raise your hand and project a toxic mist at a creature you\ncan see within range. Make a ranged spell attack against the\ntarget. On hit, the target takes 1d12 poison damage.\nAt Higher Levels. The damage of this spell increases\nby 1d12 at 5th (2d12), 11th (3d12), and 17th level (4d12)."
+}

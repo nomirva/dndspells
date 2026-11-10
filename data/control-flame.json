@@ -1,0 +1,21 @@
+{
+  "id": "fd6963b6-0048-4b22-9517-ae9f065cd856",
+  "nameRu": "Управление пламенем",
+  "nameEn": "Control Flame",
+  "level": 0,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Шаман",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы управляете огнём и используете его против врагов. При накладывании выберите один из следующих эффектов.\n\n**Управление огнём.** Выберите видимое немагическое пламя в пределах дистанции, помещающееся в куб с ребром 5 футов. Вы можете разрастить пламя так, чтобы оно заполнило куб, погасить всё пламя в кубе, изменить его цвет или создать в нём простые движущиеся образы, например существ или мест.\n\n**Бросок пламени.** Вы создаёте в руке небольшой шар мерцающего пламени и бросаете его в одну видимую цель в пределах дистанции, совершая дальнобойную атаку заклинанием. При попадании цель получает 1d8 урона огнём. Горючие предметы, которые никто не носит и не несёт, воспламеняются при попадании этой атаки.\n\n**На высоких уровнях.** Урон заговора увеличивается на 1d8 на 5-м (2d8), 11-м (3d8) и 17-м (4d8) уровнях.",
+  "originalText": "Control Flame ALT\nTransmutation Cantrip\nClasses: Druid, Shaman, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Instantaneous\nYou can manipulate fire and use it to assault your foes. When\nyou cast this spell choose one of the following effects:\nManipulate Fire. You choose nonmagical flame you can\nsee within range and that fits within a 5-foot cube and cause\nthe flame to grow to fill the cube, extinguish all flame within\nthe cube, change its color, or cause simple animated shapes\nto appear within the flames, such as creatures or locations.\nHurl Flame. You create a small ball of flickering flame in\nyour hand and hurl it at one target that you can see within\nrange, making a ranged spell attack against it. On hit, it takes\n1d8 fire damage. Flammable objects that aren't being worn\nor carried are ignited when hit by this spell attack.\nAt Higher Levels. The damage of this Cantrip increases by\n1d8 at 5th (2d8), 11th (3d8), and 17th level (4d8)."
+}

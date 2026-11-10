@@ -1,0 +1,18 @@
+{
+  "id": "84a7339b-75b0-4ce3-9cd3-99a66a0d0344",
+  "nameRu": "Удар разума",
+  "nameEn": "Mind Thrust",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 действие",
+  "range": "120 футов",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы обрушиваете поток псионической силы на разум существа в пределах дистанции. Совершите дальнобойную атаку заклинанием по цели. При попадании существо получает 1d10 урона психической энергией и не может совершать реакции до начала вашего следующего хода.\n\n**На высоких уровнях.** Урон увеличивается на 1d10 на 5-м (2d10), 11-м (3d10) и 17-м (4d10) уровнях.",
+  "originalText": "Mind Thrust\nEvocation Cantrip\nClasses: Psion\nCasting Time: 1 action\nRange: 120 feet\nComponents: V, S\nDuration: Instantaneous\nYou assault the mind a creature within range with a torrent of\npsionic power. Make a ranged spell attack against the target.\nOn hit, the creature takes 1d10 psychic damage and it cannot\ntake reactions until the start of your next turn.\nAt Higher Levels. This spell’s damage increases by 1d10\nat 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "6e5e3f5a-e6d1-484c-9dba-ecda6c14ef08",
+  "nameRu": "Бесследное передвижение",
+  "nameEn": "Pass Without Trace",
+  "level": 2,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Следопыт",
+    "Шаман"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя",
+  "components": "В, С, М (пепел сожжённого листа омелы)",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "От вас исходит покров теней и тишины, скрывая вас и спутников от обнаружения. До окончания заклинания вы и выбранные существа в пределах 30 футов считаетесь слабо заслонёнными и получаете бонус ко всем проверкам Ловкости (Скрытность), равный вашему модификатору заклинательной характеристики. Существа под действием заклинания не оставляют следов своего прохода.",
+  "originalText": "Pass Without Trace ALT\n2nd-level Abjuration\nClasses: Druid, Ranger, Shaman\nCasting Time: 1 action\nRange: Self\nComponents: V, S, M (Ashes from a burned leaf of mistletoe)\nDuration: Concentration, up to 1 hour\nA veil of shadows and silence radiates from you, masking you\nand your companions from detection. For the duration, you\nand creatures of your choice within 30 feet are considered to\nbe lightly obscured and gain a bonus to all Dexterity (Stealth)\nchecks equal to your Spellcasting modifier. Creatures under\nthe effect of this spell leave no track or trace of their passing."
+}

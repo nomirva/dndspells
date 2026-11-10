@@ -1,0 +1,18 @@
+{
+  "id": "8a8621dc-36d3-42d7-812d-d759213f9e0a",
+  "nameRu": "Псионический удар",
+  "nameEn": "Psionic Strike",
+  "level": 0,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Псион"
+  ],
+  "castingTime": "1 атака",
+  "range": "На себя",
+  "components": "С, М (свободная рука)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Частью безоружного удара вы создаёте в руке клинок псионической энергии. При попадании цель получает урон психической энергией, равный 1d6 + ваш модификатор Силы, вместо обычного урона безоружного удара. Сразу после атаки рука принимает обычный вид.\n\n**На высоких уровнях.** Кость урона увеличивается на 5-м уровне до 1d8, на 11-м — до 1d10, на 17-м — до 1d12.",
+  "originalText": "Psionic Strike\nEvocation Cantrip\nClasses: Psion\nCasting Time: 1 attack\nRange: self\nComponents: S, M (an empty hand)\nDuration: Instantaneous\nAs part of an unarmed strike, you manifest a blade of psionic\nenergy in your hand. On hit, the target takes psychic damage\nequal to 1d6 + your Strength modifier, in place of the normal\ndamage of your unarmed strike. Your hand instantly reverts\nto its normal appearance after your attack.\nAt Higher Levels. The damage die of this spell increases\nat 5th level (1d8), 11th level (1d10), and 17th level (1d12)."
+}

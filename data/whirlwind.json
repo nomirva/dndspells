@@ -1,0 +1,21 @@
+{
+  "id": "fd90910a-8f35-49ae-855a-d5b8039a9f7e",
+  "nameRu": "Смерч",
+  "nameEn": "Whirlwind",
+  "level": 7,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Жрец",
+    "Друид",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "300 футов",
+  "components": "В, М (один лист или соломинка)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы магически преобразуете ветер в мощный подконтрольный смерч. Он появляется цилиндром радиусом 10 футов и высотой 50 футов с центром в видимой точке в пределах дистанции. Последующими действиями вы можете перемещать смерч на расстояние до 30 футов в любом направлении вдоль земли.\n\nСмерч засасывает предметы Среднего или меньшего размера, которые никто не носит и не несёт и которые иначе не закреплены, когда они впервые входят в его пространство.\n\nЛюбое входящее в пространство смерча существо совершает спасбросок Силы. При провале получает 10d6 урона звуком, при успехе — половину. Существо Большого или меньшего размера при провале также затягивается внутрь и становится опутанным смерчем. Этот спасбросок может требоваться от каждого существа лишь один раз за ход.\n\nОпутанные существа движутся вместе со смерчем. В начале каждого своего хода, пока существо опутано внутри, оно получает 2d6 урона звуком и поднимается на 10 футов. Поднявшись выше вершины смерча, существо отбрасывается на 60 футов в случайном направлении и приземляется ничком.\n\nОпутанное существо может действием совершить проверку Силы против вашей Сл спасброска от заклинаний. При успехе его выбрасывает на 60 футов в выбранном им направлении.\n\n**На высоких уровнях.** При использовании ячейки 8-го уровня или выше за каждый уровень ячейки выше 7-го смерч становится на 10 футов выше и каждый раз при нанесении урона наносит ещё 2d6 урона звуком.",
+  "originalText": "Whirlwind ALT\n7th-level Transmutation\nClasses: Cleric, Druid, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 300 feet\nComponents: V, M (a single leaf or piece of straw)\nDuration: Concentration, up to 1 minute\nYou magically transmute the winds in the area to conjure a\npowerful tornado under your control. This whirlwind appears\nas a 10-foot radius, 50-foot high cylinder centered on a point\nyou can see in range. With subsequent actions, you can move\nthe whirlwind up to 30 feet in any direction along the ground.\nThe whirlwind sucks up any Medium or smaller objects\nthat aren't being worn or carried or otherwise secured when\nthey enter its space for the first time.\nAny creature that enters the whirlwind's space must make\na Strength saving throw. They take 10d6 thunder damage on\na failure, and half as much on a successful save. Any Large or\nsmaller creature that fails its saving throw is also sucked into\nthe Whirlwind and Restrained in it. Each creature can only\nbe forced to make this saving throw once per turn.\nRestrained creatures move with the Whirlwind, and at the\nstart of each of its turns it is Restrained within it, it takes 2d6\nthunder damage and moves 10 feet up within the whirlwind.\nWhen a creature moves beyond the top of the whirlwind, it is\nthrown 60 feet in a random direction and lands Prone.\nAs an action, any Restrained creature can make a Strength\ncheck against your Spell save DC. On a successful check, it is\nthrown from whirlwind 60 feet in a direction of its choice.\nAt Higher Levels. When you cast this spell using a spell\nslot of 8th-level or higher, the whirlwind is 10 feet taller and it\ndeals an additional 2d6 thunder damage every time it deals\ndamage for each slot level above 7th."
+}

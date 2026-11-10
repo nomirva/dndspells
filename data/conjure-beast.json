@@ -1,0 +1,19 @@
+{
+  "id": "abb20e32-31f2-4526-8a2b-2aab64f63273",
+  "nameRu": "Призыв зверя",
+  "nameEn": "Conjure Beast",
+  "level": 2,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (серебряная кость, перо, чешуйка или волос стоимостью не менее 1 зм, добровольно подаренные вам фейским духом)",
+  "duration": "Концентрация, вплоть до 1 часа",
+  "descriptionMarkdown": "Вы сжимаете материальный компонент и призываете его фейского духа на помощь. Он дружелюбен к вам и вашим союзникам и выполняет ваши приказы по мере сил. До окончания заклинания дух использует следующие правила.\n\n**Характеристики.** Дух появляется в видимом свободном пространстве, принимая облик и характеристики Зверя с ПО 1 или ниже. Вы выбираете Зверя, но должны были прежде видеть живую особь этого вида.\n\n**Бой.** Зверь разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать ему устные приказы без затрат действия. Без приказа он перемещается и защищает себя по мере сил. При 0 хитов Зверя дух исчезает.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше предельный ПО формы Зверя увеличивается на 1 за каждый уровень ячейки выше 2-го.",
+  "originalText": "Conjure Beast\n2nd-level Conjuration\nClasses: Druid, Ranger\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a silver bone, feather, scale, or hair\nworth at least 1 gold, willingly gifted to you by a Fey spirit)\nDuration: Concentration, up to 1 hour\nYou grasp the material component of this spell and call its\nFey spirit to your aid. It is Friendly to you and your allies, and\nit follows your commands to the best of its abilities. For the\nduration, the spirit uses the following rules:\nStatistics. The Fey spirit appears in an unoccupied space\nthat you can see, where it takes on the shape and statistics of\na Beast of CR 1 or lower. You choose the Beast, but it must\nbe one you have seen a living specimen of before.\nCombat. In combat, the Beast shares your initiative and it\nacts during your turn. You can issue it verbal commands (no\naction required). If the Beast has not received a command, it\nwill move and defend itself to the best of its abilities. When\nthe Beast is reduced to 0 hit points, the spirit disappears.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd level or higher, the CR of the Beast this spirit can\ntake on increases by 1 for each slot level above 2nd."
+}

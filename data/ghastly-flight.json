@@ -1,0 +1,19 @@
+{
+  "id": "fbbc162b-b207-4694-b221-a44d28e48d5e",
+  "nameRu": "Призрачный полёт",
+  "nameEn": "Ghastly Flight",
+  "level": 1,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Шаман",
+    "Колдун"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя (линия 60 футов)",
+  "components": "В, С, М (измельчённые останки существа)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы выпускаете злобного духа, летящего от вас в выбранном направлении по линии длиной 60 футов и шириной 5 футов, после чего он исчезает. Каждое существо на линии совершает спасбросок Телосложения. При провале оно получает 2d8 урона некротической энергией и не может восстанавливать хиты до начала вашего следующего хода. При успехе оно получает половину урона и может восстанавливать хиты как обычно.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше урон увеличивается на 1d8 за каждый уровень ячейки выше 1-го.",
+  "originalText": "Ghastly Flight\n1st-level Conjuration\nClasses: Shaman, Warlock\nCasting Time: 1 action\nRange: Self (60 foot line)\nComponents: V, S, M (the powdered remains of a creature)\nDuration: Instantaneous\nYou release a malevolent spirit that flies out from you in a\ndirection of your choice in a 60-foot long, 5-foot wide line, at\nwhich point it fades away. Each creature within the line must\nmake a Constitution saving throw. On a failed save, creatures\ntake 2d8 necrotic damage and cannot regain hit points until\nthe start of your next turn. On a success, creatures take half\nas much damage and can regain hit points as normal.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the damage increases by 1d8 for\neach slot level above 1st."
+}

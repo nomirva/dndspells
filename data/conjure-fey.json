@@ -1,0 +1,21 @@
+{
+  "id": "8b522dcb-cfcf-498b-b203-a7b0415e52b7",
+  "nameRu": "Призыв феи",
+  "nameEn": "Conjure Fey",
+  "level": 3,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Друид",
+    "Следопыт",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (Крошечный предмет стоимостью не менее 50 зм, содержащий обещание Феи и добровольно подаренный вам)",
+  "duration": "Концентрация, 1 час",
+  "descriptionMarkdown": "Вы сжимаете материальный компонент и призываете его фейского духа на помощь. Пока сохраняется концентрация, Фея дружелюбна к вам и союзникам и буквально исполняет ваши приказы. До окончания заклинания действуют следующие правила.\n\n**Характеристики.** Дух появляется в выбранном видимом свободном пространстве в пределах дистанции, принимая внешность и характеристики любой Феи с ПО 3 или ниже.\n\n**Бой.** Фея разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать устные приказы без затрат действия. Если приказов нет или они выполнены, она перемещается и защищает себя по мере сил.\n\n**Накладывание заклинаний.** Если Фея умеет накладывать заклинания, вы можете приказать ей это делать, но она использует ваши ячейки, даже если обычно обходится без них.\n\n**Контроль.** Если заклинание оканчивается из-за прерывания концентрации, Фея остаётся, но выходит из-под контроля. До окончания длительности заклинания или падения до 0 хитов она действует согласно мировоззрению: становится враждебной к вам и союзникам либо бежит.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше предельный ПО принимаемой духом формы Феи увеличивается на 1 за каждый уровень ячейки выше 3-го.",
+  "originalText": "Conjure Fey\n3rd-level Conjuration\nClasses: Druid, Ranger, Warlock, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a Tiny object worth at least 50 gold\ncontaining the promise of a Fey, willingly gifted to you).\nDuration: Concentration, 1 hour\nYou grasp the material component of this spell and call its\nFey spirit to your aid. While your concentration lasts, the Fey\nFriendly to you and your allies and obeys your commands to\nthe letter. For the duration, the Fey uses the rules below:\nStatistics. The Fey spirit appears in an unoccupied space\nof your choice that you can see within range. It takes on the\nappearance and statistics of any Fey of CR 3 or lower.\nCombat. The Fey shares your initiative and it acts on your\nturn. You can give it verbal commands (no action required). If\nthe Fey does not receive any commands, or its commands are\ncompleted, it moves and defends itself as best it can.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nControl. If the spell ends because your concentration was\nbroken, the Fey remains, but is no longer under your control.\nFor the duration of the spell, or until reduced to 0 hit points,\nthe Fey acts according to its alignment, and either becomes\nHostile toward you and your allies or flees.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th level or higher, the CR of Fey this spirit can take\non increases by 1 for each slot level above 3rd."
+}

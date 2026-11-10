@@ -1,0 +1,23 @@
+{
+  "id": "4cadf7c4-951c-4205-bedf-56caad49e42f",
+  "nameRu": "Восстановление",
+  "nameEn": "Restoration",
+  "level": 2,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Изобретатель",
+    "Бард",
+    "Жрец",
+    "Друид",
+    "Паладин",
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы касаетесь согласного существа и мгновенно оканчиваете одну болезнь либо одно из следующих текущих состояний: ослепление, глухота, испуг, паралич или отравление.\n\n**На высоких уровнях.** При использовании ячейки 3-го уровня или выше список снимаемых состояний и эффектов расширяется, но требуется алмазная пыль указанной стоимости, расходуемая при накладывании:\n\n| Уровень ячейки | Стоимость | Состояния / эффекты |\n| --- | --- | --- |\n| 3-й | 10 зм | Очарование, истощение (1 степень) |\n| 4-й | 50 зм | Снижение одной характеристики или максимума хитов |\n| 5-й | 100 зм | Окаменение, одно проклятие или настройка на проклятый предмет |",
+  "originalText": "Restoration\n2nd-level Abjuration\nClasses: Artificer, Bard, Cleric, Druid, Paladin, Ranger\nCasting Time: 1 action\nRange: Touch\nComponents: V, S\nDuration: Instantaneous\nYou touch a willing creature and instantly end one disease or\none of the following conditions currently afflicting it: blinded,\ndeafened, frightened, paralyzed, or poisoned.\nAt Higher Levels. When you cast this spell using a spell\nslot of 3rd-level or higher, the conditions and effects you can\nend increase, but the spell requires you to expend diamond\ndust of a certain value, which is consumed during casting:\nSlot Level Value Conditions/Effects\n3rd 10 gp Charmed, Exhaustion (1 level)\nReduction to one Ability\n4th 50 gp\nScore or Hit Point Maximum\nPetrified, One Curse, or\n5th 100 gp\nAttunement to a Cursed Item"
+}

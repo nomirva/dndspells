@@ -1,0 +1,18 @@
+{
+  "id": "d38ca8e7-80b3-4260-b709-2f97ba1babbe",
+  "nameRu": "Создание монстра",
+  "nameEn": "Create Monstrosity",
+  "level": 6,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Волшебник"
+  ],
+  "castingTime": "1 час",
+  "range": "Касание",
+  "components": "В, С, М (трупы соответствующих Зверей и кровь заклинателя; оба компонента расходуются)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы проливаете кровь на трупы, связывая их в новую форму. Ваш максимум хитов уменьшается на 5, а под вашим контролем появляется Гиппогриф (Hippogriff), Грифон (Griffon) или Перитон (Peryton). Созданные Монстры используют следующие правила.\n\n**Управление.** Бонусным действием вы можете мысленно приказать любым созданным этим заклинанием Монстрам в пределах 60 футов. Вы определяете их действия или задаёте общий порядок действий («защищай это подземелье»).\n\nМонстры исполняют приказы до завершения. Без приказа Монстр защищает себя с крайней жестокостью.\n\n**Связь с создателем.** Пока Монстр под вашим контролем, вы не можете восстановить потраченный на создание максимум хитов. Завершая продолжительный отдых, вы можете отпустить Монстра и вернуть потраченный на него максимум хитов. Освободившиеся Монстры враждебны ко всему живому, особенно к создавшему их заклинателю.\n\n**На высоких уровнях.** Более высокие ячейки и затраты максимума хитов позволяют создавать более сильных Монстров:\n\n| Уровень ячейки | Максимум хитов | Монстр |\n| --- | --- | --- |\n| 7-й | 8 | Мантикора (Manticore), Совомед (Owlbear) |\n| 8-й | 10 | Булетт (Bulette), Гираллон (Girallon) |\n| 9-й | 15 | Химера (Chimera) |",
+  "originalText": "Create Monstrosity\n6th-level Transmutation\nClasses: Wizard\nCasting Time: 1 hour\nRange: Touch\nComponents: V, S, M (the corpses of the appropriate Beasts\nand blood of the spellcaster, both of which are consumed)\nDuration: Instantaneous\nYou spill your blood onto the corpses binding them together\ninto a new form, reducing your maximum hit points by 5 and\ncreating a Hippogriff, Griffon, or Peryton under your control.\nMonstrosities created by this spell use the rules below:\nControl. As a bonus action, you can mentally command\nany Monstrosities created by this spell, so long as they are\nwithin 60 feet. You determine how they act or set a general\ncourse of action for them (\"defend this dungeon\").\nMonstrosities follow commands until they are complete. If\nyour Monstrosity is not given a command, it defends itself\nwith extreme prejudice.\nCreator's Bond. While a Monstrosity is under your control\nyou can't regain the maximum hit points spent in its creation.\nHowever, when you finish a long rest, you can release control\nover a Monstrosity to regain the maximum hit points spent to\ncreate it. When released, Monstrosities becomes hostile to all\nliving things, the spellcaster that created it in particular.\nAt Higher Levels. You can cast this spell with a spell slot\nof a higher level, and expend maximum hit points (Max. HP)\nto create more powerful Monstrosities, as shown here:\nSlot Level Max. HP Monstrosity\n7th 8 Manticore, Owlbear\n8th 10 Bulette, Girallon\n9th 15 Chimera"
+}

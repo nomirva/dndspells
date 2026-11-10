@@ -1,0 +1,18 @@
+{
+  "id": "b3993892-9297-443f-b03e-9d7cea976c23",
+  "nameRu": "Призыв залпа",
+  "nameEn": "Conjure Volley",
+  "level": 3,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "На себя",
+  "components": "В, С, М (один боеприпас и дальнобойное оружие либо одно метательное оружие; всё немагическое)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы выстреливаете немагическим боеприпасом из дальнобойного оружия или бросаете немагическое метательное оружие в воздух и выбираете точку в пределах 60 футов.\n\nБоеприпас или оружие распадается на множество точных копий, падающих в цилиндре радиусом 30 футов и высотой 20 футов с центром в выбранной точке. Существа в области совершают спасбросок Ловкости. При провале получают 6d8 урона типа оружия, при успехе — половину. Созданные боеприпасы или оружие распадаются после разрешения эффектов заклинания.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше за каждый уровень ячейки выше 3-го урон увеличивается на 1d8, а радиус цилиндра — на 5 футов.",
+  "originalText": "Conjure Volley ALT\n3rd-level Conjuration\nClasses: Ranger\nCasting Time: 1 action\nRange: Self\nComponents: V, S, M (a single piece of ammunition and a\nranged weapon, or one thrown weapon, all nonmagical)\nDuration: Instantaneous\nYou fire one piece of nonmagical ammunition from a ranged\nweapon or throw a nonmagical thrown weapon into the air\nand choose a point within 60 feet.\nThe ammunition or weapon explodes into a multitude of\nexact copies of it, which fall in a 30-foot-radius, 20-foot-high\ncylinder centered on the point you chose. Creatures within\nthat area must make a Dexterity saving throw. They take 6d8\ndamage of the weapon's type on a failure, and half as much\non a success. The ammunition or weapons created by this\nspell disintegrate once the effects of this spell are resolved.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th-level or higher, the damage of this spell increases\nby 1d8, and the radius of the cylinder increases by 5 feet for\neach slot level above 3rd."
+}

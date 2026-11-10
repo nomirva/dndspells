@@ -1,0 +1,21 @@
+{
+  "id": "6ec8ee45-22b3-407c-9dcf-5bdb7316988f",
+  "nameRu": "Силовая стена",
+  "nameEn": "Wall of Force",
+  "level": 5,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Магус",
+    "Псион",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С, М (порошок из растолчённого прозрачного драгоценного камня)",
+  "duration": "Концентрация, вплоть до 10 минут",
+  "descriptionMarkdown": "В выбранной точке в пределах дистанции возникает мерцающая стена магической силы, существующая до окончания заклинания.\n\n**Ориентация и форма.** Стена может быть горизонтальной, вертикальной или наклонной, свободно парящей или опирающейся на твёрдую поверхность. Ей можно придать форму полусферического купола, сферы радиусом до 10 футов либо плоской поверхности из десяти панелей 10 × 10 футов. Каждая панель должна соприкасаться с другой. В любой форме толщина стены — ¼ дюйма. Ничто не может физически пройти сквозь неё, а всё видимое через стену слабо заслонено. Стена простирается на Эфирный план, блокируя эфирное перемещение сквозь неё. Если при появлении она пересекает пространство существа, оно совершает спасбросок Ловкости. При успехе само выбирает, на какую сторону переместиться; при провале сторону выбираете вы.\n\n**Характеристики.** Стена имеет 150 хитов и Класс Доспеха, равный вашей Сл спасброска от заклинаний. Она невосприимчива к урону ядом, психической энергией и немагическому дробящему, колющему и рубящему урону; уязвима к урону силовым полем и магическому дробящему, колющему и рубящему урону; имеет сопротивление всем остальным типам урона. «Рассеивание магии» (dispel magic) не рассеивает стену, но «Распад» (disintegrate) мгновенно уничтожает её.\n\n**На высоких уровнях.** При использовании ячейки 6-го уровня или выше хиты стены увеличиваются на 25 за каждый уровень ячейки выше 5-го.",
+  "originalText": "Wall ooff Force ALT\n5th-level Abjuration\nClasses: Magus, Psion, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S, M (powder from crushed clear gemstone)\nDuration: Concentration, up to 10 minutes\nA shimmering wall of magical force springs into existence at\na point you choose within range and lasts for the duration.\nOrientation & Shape. The wall appears in any orientation\nyou choose, as a horizontal or vertical barrier or an angle. It\ncan be free floating or rest on a solid surface. You can form it\ninto a hemispherical dome, a sphere with a radius of up to 10\nfeet, or you can shape a flat surface made up of ten 10-by-10-\nfoot panels. Each panel must be contiguous with another. In\nany form, the wall is 1/4 inch thick. Nothing can pass through\nthe wall physically, and anything viewed through it is lightly\nobscured. The wall extends into the Ethereal Plane, blocking\nethereal travel through the wall. If it cuts through a creature's\nspace when it appears, the creatures must make a Dexterity\nsaving throw. On a success, it chooses which side of the wall\nit moves to. On a failure, you choose the side it moves to.\nStatistics. The wall has 150 hit points and its Armor Class\nequals your Spell save DC. It is immune to poison, psychic,\nand non-magical bludgeoning, piercing, and slashing damage,\nvulnerable to force and magical bludgeoning, piercing, and\nslashing damage, and resistant to all other damage types. It\ncannot be dispelled by a dispel magic spell, but a disintegrate\nspell destroys the wall it instantly.\nAt Higher Levels. When you cast this spell using a spell\nslot of 6th-level or higher, the hit points of the wall created by\nthis spell increase by 25 for each spell slot level above 5th."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fe6c2d34-a310-4f5a-90de-c2ff9cd09e22",
+  "nameRu": "Дневной свет",
+  "nameEn": "Daylight",
+  "level": 3,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Жрец",
+    "Друид",
+    "Паладин",
+    "Следопыт",
+    "Чародей"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "1 час",
+  "descriptionMarkdown": "Светящийся шар появляется в видимой точке в пределах 60 футов и парит на месте. Он испускает яркий свет в радиусе 60 футов и тусклый свет ещё на 60 футов дальше. Это настоящий солнечный свет. Если область перекрывает магическую тьму от заклинания уровня не выше уровня, на котором вы наложили это заклинание, тьма рассеивается.\n\nВместо этого вы можете наложить заклинание на Крошечный предмет, который никто не носит и не несёт: он начинает испускать этот свет, движущийся вместе с ним до окончания заклинания. Непрозрачный предмет, накрывший его, блокирует свет.",
+  "originalText": "Daylight ALT\n3rd-level Evocation\nClasses: Cleric, Druid, Paladin, Ranger, Sorcerer\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: 1 hour\nAn orb of light appears at a point you can see within 60 feet,\nhovering in place. It emits bright light out to a 60-foot radius,\nand dim light 60 feet beyond that. This light is true sunlight.\nIf this area overlaps with magical darkness created by a spell\nequal to the level you cast this spell or lower, it is dispelled.\nAlternately, you can cast this spell on a Tiny object that isn't\nbeing worn or carried, causing it to emit the light of this spell.\nThe light moves with that object for the duration. If the object\nis covered by an opaque object, it blocks the light."
+}

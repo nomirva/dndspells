@@ -1,0 +1,19 @@
+{
+  "id": "b1b5a37b-6199-4c22-8537-227afbbee53b",
+  "nameRu": "Огненная плеть",
+  "nameEn": "Flame Whip",
+  "level": 2,
+  "school": "Воплощение",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Сосуд",
+    "Колдун"
+  ],
+  "castingTime": "1 атака",
+  "range": "На себя",
+  "components": "В, С, М (обугленная деревянная рукоять)",
+  "duration": "Концентрация, вплоть до 10 минут",
+  "descriptionMarkdown": "Вместо одной атаки вы можете создать в свободной руке плеть чистого пламени. Она существует до окончания заклинания и испускает яркий свет в радиусе 10 футов. Если отпустить её, плеть исчезнет; вы можете вновь создать её вместо одной атаки, не тратя ячейку.\n\nКаждый раз, когда вы могли бы совершить атаку, вы можете вместо неё совершить рукопашную атаку заклинанием плетью по одной видимой цели в пределах 10 футов. При попадании цель получает урон огнём, равный 1d10 + ваш модификатор заклинательной характеристики. Если её размер Большой или меньше, вы можете немедленно схватить её плетью.\n\nПока плеть удерживает существо, атаковать ею нельзя. Схваченное существо получает 1d10 урона огнём в начале каждого своего хода и может действием совершить проверку Силы против вашей Сл спасброска от заклинаний, освобождаясь при успехе.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше оба вида урона огнём увеличиваются на 1d10 за каждые два уровня ячейки выше 2-го.",
+  "originalText": "Flame Whip\n2nd-level Evocation\nClasses: Vessel, Warlock\nCasting Time: 1 attack\nRange: Self\nComponents: V, S, M (a charred wooden hilt)\nDuration: Concentration, up to 10 minutes\nIn place of an attack, you can evoke a whip of pure flame in a\nfree hand. It lasts for the duration and sheds bright light out\nto a 10-foot radius. If you let go of the whip, it disappears, but\nyou can evoke the Flame Whip again in place of an attack\nwithout expending a spell slot.\nWhenever you could make an attack, you can instead make\na melee spell attack with your Flame Whip against one target\nwithin 10 feet that you can see. On hit, it takes fire damage\nequal to 1d10 + your spellcasting modifier, and if the target is\nLarge or smaller you can instantly grapple it with the Whip.\nYou cannot attack with the Whip while it is grappling a\ncreature, but a grappled creature takes 1d10 fire damage at\nthe start of its turns and can use its action to make a Strength\ncheck against your spell save DC, escaping on a success.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th level or higher, both instances of fire damage dealt\nincrease by 1d10 for every two slot levels above 2nd."
+}

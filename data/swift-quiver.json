@@ -1,0 +1,18 @@
+{
+  "id": "d225f6fa-1687-4b69-9608-3bd87ba9bb4d",
+  "nameRu": "Быстрый колчан",
+  "nameEn": "Swift Quiver",
+  "level": 5,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Следопыт"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "Касание",
+  "components": "В, С, М (колчан с одним боеприпасом)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы преобразуете колчан так, чтобы он создавал бесконечный запас немагических боеприпасов, словно прыгающих в руку, когда вы тянетесь за ними.\n\nВ каждый свой ход до окончания заклинания вы можете бонусным действием (включая бонусное действие накладывания) совершить две атаки дальнобойным оружием, использующим боеприпасы из колчана. При каждой такой атаке колчан магически заменяет использованный боеприпас его немагической копией. Созданные боеприпасы распадаются при окончании заклинания. Если колчан перестаёт быть в вашем владении, заклинание оканчивается.",
+  "originalText": "Swift Quiver ALT\n5th-level Transmutation\nClasses: Ranger\nCasting Time: 1 bonus action\nRange: Touch\nComponents: V, S, M (a quiver with a piece of ammunition)\nDuration: Concentration, up to 1 minute\nYou transmute your quiver so it produces an endless supply\nof nonmagical ammunition, which seems to leap into your\nhand when you reach for it.\nOn each of your turns until the spell ends, you can use a\nbonus action (including the bonus action used to cast this\nspell) to make two attacks with a ranged weapon that uses\nammunition from this quiver. When you make such a ranged\nattack, your quiver magically replaces the ammunition you\nused with a nonmagical copy of that ammunition. Pieces of\nammunition created by this spell disintegrate when the spell\nends. If the quiver leaves your possession, the spell ends."
+}

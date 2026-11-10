@@ -1,0 +1,22 @@
+{
+  "id": "0db57f24-6271-4c40-b1cd-b33e0627d157",
+  "nameRu": "Крошечная хижина",
+  "nameEn": "Tiny Hut",
+  "level": 3,
+  "school": "Ограждение",
+  "ritual": true,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Магус",
+    "Следопыт",
+    "Шаман",
+    "Волшебник"
+  ],
+  "castingTime": "1 минута",
+  "range": "На себя (полусфера радиусом 10 футов)",
+  "components": "В, С, М (жемчужина, разрезанная ровно пополам)",
+  "duration": "8 часов",
+  "descriptionMarkdown": "Вокруг вас и над вами возникает неподвижный купол магической силы радиусом 10 футов, остающийся на месте до окончания заклинания. Заклинание оканчивается, если вы покидаете область.\n\nВместе с вами внутри помещаются девять существ Среднего или меньшего размера. Заклинание проваливается, если в области есть существа Большого размера или более девяти существ. Существа и предметы, находившиеся внутри при накладывании, могут свободно проходить сквозь купол; прочие не могут.\n\nЗаклинания и другие магические эффекты не проходят через купол и не могут накладываться сквозь него. Внутри сухо и комфортно независимо от наружной погоды.\n\nДо окончания заклинания вы можете приказать сделать внутреннее пространство тускло освещённым или тёмным. Снаружи купол непрозрачен и имеет неброский цвет, сливаясь с окружением; изнутри он прозрачен.\n\n**Характеристики.** Купол имеет 100 хитов и Класс Доспеха, равный вашей Сл спасброска от заклинаний. Он невосприимчив к урону ядом, психической энергией и немагическому дробящему, колющему и рубящему урону; уязвим к урону силовым полем и всему магическому дробящему, колющему и рубящему урону; обладает сопротивлением всем остальным типам урона. «Распад» (disintegrate) мгновенно его уничтожает.",
+  "originalText": "Tiny Hut ALT\n3rd-level Abjuration (Ritual)\nClasses: Bard, Magus, Ranger, Shaman, Wizard\nCasting Time: 1 minute\nRange: Self (10-foot radius hemisphere)\nComponents: V, S, M (a pearl cut perfectly in half)\nDuration: 8 hours\nA 10-foot-radius immobile dome of arcane force springs into\nexistence around and above you and remains stationary for\nthe duration. The spell ends if you leave its area.\nNine creatures of Medium size or smaller can fit inside the\ndome with you. The spell fails if its area includes any Large\ncreatures or more than nine creatures. Creatures and objects\nwithin the dome when you cast this spell can move through it\nfreely. All other creatures and objects cannot pass through it.\nSpells and other magical effects cannot extend through the\ndome or be cast through it. The atmosphere inside the dome\nis comfortable and dry, regardless of the weather outside.\nUntil the spell ends, you can command the interior to be\ndimly lit or dark. The dome is opaque and dull in color as to\nblend in with surroundings. It is transparent from the inside.\nStatistics. The dome has 100 hit points and Armor Class\nequal to your Spell save DC. It is immune to poison, psychic,\nand non-magical bludgeoning, piercing, and slashing damage,\nit is vulnerable to force and all magical bludgeoning, piercing,\nand slashing damage, and it is resistant to all other damage\ntypes. A disintegrate spell destroys it instantly."
+}

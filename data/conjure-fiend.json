@@ -1,0 +1,19 @@
+{
+  "id": "75bd46f6-9839-4ca7-ac07-884e97bf31a7",
+  "nameRu": "Призыв исчадия",
+  "nameEn": "Conjure Fiend",
+  "level": 3,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В (истинное имя Исчадия), С",
+  "duration": "Концентрация, 1 час",
+  "descriptionMarkdown": "Произнося истинное имя Исчадия, вы призываете его на помощь, если его ПО не выше 4. Пока сохраняется концентрация, оно безразлично к вам и союзникам и буквально исполняет ваши приказы. До окончания заклинания действуют следующие правила.\n\n**Характеристики.** Исчадие появляется в выбранном видимом свободном пространстве в пределах дистанции. При появлении вы можете заставить его принять внешность и характеристики другого выбранного Исчадия с ПО не выше его собственного.\n\n**Бой.** Исчадие разделяет вашу инициативу и действует в ваш ход. Вы можете отдавать устные приказы без затрат действия. Если приказов нет или они выполнены, оно может перемещаться и безжалостно защищать себя.\n\n**Накладывание заклинаний.** Если Исчадие умеет накладывать заклинания, вы можете приказать ему это делать, но оно использует ваши ячейки, даже если обычно обходится без них.\n\n**Контроль.** Если концентрация прервётся, Исчадие останется, мгновенно примет истинную форму и выйдет из-под контроля. До окончания длительности заклинания или падения до 0 хитов оно враждебно к вам и союзникам и действует согласно мировоззрению. Дьяволы стремятся убить заклинателя, демоны убивают без разбора.\n\n**На высоких уровнях.** При использовании ячейки 4-го уровня или выше предельный ПО призываемых Исчадий увеличивается на 1 за каждый уровень ячейки выше 3-го.",
+  "originalText": "Conjure Fiend\n3rd-level Conjuration\nClasses: Warlock, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V (a Fiend's true name), S\nDuration: Concentration, 1 hour\nSpeaking its true name, you conjure a Fiend of CR 4 or lower\nto your aid. While your concentration lasts, it is Indifferent to\nyou and your allies and follows your commands to the letter.\nFor the duration, the Fiend uses the rules below:\nStatistics. The Fiend appears in an unoccupied space of\nyour choice you can see within range. When it appears, you\ncan force the Fiend to take on the appearance and statistics\nof another Fiend of your choice equal to its CR, or lower.\nCombat. The Fiend shares your initiative and acts on your\nturn. You can give it verbal commands (no action required). If\nthe Fiend does not receive any commands, or its commands\nare completed, it can move defend itself with prejudice.\nSpellcasting. If it can cast spells, you can command it to\ndo so, but it uses your spell slots to fuel its spellcasting, even\nif it would normally be able to cast without spell slots.\nControl. If your concentration on this spell is broken, the\nFiend remains. It instantly returns to its true form and is no\nlonger under your control. For the duration of the spell, or\nuntil it is reduced to 0 hit points, it is Hostile to you and your\nallies, and will act according to its alignment. Devils seek to\nkill the spellcaster, and Demons kill indiscriminately.\nAt Higher Levels. When you cast this spell using a spell\nslot of 4th level or higher, the CR of the Fiends that you can\nconjure increases by 1 for each slot level above 3rd."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0dac758b-317b-4c70-b9de-7921e5abbd6c",
+  "nameRu": "Ледяная стена",
+  "nameEn": "Wall of Ice",
+  "level": 4,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Магус",
+    "Чародей",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "30 футов",
+  "components": "В, С, М (небольшой кусочек кварца)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы создаёте на твёрдой поверхности в пределах дистанции ледяную стену толщиной 1 фут. Она может быть полусферическим куполом или сферой радиусом до 10 футов либо плоской поверхностью из десяти квадратных панелей со стороной 10 футов. Каждая панель должна соприкасаться с другой. Стена существует до окончания заклинания.\n\nПри появлении стены существа в её пространстве совершают спасбросок Ловкости. При провале вы выбираете, на какую сторону их вытолкнет, после чего они получают 6d6 урона холодом. При успехе они сами выбирают сторону и получают половину урона холодом.\n\nСтена имеет КД 12, 30 хитов на каждый 10-футовый участок и уязвимость к огню. После разрушения 10-футового участка на его месте остаётся завеса ледяного воздуха. Проходя сквозь неё, существо совершает спасбросок Телосложения: при провале получает 2d6 урона холодом, при успехе — половину. Этот спасбросок может требоваться от существа лишь один раз за ход.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше за каждый уровень ячейки выше 4-го урон при появлении стены увеличивается на 2d6, а урон от прохождения через ледяной воздух — на 1d6.",
+  "originalText": "Wall ooff Ice ALT\n4th-level Conjuration\nClasses: Druid, Magus, Sorcerer, Wizard\nCasting Time: 1 action\nRange: 30 feet\nComponents: V, S, M (a small piece of quartz)\nDuration: Concentration, up to 1 minute\nYou create a 1-foot thick wall of ice on a solid surface within\nrange. You create it as a hemispherical dome or a sphere with\nradius of up to 10 feet, or you shape a flat surface made up of\nten 10-foot-square panels. All panels must be contiguous with\nanother panel. The ice wall lasts for the duration.\nWhen the wall appears, creatures in its space must make a\nDexterity saving throw. On a failure, you decide which side of\nthe wall they are pushed to, then they take 6d6 cold damage.\nOn a success, they decide which side they are pushed to, and\nthey take half as much cold damage.\nThe wall has an AC of 12, 30 hit points per 10-foot section,\nand it is Vulnerable to fire damage. When a 10-foot section is\ndestroyed, a sheet of frigid air remains in that space. When a\ncreature passes through a sheet of this frigid air it must make\na Constitution saving throw. It takes 2d6 cold damage on a\nfailure, and half as much on a success. A creature can only be\nforced to make this saving throw once per turn.\nAt Higher Levels. If you cast this spell using a spell slot of\n5th-level or higher, the damage the wall deals when it appears\nincreases by 2d6, and damage from passing through a sheet\nof frigid air increases by 1d6, for each slot level above 4th."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b886173f-db6c-4169-a196-a1d317823cbf",
+  "nameRu": "Чудо-ягоды",
+  "nameEn": "Goodberry",
+  "level": 1,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Следопыт"
+  ],
+  "castingTime": "1 минута",
+  "range": "Касание",
+  "components": "В, С, М (до 10 свежесобранных ягод, расходуемых при накладывании)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы держите в руках до десяти ягод и наполняете их первобытной магией. Существо может действием съесть одну ягоду, восстановив 1 хит и получив питание на один день.\n\nЕсли ягоды не съесть в течение 24 часов после накладывания, они увядают и теряют силу.",
+  "originalText": "Goodberry ALT\n1st-level Transmutation\nClasses: Druid, Ranger\nCasting Time: 1 minute\nRange: Touch\nComponents: V, S, M (up to 10 fresh-picked berries, which\nare consumed by the casting of this spell)\nDuration: Instantaneous\nYou hold up to ten berries in your hands and infuse them with\nprimal magic. As an action, a creature can eat a berry. It then\nregains 1 hit point and nourishment for one day.\nThe berries wither and lose their potency if they have not\nbeen consumed within 24 hours of the casting of this spell."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3ca4dcb5-7777-4d2e-9708-15a273d38e86",
+  "nameRu": "Опутывающий удар",
+  "nameEn": "Ensnaring Strike",
+  "level": 1,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Изобретатель",
+    "Следопыт"
+  ],
+  "castingTime": "При попадании",
+  "range": "На себя",
+  "components": "В, М (оружие стоимостью не менее 1 см)",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Попав по существу атакой оружием, вы можете вызвать в месте удара взрыв извивающихся колючих лоз. Цель должна преуспеть в спасброске Силы, иначе станет опутанной лозами до окончания заклинания. Существа Большого и более крупных размеров совершают спасбросок с преимуществом.\n\nОпутанное существо получает 1d6 колющего урона в начале каждого своего хода. Оно или другое существо в пределах 5 футов может действием совершить проверку Силы против вашей Сл спасброска от заклинаний, освобождая его при успехе.\n\n**На высоких уровнях.** При использовании ячейки 2-го уровня или выше урон в начале каждого хода увеличивается на 1d6 за каждый уровень ячейки выше 1-го.",
+  "originalText": "Ensnaring Strike ALT\n1st-level Conjuration\nClasses: Artificer, Ranger\nCasting Time: On hit\nRange: Self\nComponents: V, M (a weapon worth at least 1 sp)\nDuration: Concentration, up to 1 minute\nWhen you hit a creature with a weapon attack, you can cause\nthe point of impact to explode with a writhing mass of thorny\nvines. The target must succeed on a Strength saving throw or\nbe restrained by the vines until the spell ends. Creatures that\nare Large or larger have advantage on this saving throw.\nThe restrained creature takes 1d6 piercing damage at the\nstart of each of its turns. The restrained creature, or another\ncreature within 5 feet, can use its action to make a Strength\ncheck against your Spell save DC, freeing it on a success.\nAt Higher Levels. When you cast this spell using a spell\nslot of 2nd-level or higher, the damage it takes at the start of\neach turn increases by 1d6 for each slot level above 1st."
+}

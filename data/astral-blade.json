@@ -1,0 +1,20 @@
+{
+  "id": "f17a483a-822d-48f8-adfb-4012509099b6",
+  "nameRu": "Астральный клинок",
+  "nameEn": "Astral Blade",
+  "level": 6,
+  "school": "Вызов",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы призываете клинок чистой астральной энергии длиной 3 фута. Он появляется в видимом пространстве в пределах дистанции, и вы немедленно совершаете им две рукопашные атаки заклинанием по целям в пределах 5 футов от него. Атаки Астральным клинком критические при 18–20 на d20. При попадании они наносят 4d6 урона силовым полем. При критическом попадании цель должна преуспеть в спасброске Харизмы, иначе будет изгнана в безопасный демиплан до начала вашего следующего хода.\n\nВ последующие ходы бонусным действием вы можете переместить клинок на расстояние до 60 футов и совершить им две атаки.\n\nКлинок может без вреда проходить сквозь любые магические преграды, например «Силовую стену» (wall of force).\n\n**На высоких уровнях.** При использовании ячейки 7-го уровня или выше урон клинка силовым полем увеличивается на 2d6 за каждый уровень ячейки выше 6-го.",
+  "originalText": "Astral Blade ALT\n6th-level Conjuration\nClasses: Sorcerer, Warlock, Wizard\nCasting Time: 1 bonus action\nRange: 60 feet\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYou conjure a 3-foot blade of pure astral energy. It appears in\na space you can see within range, and you instantly make two\nmelee spell attacks with it against targets within 5 feet. Astral\nBlade attacks score a critical hit on a roll of 18-20 on the d20.\nOn hit, they deal 4d6 force damage. On a critical hit, its target\nmust succeed on a Charisma saving throw or be banished to\na harmless Demiplane until the start of your next turn.\nOn subsequent turns, you can use a bonus action to move\nyour Astral Blade up to 60 feet and make two attacks with it.\nYour Astral Blade can harmlessly pass through any barrier\ncreated with magic, like those of a wall of force spell.\nAt Higher Levels. If you cast this spell using a spell slot of\n7th-level or higher, the force damage dealt by the Astral Blade\nincreases by 2d6 for each spell slot level above 6th."
+}

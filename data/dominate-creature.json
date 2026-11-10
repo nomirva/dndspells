@@ -1,0 +1,24 @@
+{
+  "id": "2dd21a0f-95d2-4f02-b98b-8714b675914f",
+  "nameRu": "Подчинение существа",
+  "nameEn": "Dominate Creature",
+  "level": 4,
+  "school": "Очарование",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Друид",
+    "Псион",
+    "Следопыт",
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 действие",
+  "range": "60 футов",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы пытаетесь заворожить видимого Зверя в пределах дистанции. Он совершает спасбросок Мудрости; при провале очарован вами до окончания заклинания. Если вы или дружественные вам существа сражаетесь с ним, он совершает спасбросок с преимуществом.\n\nПока Зверь очарован, между вами существует телепатическая связь, если вы на одном плане. Пока вы не недееспособны, вы можете отдавать по этой связи приказы, которые он выполняет по мере сил. Приказы могут быть конкретными или общими: «атакуй то существо», «охраняй ту дверь». Без приказа существо защищает себя по мере сил.\n\nДействием вы можете полностью взять существо под контроль до начала вашего следующего хода. Оно совершает только выбранные вами действия и ничего сверх того. Вы можете заставить его совершить реакцию, но тогда должны потратить и собственную реакцию.\n\nКаждый раз, получая урон, существо повторяет спасбросок Мудрости, оканчивая эффект при успехе.\n\n**На высоких уровнях.** При использовании ячейки 5-го уровня или выше действие усиливается:\n\n| Уровень ячейки | Усиление |\n| --- | --- |\n| 5-й | Заклинание может выбирать Гуманоидов |\n| 6-й | Длительность увеличивается до 10 минут |\n| 7-й | Длительность увеличивается до 1 часа |\n| 8-й | Заклинание может выбирать любое существо |\n| 9-й | Длительность увеличивается до 8 часов |",
+  "originalText": "Dominate Creature ALT\n4th-level Enchantment\nClasses: Bard, Druid, Psion, Ranger, Sorcerer, Warlock,\nWizard\nCasting Time: 1 action\nRange: 60 feet\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYou attempt to beguile a Beast that you can see within range.\nIt must make a Wisdom saving throw or become Charmed by\nyou for the duration. If you or creatures that are Friendly to\nyou are fighting it, it has advantage on its saving throw.\nWhile Charmed, you share a telepathic link with the Beast\nso long as you are on the same plane. You can issue orders to\nthe creature through this link, which it does its best to follow,\nso long as you are not Incapacitated. You can give specific or\ngeneral orders, such as \"attack that creature\" or \"protect that\ndoor\". When the creature does not have an order to follow, it\nwill defend itself to the best of its abilities.\nAs an action, you can take complete control of the creature\nuntil the start of your next turn. When you do so, it takes only\nthe actions you choose and nothing beyond it. You can cause\nit to use a reaction, but you must use your reaction as well.\nAny time the creature takes damage, it repeats its Wisdom\nsaving throw, ending this effect on a successful save.\nAt Higher Levels. As you cast this spell with a spell slot of\n5th level or higher, the spell's effects increase, as shown here:\nSlot Level Increased Effect\n5th The spell can target Humanoids\n6th Duration increases to 10 minutes\n7th Duration increases to 1 hour\n8th The spell can target any creature\n9th Duration increases to 8 hours"
+}

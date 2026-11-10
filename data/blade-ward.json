@@ -1,0 +1,24 @@
+{
+  "id": "9735e7ed-e853-43ac-8f39-ca35b679f6c3",
+  "nameRu": "Защита от оружия",
+  "nameEn": "Blade Ward",
+  "level": 0,
+  "school": "Ограждение",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Бард",
+    "Магус",
+    "Псион",
+    "Шаман",
+    "Чародей",
+    "Колдун",
+    "Волшебник"
+  ],
+  "castingTime": "1 бонусное действие",
+  "range": "На себя",
+  "components": "В, С",
+  "duration": "Концентрация, вплоть до 1 минуты",
+  "descriptionMarkdown": "Вы чертите в воздухе защитный знак. Пока действует заклинание, каждый раз, когда вы получаете дробящий, колющий или рубящий урон, вы можете уменьшить этот урон на 1d4.",
+  "originalText": "Blade Ward ALT\nAbjuration Cantrip\nClasses: Bard, Magus, Psion, Shaman, Sorcerer, Warlock,\nWizard\nCasting Time: 1 bonus action\nRange: Self\nComponents: V, S\nDuration: Concentration, up to 1 minute\nYou trace a sigil of warding into the air. Whenever you take\nbludgeoning, piercing, or slashing damage for the duration of\nthis spell, you can reduce the damage you would take by 1d4."
+}

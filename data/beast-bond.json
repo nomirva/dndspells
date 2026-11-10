@@ -1,0 +1,19 @@
+{
+  "id": "3bb98ba0-2c47-436e-b4ad-3ebb272f30d7",
+  "nameRu": "Связь со зверем",
+  "nameEn": "Beast Bond",
+  "level": 1,
+  "school": "Прорицание",
+  "ritual": false,
+  "alternative": true,
+  "classes": [
+    "Друид",
+    "Следопыт"
+  ],
+  "castingTime": "1 действие",
+  "range": "Касание",
+  "components": "В, С, М (слюна — ваша и цели)",
+  "duration": "1 час",
+  "descriptionMarkdown": "Вы касаетесь Зверя, который дружелюбен к вам или очарован вами, и устанавливаете с ним мысленную связь. Заклинание автоматически проваливается, если Интеллект Зверя равен 4 или выше.\n\nПока длится заклинание, ваши разумы связаны, если вы видите друг друга. Через эту связь вы можете общаться телепатически, даже не имея общего языка. Кроме того, связь даёт Зверю преимущество к броскам атаки по любой видимой вам цели в пределах 5 футов от вас.\n\nЕсли вы наложите это заклинание на другого Зверя, предыдущие наложения немедленно рассеиваются.",
+  "originalText": "Beast Bond ALT\n1st-level Divination\nClasses: Druid, Ranger\nCasting Time: 1 action\nRange: Touch\nComponents: V, S, M (saliva from both you and the target)\nDuration: 1 hour\nYou touch a Beast that is either Friendly or Charmed by you\nand establish a mental link with it. This spell automatically\nfails if the Beast's Intelligence is 4 or higher.\nFor the duration, your minds are linked so long as you can\nsee each other. You can communicate telepathically through\nthis link, even if you do not share a language. Lastly, the link\ngrants the Beast advantage on attack rolls against any target\nyou can see within 5 feet of you.\nIf you cast this spell on another Beast, previous instances\nof this spell are immediately dispelled."
+}

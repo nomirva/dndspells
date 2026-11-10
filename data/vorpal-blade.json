@@ -1,0 +1,19 @@
+{
+  "id": "7e571a57-1033-4329-a2d5-f862e2d49a01",
+  "nameRu": "Стрижающий клинок",
+  "nameEn": "Vorpal Blade",
+  "level": 5,
+  "school": "Преобразование",
+  "ritual": false,
+  "alternative": false,
+  "classes": [
+    "Магус",
+    "Паладин"
+  ],
+  "castingTime": "1 атака",
+  "range": "Касание",
+  "components": "В, С, М (кость пальца некроманта)",
+  "duration": "Мгновенная",
+  "descriptionMarkdown": "Вы создаёте в свободной руке клинок чистой негативной энергии и совершаете одну рукопашную атаку оружием по существу в пределах досягаемости, пытаясь обезглавить его. При попадании оно получает урон силовым полем, равный 6d8 + ваш модификатор заклинательной характеристики.\n\nЕсли после этого у цели остаётся 50 хитов или меньше, вы мгновенно отсекаете одну выбранную её голову. Существо мгновенно умирает, если не может жить без потерянной головы. Голова не отсекается, если цель невосприимчива к рубящему урону либо у неё нет головы или она ей не нужна.",
+  "originalText": "Vorpal Blade\n5th-level Transmutation\nClasses: Magus, Paladin\nCasting Time: 1 attack\nRange: Touch\nComponents: V, S, M (the finger bone of a necromancer)\nDuration: Instantaneous\nYou conjure a blade of pure negative energy in your empty\nhand and make one melee weapon attack against a creature\nwithin your reach, attempting to behead it. On hit, it takes\nforce damage equal to 6d8 + your spellcasting modifier.\nIf this damage reduces the creature to 50 hit points or\nfewer, you instantly cut off one of its heads of your choice\nThe creature instantly dies if it cannot survive without the\nlost head. The creature's head is not removed if it is immune\nto slashing damage, or if it doesn't have or need a head."
+}
