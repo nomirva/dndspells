@@ -19,8 +19,8 @@ for (const file of output) {
   }
 }
 
-const dist = fileURLToPath(new URL('../dist/', import.meta.url));
-await rm(dist, { recursive: true, force: true });
-await mkdir(dist, { recursive: true });
-await writeFile(`${dist}/index.html`, html);
-console.log('Built dist/index.html with inline CSS, JavaScript and spells.');
+const docs = fileURLToPath(new URL('../docs/', import.meta.url));
+await rm(docs, { recursive: true, force: true });
+await mkdir(docs, { recursive: true });
+await writeFile(`${docs}/index.html`, html);
+console.log('Built docs/index.html with inline CSS, JavaScript and spells.');
