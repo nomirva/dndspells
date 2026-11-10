@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "bun scripts/build.js",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
